@@ -1,4 +1,4 @@
-# comichron-monthly-data
+# comichron-data/api
 
 JSON api for monthly sales data from comichron.com
 
