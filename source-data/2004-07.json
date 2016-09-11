@@ -1,0 +1,2585 @@
+[
+  {
+    "rank": 1,
+    "title": "Superman/Batman",
+    "id": "supermanbatman",
+    "issue": 11,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 143720
+  },
+  {
+    "rank": 2,
+    "title": "Superman",
+    "id": "superman",
+    "issue": 207,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 138991
+  },
+  {
+    "rank": 3,
+    "title": "Identity Crisis",
+    "id": "identity-crisis",
+    "issue": 2,
+    "price": "$3.95",
+    "publisher": "DC",
+    "count": 129859
+  },
+  {
+    "rank": 4,
+    "title": "Astonishing X-Men",
+    "id": "astonishing-x-men",
+    "issue": 3,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 129369
+  },
+  {
+    "rank": 5,
+    "title": "Avengers",
+    "id": "avengers",
+    "issue": 500,
+    "price": "$3.50",
+    "publisher": "Marvel",
+    "count": 105622
+  },
+  {
+    "rank": 6,
+    "title": "Ultimate Spider-Man",
+    "id": "ultimate-spider-man",
+    "issue": 62,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 98968
+  },
+  {
+    "rank": 7,
+    "title": "Uncanny X-Men",
+    "id": "uncanny-x-men",
+    "issue": 446,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 96966
+  },
+  {
+    "rank": 8,
+    "title": "Ultimate X-Men",
+    "id": "ultimate-x-men",
+    "issue": 49,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 93577
+  },
+  {
+    "rank": 9,
+    "title": "X-Men",
+    "id": "x-men",
+    "issue": 159,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 93169
+  },
+  {
+    "rank": 10,
+    "title": "Ultimate Fantastic Four",
+    "id": "ultimate-fantastic-four",
+    "issue": 9,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 92928
+  },
+  {
+    "rank": 11,
+    "title": "Amazing Spider-Man",
+    "id": "amazing-spider-man",
+    "issue": 510,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 84755
+  },
+  {
+    "rank": 12,
+    "title": "Marvel Knights Spider-Man",
+    "id": "marvel-knights-spider-man",
+    "issue": 4,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 75512
+  },
+  {
+    "rank": 13,
+    "title": "Batman",
+    "id": "batman",
+    "issue": 630,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 69030
+  },
+  {
+    "rank": 14,
+    "title": "Wolverine",
+    "id": "wolverine",
+    "issue": 17,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 66593
+  },
+  {
+    "rank": 15,
+    "title": "Teen Titans",
+    "id": "teen-titans",
+    "issue": 13,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 65661
+  },
+  {
+    "rank": 16,
+    "title": "JLA",
+    "id": "jla",
+    "issue": 101,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 64619
+  },
+  {
+    "rank": 17,
+    "title": "JLA",
+    "id": "jla",
+    "issue": 102,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 63252
+  },
+  {
+    "rank": 18,
+    "title": "Supreme Power",
+    "id": "supreme-power",
+    "issue": 11,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 63010
+  },
+  {
+    "rank": 19,
+    "title": "Excalibur",
+    "id": "excalibur",
+    "issue": 3,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 57743
+  },
+  {
+    "rank": 20,
+    "title": "Venom Vs Carnage",
+    "id": "venom-vs-carnage",
+    "issue": 1,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 56798
+  },
+  {
+    "rank": 21,
+    "title": "New X-Men",
+    "id": "new-x-men",
+    "issue": 3,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 55307
+  },
+  {
+    "rank": 22,
+    "title": "Justice League Elite",
+    "id": "justice-league-elite",
+    "issue": 1,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 53850
+  },
+  {
+    "rank": 23,
+    "title": "Daredevil",
+    "id": "daredevil",
+    "issue": 62,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 52939
+  },
+  {
+    "rank": 24,
+    "title": "Army of Darkness Ashes 2 Ashes",
+    "id": "army-of-darkness-ashes-2-ashes",
+    "issue": 1,
+    "price": "$2.99",
+    "publisher": "Dynamic Forces",
+    "count": 52007
+  },
+  {
+    "rank": 25,
+    "title": "Spectacular Spider-Man",
+    "id": "spectacular-spider-man",
+    "issue": 17,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 51337
+  },
+  {
+    "rank": 26,
+    "title": "Rogue",
+    "id": "rogue",
+    "issue": 1,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 50730
+  },
+  {
+    "rank": 27,
+    "title": "Fantastic Four",
+    "id": "fantastic-four",
+    "issue": 516,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 48583
+  },
+  {
+    "rank": 28,
+    "title": "Fantastic Four",
+    "id": "fantastic-four",
+    "issue": 515,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 48452
+  },
+  {
+    "rank": 29,
+    "title": "Conan",
+    "id": "conan",
+    "issue": 6,
+    "price": "$2.99",
+    "publisher": "Dark Horse",
+    "count": 48342
+  },
+  {
+    "rank": 30,
+    "title": "Punisher",
+    "id": "punisher",
+    "issue": 9,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 46885
+  },
+  {
+    "rank": 31,
+    "title": "Invaders",
+    "id": "invaders",
+    "issue": 0,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 46540
+  },
+  {
+    "rank": 32,
+    "title": "Action Comics",
+    "id": "action-comics",
+    "issue": 817,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 45180
+  },
+  {
+    "rank": 33,
+    "title": "Incredible Hulk",
+    "id": "incredible-hulk",
+    "issue": 74,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 43385
+  },
+  {
+    "rank": 34,
+    "title": "Marvel Knights 4",
+    "id": "marvel-knights-4",
+    "issue": 7,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 43012
+  },
+  {
+    "rank": 35,
+    "title": "Outsiders",
+    "id": "outsiders",
+    "issue": 14,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 41956
+  },
+  {
+    "rank": 36,
+    "title": "JSA",
+    "id": "jsa",
+    "issue": 63,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 41597
+  },
+  {
+    "rank": 37,
+    "title": "Marvel Knights 4",
+    "id": "marvel-knights-4",
+    "issue": 8,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 41314
+  },
+  {
+    "rank": 38,
+    "title": "Adventures of Superman",
+    "id": "adventures-of-superman",
+    "issue": 630,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 40728
+  },
+  {
+    "rank": 39,
+    "title": "Powers",
+    "id": "powers",
+    "issue": 1,
+    "price": "$2.95",
+    "publisher": "Marvel",
+    "count": 40389
+  },
+  {
+    "rank": 40,
+    "title": "Captain America",
+    "id": "captain-america",
+    "issue": 29,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 40224
+  },
+  {
+    "rank": 41,
+    "title": "Flash",
+    "id": "flash",
+    "issue": 212,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 40058
+  },
+  {
+    "rank": 42,
+    "title": "Pulse",
+    "id": "pulse",
+    "issue": 4,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 39885
+  },
+  {
+    "rank": 43,
+    "title": "JLA Another Nail",
+    "id": "jla-another-nail",
+    "issue": 3,
+    "price": "$5.95",
+    "publisher": "DC",
+    "count": 37863
+  },
+  {
+    "rank": 44,
+    "title": "Robin",
+    "id": "robin",
+    "issue": 128,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 37255
+  },
+  {
+    "rank": 45,
+    "title": "Exiles",
+    "id": "exiles",
+    "issue": 49,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 37186
+  },
+  {
+    "rank": 46,
+    "title": "Batman Gotham Knights",
+    "id": "batman-gotham-knights",
+    "issue": 55,
+    "price": "$3.75",
+    "publisher": "DC",
+    "count": 37021
+  },
+  {
+    "rank": 47,
+    "title": "Detective Comics",
+    "id": "detective-comics",
+    "issue": 796,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 36807
+  },
+  {
+    "rank": 48,
+    "title": "Identity Disc",
+    "id": "identity-disc",
+    "issue": 2,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 36337
+  },
+  {
+    "rank": 49,
+    "title": "Transformers Generation One Vol. 3",
+    "id": "transformers-generation-one-vol-3",
+    "issue": 6,
+    "price": "$2.95",
+    "publisher": "Dreamwave",
+    "count": 36213
+  },
+  {
+    "rank": 50,
+    "title": "Thor",
+    "id": "thor",
+    "issue": 82,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 36096
+  },
+  {
+    "rank": 51,
+    "title": "Green Lantern",
+    "id": "green-lantern",
+    "issue": 179,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 35564
+  },
+  {
+    "rank": 52,
+    "title": "Powerless",
+    "id": "powerless",
+    "issue": 2,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 34805
+  },
+  {
+    "rank": 53,
+    "title": "Spawn",
+    "id": "spawn",
+    "issue": 136,
+    "price": "$2.50",
+    "publisher": "Image",
+    "count": 34618
+  },
+  {
+    "rank": 54,
+    "title": "Iron Man",
+    "id": "iron-man",
+    "issue": 86,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 34522
+  },
+  {
+    "rank": 55,
+    "title": "Powers",
+    "id": "powers",
+    "issue": 2,
+    "price": "$2.95",
+    "publisher": "Marvel",
+    "count": 34363
+  },
+  {
+    "rank": 56,
+    "title": "Loki",
+    "id": "loki",
+    "issue": 1,
+    "price": "$3.50",
+    "publisher": "Marvel",
+    "count": 34197
+  },
+  {
+    "rank": 57,
+    "title": "Superman Birthright",
+    "id": "superman-birthright",
+    "issue": 12,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 33887
+  },
+  {
+    "rank": 58,
+    "title": "Doom Patrol",
+    "id": "doom-patrol",
+    "issue": 2,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 33597
+  },
+  {
+    "rank": 59,
+    "title": "District X",
+    "id": "district-x",
+    "issue": 3,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 33259
+  },
+  {
+    "rank": 60,
+    "title": "Green Arrow",
+    "id": "green-arrow",
+    "issue": 40,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 32637
+  },
+  {
+    "rank": 61,
+    "title": "Cable/Deadpool",
+    "id": "cabledeadpool",
+    "issue": 5,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 32596
+  },
+  {
+    "rank": 62,
+    "title": "Planetary",
+    "id": "planetary",
+    "issue": 20,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 32527
+  },
+  {
+    "rank": 63,
+    "title": "Birds of Prey",
+    "id": "birds-of-prey",
+    "issue": 69,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 31906
+  },
+  {
+    "rank": 64,
+    "title": "Birds of Prey",
+    "id": "birds-of-prey",
+    "issue": 70,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 31685
+  },
+  {
+    "rank": 65,
+    "title": "Captain America & Falcon",
+    "id": "captain-america-falcon",
+    "issue": 5,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 31022
+  },
+  {
+    "rank": 66,
+    "title": "Firestorm",
+    "id": "firestorm",
+    "issue": 3,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 31001
+  },
+  {
+    "rank": 67,
+    "title": "Loki",
+    "id": "loki",
+    "issue": 2,
+    "price": "$3.50",
+    "publisher": "Marvel",
+    "count": 30987
+  },
+  {
+    "rank": 68,
+    "title": "DC Comics Presents Batman",
+    "id": "dc-comics-presents-batman",
+    "issue": 1,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 30760
+  },
+  {
+    "rank": 69,
+    "title": "Nightwing",
+    "id": "nightwing",
+    "issue": 95,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 30394
+  },
+  {
+    "rank": 70,
+    "title": "Transformers Micromasters",
+    "id": "transformers-micromasters",
+    "issue": 1,
+    "price": "$2.95",
+    "publisher": "Dreamwave",
+    "count": 29745
+  },
+  {
+    "rank": 71,
+    "title": "Emma Frost",
+    "id": "emma-frost",
+    "issue": 13,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 29448
+  },
+  {
+    "rank": 73,
+    "title": "Wonder Woman",
+    "id": "wonder-woman",
+    "issue": 206,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 28040
+  },
+  {
+    "rank": 74,
+    "title": "G.I. Joe",
+    "id": "gi-joe",
+    "issue": 32,
+    "price": "$2.95",
+    "publisher": "Devil's Due",
+    "count": 27909
+  },
+  {
+    "rank": 75,
+    "title": "Books of Magick Life During Wartime",
+    "id": "books-of-magick-life-during-wartime",
+    "issue": 1,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 27750
+  },
+  {
+    "rank": 76,
+    "title": "DC Comics Presents Green Lantern",
+    "id": "dc-comics-presents-green-lantern",
+    "issue": 1,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 27101
+  },
+  {
+    "rank": 77,
+    "title": "Starjammers",
+    "id": "starjammers",
+    "issue": 1,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 27018
+  },
+  {
+    "rank": 78,
+    "title": "DC Comics Presents Mystery I/Space",
+    "id": "dc-comics-presents-mystery-ispace",
+    "issue": 1,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 26991
+  },
+  {
+    "rank": 79,
+    "title": "Alpha Flight",
+    "id": "alpha-flight",
+    "issue": 5,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 26880
+  },
+  {
+    "rank": 80,
+    "title": "Mystique",
+    "id": "mystique",
+    "issue": 17,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 26708
+  },
+  {
+    "rank": 81,
+    "title": "Y The Last Man",
+    "id": "y-the-last-man",
+    "issue": 24,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 26632
+  },
+  {
+    "rank": 82,
+    "title": "Spider-Man Unlimited",
+    "id": "spider-man-unlimited",
+    "issue": 4,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 26507
+  },
+  {
+    "rank": 83,
+    "title": "Thanos",
+    "id": "thanos",
+    "issue": 12,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 26287
+  },
+  {
+    "rank": 84,
+    "title": "Batgirl",
+    "id": "batgirl",
+    "issue": 54,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 25907
+  },
+  {
+    "rank": 85,
+    "title": "Weapon X",
+    "id": "weapon-x",
+    "issue": 26,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 25824
+  },
+  {
+    "rank": 86,
+    "title": "She Hulk",
+    "id": "she-hulk",
+    "issue": 5,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 25790
+  },
+  {
+    "rank": 87,
+    "title": "Man Thing",
+    "id": "man-thing",
+    "issue": 1,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 25686
+  },
+  {
+    "rank": 88,
+    "title": "Hawkman",
+    "id": "hawkman",
+    "issue": 30,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 25403
+  },
+  {
+    "rank": 89,
+    "title": "DC New Frontier",
+    "id": "dc-new-frontier",
+    "issue": 5,
+    "price": "$6.95",
+    "publisher": "DC",
+    "count": 25334
+  },
+  {
+    "rank": 90,
+    "title": "DC Comics Presents Hawkman",
+    "id": "dc-comics-presents-hawkman",
+    "issue": 1,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 25313
+  },
+  {
+    "rank": 91,
+    "title": "Kabuki",
+    "id": "kabuki",
+    "issue": 1,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 25306
+  },
+  {
+    "rank": 92,
+    "title": "Fables",
+    "id": "fables",
+    "issue": 27,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 25148
+  },
+  {
+    "rank": 93,
+    "title": "Batman Legends of the Dark Knight",
+    "id": "batman-legends-of-the-dark-knight",
+    "issue": 181,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 24961
+  },
+  {
+    "rank": 94,
+    "title": "Venom",
+    "id": "venom",
+    "issue": 17,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 24865
+  },
+  {
+    "rank": 95,
+    "title": "Scratch",
+    "id": "scratch",
+    "issue": 2,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 24533
+  },
+  {
+    "rank": 96,
+    "title": "Aquaman",
+    "id": "aquaman",
+    "issue": 20,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 24409
+  },
+  {
+    "rank": 97,
+    "title": "Legion",
+    "id": "legion",
+    "issue": 35,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 24209
+  },
+  {
+    "rank": 98,
+    "title": "Catwoman",
+    "id": "catwoman",
+    "issue": 33,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 24009
+  },
+  {
+    "rank": 99,
+    "title": "Legion",
+    "id": "legion",
+    "issue": 36,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 23719
+  },
+  {
+    "rank": 100,
+    "title": "Starjammers",
+    "id": "starjammers",
+    "issue": 2,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 23705
+  },
+  {
+    "rank": 101,
+    "title": "X-Statix",
+    "id": "x-statix",
+    "issue": 25,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 23449
+  },
+  {
+    "rank": 102,
+    "title": "Transformers Energon",
+    "id": "transformers-energon",
+    "issue": 25,
+    "price": "$2.95",
+    "publisher": "Dreamwave",
+    "count": 23360
+  },
+  {
+    "rank": 103,
+    "title": "G.I. Joe Reloaded",
+    "id": "gi-joe-reloaded",
+    "issue": 5,
+    "price": "$2.95",
+    "publisher": "Devil's Due",
+    "count": 22925
+  },
+  {
+    "rank": 104,
+    "title": "Spider-Girl",
+    "id": "spider-girl",
+    "issue": 76,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 22159
+  },
+  {
+    "rank": 105,
+    "title": "Witches",
+    "id": "witches",
+    "issue": 3,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 22131
+  },
+  {
+    "rank": 106,
+    "title": "Silver Surfer",
+    "id": "silver-surfer",
+    "issue": 11,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 22027
+  },
+  {
+    "rank": 107,
+    "title": "Mary Jane",
+    "id": "mary-jane",
+    "issue": 2,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 21620
+  },
+  {
+    "rank": 108,
+    "title": "Swamp Thing",
+    "id": "swamp-thing",
+    "issue": 5,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 21620
+  },
+  {
+    "rank": 109,
+    "title": "Ex Machina",
+    "id": "ex-machina",
+    "issue": 2,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 21351
+  },
+  {
+    "rank": 110,
+    "title": "Captain Marvel",
+    "id": "captain-marvel",
+    "issue": 25,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 21158
+  },
+  {
+    "rank": 111,
+    "title": "Witches",
+    "id": "witches",
+    "issue": 4,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 20875
+  },
+  {
+    "rank": 113,
+    "title": "Guardians",
+    "id": "guardians",
+    "issue": 1,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 20529
+  },
+  {
+    "rank": 114,
+    "title": "Transformers Energon",
+    "id": "transformers-energon",
+    "issue": 26,
+    "price": "$2.95",
+    "publisher": "Dreamwave",
+    "count": 20322
+  },
+  {
+    "rank": 115,
+    "title": "Challengers of the Unknown",
+    "id": "challengers-of-the-unknown",
+    "issue": 2,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 20184
+  },
+  {
+    "rank": 116,
+    "title": "Iron Fist",
+    "id": "iron-fist",
+    "issue": 5,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 19777
+  },
+  {
+    "rank": 117,
+    "title": "Thor Son of Asgard",
+    "id": "thor-son-of-asgard",
+    "issue": 6,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 19446
+  },
+  {
+    "rank": 118,
+    "title": "Bite Club",
+    "id": "bite-club",
+    "issue": 4,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 19308
+  },
+  {
+    "rank": 119,
+    "title": "Star Wars Empire",
+    "id": "star-wars-empire",
+    "issue": 22,
+    "price": "$2.99",
+    "publisher": "Dark Horse",
+    "count": 19287
+  },
+  {
+    "rank": 120,
+    "title": "Fathom Cannon Hawke",
+    "id": "fathom-cannon-hawke",
+    "issue": 0,
+    "price": "$2.50",
+    "publisher": "Aspen",
+    "count": 19114
+  },
+  {
+    "rank": 121,
+    "title": "Marvel Age Spider-Man",
+    "id": "marvel-age-spider-man",
+    "issue": 7,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 17651
+  },
+  {
+    "rank": 122,
+    "title": "BPRD Plague of Frogs",
+    "id": "bprd-plague-of-frogs",
+    "issue": 5,
+    "price": "$2.99",
+    "publisher": "Dark Horse",
+    "count": 17278
+  },
+  {
+    "rank": 123,
+    "title": "Marvel Age Spider-Man",
+    "id": "marvel-age-spider-man",
+    "issue": 8,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 17244
+  },
+  {
+    "rank": 124,
+    "title": "100 Bullets",
+    "id": "100-bullets",
+    "issue": 51,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 16961
+  },
+  {
+    "rank": 126,
+    "title": "Witchblade",
+    "id": "witchblade",
+    "issue": 77,
+    "price": "$2.99",
+    "publisher": "Image",
+    "count": 16754
+  },
+  {
+    "rank": 127,
+    "title": "Gotham Central",
+    "id": "gotham-central",
+    "issue": 21,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 16705
+  },
+  {
+    "rank": 128,
+    "title": "Dawn Three Tiers",
+    "id": "dawn-three-tiers",
+    "issue": 4,
+    "price": "$2.95",
+    "publisher": "Image",
+    "count": 16609
+  },
+  {
+    "rank": 129,
+    "title": "Seaguy",
+    "id": "seaguy",
+    "issue": 3,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 16602
+  },
+  {
+    "rank": 130,
+    "title": "Witching",
+    "id": "witching",
+    "issue": 2,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 15773
+  },
+  {
+    "rank": 131,
+    "title": "Tomb Raider",
+    "id": "tomb-raider",
+    "issue": 44,
+    "price": "$2.99",
+    "publisher": "Image",
+    "count": 15732
+  },
+  {
+    "rank": 132,
+    "title": "Richard Dragon",
+    "id": "richard-dragon",
+    "issue": 3,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 15442
+  },
+  {
+    "rank": 133,
+    "title": "30 Days of Night Return To Barrow",
+    "id": "30-days-of-night-return-to-barrow",
+    "issue": 5,
+    "price": "$3.99",
+    "publisher": "IDW",
+    "count": 15366
+  },
+  {
+    "rank": 134,
+    "title": "Shi Ju Nen",
+    "id": "shi-ju-nen",
+    "issue": 1,
+    "price": "$2.99",
+    "publisher": "Dark Horse",
+    "count": 15318
+  },
+  {
+    "rank": 135,
+    "title": "Tom Strong",
+    "id": "tom-strong",
+    "issue": 27,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 15159
+  },
+  {
+    "rank": 136,
+    "title": "Thundercats Enemys Pride",
+    "id": "thundercats-enemys-pride",
+    "issue": 2,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 14862
+  },
+  {
+    "rank": 137,
+    "title": "Hellblazer",
+    "id": "hellblazer",
+    "issue": 198,
+    "price": "$2.75",
+    "publisher": "DC",
+    "count": 14772
+  },
+  {
+    "rank": 138,
+    "title": "Tom Strongs Terrific Tales",
+    "id": "tom-strongs-terrific-tales",
+    "issue": 11,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 14199
+  },
+  {
+    "rank": 140,
+    "title": "Teen Titans Go",
+    "id": "teen-titans-go",
+    "issue": 9,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 14068
+  },
+  {
+    "rank": 141,
+    "title": "Hero",
+    "id": "hero",
+    "issue": 18,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 13827
+  },
+  {
+    "rank": 142,
+    "title": "Wildcats Version 3.0",
+    "id": "wildcats-version-30",
+    "issue": 23,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 13482
+  },
+  {
+    "rank": 144,
+    "title": "Bloodhound",
+    "id": "bloodhound",
+    "issue": 1,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 13095
+  },
+  {
+    "rank": 145,
+    "title": "Marvel Age Fantastic Four",
+    "id": "marvel-age-fantastic-four",
+    "issue": 4,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 13040
+  },
+  {
+    "rank": 146,
+    "title": "Lucifer",
+    "id": "lucifer",
+    "issue": 52,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 12957
+  },
+  {
+    "rank": 147,
+    "title": "Plastic Man",
+    "id": "plastic-man",
+    "issue": 8,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 12784
+  },
+  {
+    "rank": 148,
+    "title": "Smallville",
+    "id": "smallville",
+    "issue": 9,
+    "price": "$3.95",
+    "publisher": "DC",
+    "count": 12764
+  },
+  {
+    "rank": 149,
+    "title": "Simpsons Comics",
+    "id": "simpsons-comics",
+    "issue": 96,
+    "price": "$2.99",
+    "publisher": "Bongo",
+    "count": 12591
+  },
+  {
+    "rank": 150,
+    "title": "Masters of the Universe Vol. 3",
+    "id": "masters-of-the-universe-vol-3",
+    "issue": 4,
+    "price": "$2.95",
+    "publisher": "MV Creations",
+    "count": 12543
+  },
+  {
+    "rank": 151,
+    "title": "Strykeforce",
+    "id": "strykeforce",
+    "issue": 4,
+    "price": "$2.99",
+    "publisher": "Image",
+    "count": 12522
+  },
+  {
+    "rank": 152,
+    "title": "Batman Adventures",
+    "id": "batman-adventures",
+    "issue": 16,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 12329
+  },
+  {
+    "rank": 155,
+    "title": "Sleeper Season 2",
+    "id": "sleeper-season-2",
+    "issue": 2,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 12115
+  },
+  {
+    "rank": 156,
+    "title": "Action Comics",
+    "id": "action-comics",
+    "issue": 775,
+    "price": "$3.75",
+    "publisher": "DC",
+    "count": 11935
+  },
+  {
+    "rank": 157,
+    "title": "Justice League Adventures",
+    "id": "justice-league-adventures",
+    "issue": 33,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 11866
+  },
+  {
+    "rank": 158,
+    "title": "Red Star Vol. 2",
+    "id": "red-star-vol-2",
+    "issue": 5,
+    "price": "$2.99",
+    "publisher": "Archie",
+    "count": 11846
+  },
+  {
+    "rank": 159,
+    "title": "Lenore",
+    "id": "lenore",
+    "issue": 11,
+    "price": "$2.95",
+    "publisher": "Slave Labor",
+    "count": 11438
+  },
+  {
+    "rank": 160,
+    "title": "Walking Dead",
+    "id": "walking-dead",
+    "issue": 9,
+    "price": "$2.95",
+    "publisher": "Image",
+    "count": 11286
+  },
+  {
+    "rank": 161,
+    "title": "Monolith",
+    "id": "monolith",
+    "issue": 6,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 11266
+  },
+  {
+    "rank": 162,
+    "title": "Amazing Spider-Man",
+    "id": "amazing-spider-man",
+    "issue": 509,
+    "price": "$3.99",
+    "publisher": "Marvel",
+    "count": 11190
+  },
+  {
+    "rank": 163,
+    "title": "Nail",
+    "id": "nail",
+    "issue": 2,
+    "price": "$2.99",
+    "publisher": "Dark Horse",
+    "count": 11017
+  },
+  {
+    "rank": 164,
+    "title": "Freaks of the Heartland",
+    "id": "freaks-of-the-heartland",
+    "issue": 4,
+    "price": "$2.99",
+    "publisher": "Dark Horse",
+    "count": 10934
+  },
+  {
+    "rank": 165,
+    "title": "Frank Millers Robocop",
+    "id": "frank-millers-robocop",
+    "issue": 6,
+    "price": "$3.99",
+    "publisher": "Avatar",
+    "count": 10900
+  },
+  {
+    "rank": 166,
+    "title": "Tarot Witch of the Black Rose",
+    "id": "tarot-witch-of-the-black-rose",
+    "issue": 27,
+    "price": "$2.95",
+    "publisher": "Broadsword",
+    "count": 10769
+  },
+  {
+    "rank": 167,
+    "title": "Losers",
+    "id": "losers",
+    "issue": 14,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 10631
+  },
+  {
+    "rank": 168,
+    "title": "Fallen Angel",
+    "id": "fallen-angel",
+    "issue": 13,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 10299
+  },
+  {
+    "rank": 169,
+    "title": "Voltron Vol. 2",
+    "id": "voltron-vol-2",
+    "issue": 7,
+    "price": "$2.95",
+    "publisher": "Devil's Due",
+    "count": 9996
+  },
+  {
+    "rank": 170,
+    "title": "Strangers in Paradise Vol. III",
+    "id": "strangers-in-paradise-vol-iii",
+    "issue": 67,
+    "price": "$2.95",
+    "publisher": "Abstract",
+    "count": 9933
+  },
+  {
+    "rank": 171,
+    "title": "Hard Time",
+    "id": "hard-time",
+    "issue": 6,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 9354
+  },
+  {
+    "rank": 172,
+    "title": "Singularity 7",
+    "id": "singularity-7",
+    "issue": 1,
+    "price": "$3.99",
+    "publisher": "IDW",
+    "count": 9285
+  },
+  {
+    "rank": 173,
+    "title": "Savage Dragon",
+    "id": "savage-dragon",
+    "issue": 115,
+    "price": "$7.95",
+    "publisher": "Image",
+    "count": 9271
+  },
+  {
+    "rank": 174,
+    "title": "Last Train To Deadsville Cal Mcdonald Mystery",
+    "id": "last-train-to-deadsville-calmcdonald-mystery",
+    "issue": 3,
+    "price": "$2.99",
+    "publisher": "Dark Horse",
+    "count": 9215
+  },
+  {
+    "rank": 175,
+    "title": "Human Target",
+    "id": "human-target",
+    "issue": 12,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 9140
+  },
+  {
+    "rank": 176,
+    "title": "Futurama Comics",
+    "id": "futurama-comics",
+    "issue": 18,
+    "price": "$2.99",
+    "publisher": "Bongo",
+    "count": 9112
+  },
+  {
+    "rank": 177,
+    "title": "Rob Zombie Spook Show Intl",
+    "id": "rob-zombie-spook-show-intl",
+    "issue": 9,
+    "price": "$2.95",
+    "publisher": "MV Creations",
+    "count": 8960
+  },
+  {
+    "rank": 178,
+    "title": "Ultimate Spider-Man",
+    "id": "ultimate-spider-man",
+    "issue": 54,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 8739
+  },
+  {
+    "rank": 179,
+    "title": "Sonic The Hedgehog",
+    "id": "sonic-the-hedgehog",
+    "issue": 138,
+    "price": "$2.19",
+    "publisher": "Archie",
+    "count": 8373
+  },
+  {
+    "rank": 180,
+    "title": "Eightball",
+    "id": "eightball",
+    "issue": 23,
+    "price": "$7.00",
+    "publisher": "Fantagraphics",
+    "count": 8035
+  },
+  {
+    "rank": 181,
+    "title": "Remains",
+    "id": "remains",
+    "issue": 3,
+    "price": "$3.99",
+    "publisher": "IDW",
+    "count": 7911
+  },
+  {
+    "rank": 182,
+    "title": "Ghostbusters Legion",
+    "id": "ghostbusters-legion",
+    "issue": 2,
+    "price": "$2.95",
+    "publisher": "Eightball",
+    "count": 7883
+  },
+  {
+    "rank": 183,
+    "title": "Caper",
+    "id": "caper",
+    "issue": 10,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 7676
+  },
+  {
+    "rank": 184,
+    "title": "Michael Chabon Presents Adventures of the Escapist",
+    "id": "michael-chabon-presents-adventuresof-the-escapist",
+    "issue": 3,
+    "price": "$8.95",
+    "publisher": "Dark Horse",
+    "count": 7566
+  },
+  {
+    "rank": 185,
+    "title": "Kinetic",
+    "id": "kinetic",
+    "issue": 5,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 7531
+  },
+  {
+    "rank": 186,
+    "title": "Casefiles Sam & Twitch",
+    "id": "casefiles-sam-twitch",
+    "issue": 9,
+    "price": "$2.50",
+    "publisher": "Image",
+    "count": 7469
+  },
+  {
+    "rank": 187,
+    "title": "Vampi Vicious Circle",
+    "id": "vampi-vicious-circle",
+    "issue": 1,
+    "price": "$2.99",
+    "publisher": "Harris",
+    "count": 7124
+  },
+  {
+    "rank": 188,
+    "title": "24 One-Shot",
+    "id": "24-one-shot",
+    "issue": 1,
+    "price": "$6.99",
+    "publisher": "IDW",
+    "count": 7041
+  },
+  {
+    "rank": 190,
+    "title": "Usagi Yojimbo",
+    "id": "usagi-yojimbo",
+    "issue": 76,
+    "price": "$2.99",
+    "publisher": "Dark Horse",
+    "count": 6813
+  },
+  {
+    "rank": 191,
+    "title": "Usagi Yojimbo",
+    "id": "usagi-yojimbo",
+    "issue": 77,
+    "price": "$2.99",
+    "publisher": "Dark Horse",
+    "count": 6772
+  },
+  {
+    "rank": 192,
+    "title": "Fraction",
+    "id": "fraction",
+    "issue": 4,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 6606
+  },
+  {
+    "rank": 193,
+    "title": "CSI Demon House",
+    "id": "csi-demon-house",
+    "issue": 5,
+    "price": "$3.99",
+    "publisher": "IDW",
+    "count": 6599
+  },
+  {
+    "rank": 194,
+    "title": "Milkman Murders",
+    "id": "milkman-murders",
+    "issue": 1,
+    "price": "$2.99",
+    "publisher": "Dark Horse",
+    "count": 6579
+  },
+  {
+    "rank": 196,
+    "title": "Powerpuff Girls",
+    "id": "powerpuff-girls",
+    "issue": 52,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 6054
+  },
+  {
+    "rank": 198,
+    "title": "Touch",
+    "id": "touch",
+    "issue": 4,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 6054
+  },
+  {
+    "rank": 199,
+    "title": "Knights of the Dinner Table",
+    "id": "knights-of-the-dinner-table",
+    "issue": 93,
+    "price": "$3.99",
+    "publisher": "Kenzer",
+    "count": 6033
+  },
+  {
+    "rank": 200,
+    "title": "Identity Crisis",
+    "id": "identity-crisis",
+    "issue": 1,
+    "price": "$3.95",
+    "publisher": "DC",
+    "count": 5902
+  },
+  {
+    "rank": 201,
+    "title": "Rex Mundi",
+    "id": "rex-mundi",
+    "issue": 11,
+    "price": "$2.95",
+    "publisher": "Image",
+    "count": 5840
+  },
+  {
+    "rank": 202,
+    "title": "Stray Bullets",
+    "id": "stray-bullets",
+    "issue": 34,
+    "price": "$3.50",
+    "publisher": "El Capitan",
+    "count": 5792
+  },
+  {
+    "rank": 203,
+    "title": "Scooby Doo",
+    "id": "scooby-doo",
+    "issue": 86,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 5536
+  },
+  {
+    "rank": 204,
+    "title": "Uncle Scrooge",
+    "id": "uncle-scrooge",
+    "issue": 332,
+    "price": "$6.95",
+    "publisher": "Gemstone",
+    "count": 5405
+  },
+  {
+    "rank": 205,
+    "title": "Normalman 20th Annv Sp One-Shot",
+    "id": "normalman-20th-annv-sp-one-shot",
+    "issue": 1,
+    "price": "$2.95",
+    "publisher": "Image",
+    "count": 5329
+  },
+  {
+    "rank": 206,
+    "title": "Aleister Arcane",
+    "id": "aleister-arcane",
+    "issue": 3,
+    "price": "$3.99",
+    "publisher": "IDW",
+    "count": 5267
+  },
+  {
+    "rank": 207,
+    "title": "Oh My Goddess",
+    "id": "oh-my-goddess",
+    "issue": 110,
+    "price": "$2.99",
+    "publisher": "Dark Horse",
+    "count": 5246
+  },
+  {
+    "rank": 208,
+    "title": "Blade of the Immortal",
+    "id": "blade-of-the-immortal",
+    "issue": 91,
+    "price": "$3.50",
+    "publisher": "Dark Horse",
+    "count": 5122
+  },
+  {
+    "rank": 209,
+    "title": "Metal Hurlant",
+    "id": "metal-hurlant",
+    "issue": 12,
+    "price": "$3.95",
+    "publisher": "DC",
+    "count": 5039
+  },
+  {
+    "rank": 210,
+    "title": "Donald Duck & Friends",
+    "id": "donald-duck-friends",
+    "issue": 318,
+    "price": "$2.95",
+    "publisher": "Gemstone",
+    "count": 5012
+  },
+  {
+    "rank": 211,
+    "title": "Fierce",
+    "id": "fierce",
+    "issue": 1,
+    "price": "$2.99",
+    "publisher": "Dark Horse",
+    "count": 5012
+  },
+  {
+    "rank": 212,
+    "title": "Small Gods",
+    "id": "small-gods",
+    "issue": 1,
+    "price": "$2.95",
+    "publisher": "Image",
+    "count": 4680
+  },
+  {
+    "rank": 213,
+    "title": "Mickey Mouse & Friends",
+    "id": "mickey-mouse-friends",
+    "issue": 267,
+    "price": "$2.95",
+    "publisher": "Gemstone",
+    "count": 4653
+  },
+  {
+    "rank": 214,
+    "title": "Tales Of Teenage Mutant Ninja Turtles",
+    "id": "tales-of-teenage-mutant-ninjaturtles",
+    "issue": 4,
+    "price": "$2.95",
+    "publisher": "Mirage",
+    "count": 4404
+  },
+  {
+    "rank": 215,
+    "title": "Walt Disneys Comics & Stories",
+    "id": "walt-disneys-comics-stories",
+    "issue": 647,
+    "price": "$6.95",
+    "publisher": "Gemstone",
+    "count": 4301
+  },
+  {
+    "rank": 216,
+    "title": "Noble Causes Extended Family One-Shot",
+    "id": "noble-causes-extended-familyone-shot",
+    "issue": 2,
+    "price": "$7.95",
+    "publisher": "Image",
+    "count": 4252
+  },
+  {
+    "rank": 217,
+    "title": "Duel Masters",
+    "id": "duel-masters",
+    "issue": 6,
+    "price": "$2.95",
+    "publisher": "Dreamwave",
+    "count": 4238
+  },
+  {
+    "rank": 219,
+    "title": "Bart Simpson Comics",
+    "id": "bart-simpson-comics",
+    "issue": 18,
+    "price": "$2.99",
+    "publisher": "Bongo",
+    "count": 3921
+  },
+  {
+    "rank": 220,
+    "title": "Demo",
+    "id": "demo",
+    "issue": 8,
+    "price": "$2.95",
+    "publisher": "Astronauts in Trouble",
+    "count": 3804
+  },
+  {
+    "rank": 221,
+    "title": "Gold Digger",
+    "id": "gold-digger",
+    "issue": 54,
+    "price": "$2.99",
+    "publisher": "Antarctic",
+    "count": 3769
+  },
+  {
+    "rank": 222,
+    "title": "Super Manga Blast",
+    "id": "super-manga-blast",
+    "issue": 43,
+    "price": "$5.99",
+    "publisher": "Dark Horse",
+    "count": 3741
+  },
+  {
+    "rank": 223,
+    "title": "Olympus Heights",
+    "id": "olympus-heights",
+    "issue": 1,
+    "price": "$3.99",
+    "publisher": "IDW",
+    "count": 3714
+  },
+  {
+    "rank": 224,
+    "title": "Sword of Dracula",
+    "id": "sword-of-dracula",
+    "issue": 5,
+    "price": "$2.95",
+    "publisher": "Image",
+    "count": 3693
+  },
+  {
+    "rank": 225,
+    "title": "Soulfire",
+    "id": "soulfire",
+    "issue": 0,
+    "price": "$2.50",
+    "publisher": "Aspen",
+    "count": 3645
+  },
+  {
+    "rank": 226,
+    "title": "Gift",
+    "id": "gift",
+    "issue": 7,
+    "price": "$2.99",
+    "publisher": "Overcast",
+    "count": 3603
+  },
+  {
+    "rank": 227,
+    "title": "Nyc Mech",
+    "id": "nyc-mech",
+    "issue": 3,
+    "price": "$2.95",
+    "publisher": "Image",
+    "count": 3596
+  },
+  {
+    "rank": 228,
+    "title": "Frankenstein Mobster",
+    "id": "frankenstein-mobster",
+    "issue": 4,
+    "price": "$2.95",
+    "publisher": "Image",
+    "count": 3555
+  },
+  {
+    "rank": 229,
+    "title": "Warren Ellis Strange Killings Necromancer",
+    "id": "warren-ellis-strange-killingsnecromancer",
+    "issue": 3,
+    "price": "$3.50",
+    "publisher": "Avatar",
+    "count": 3534
+  },
+  {
+    "rank": 230,
+    "title": "Dork Tower",
+    "id": "dork-tower",
+    "issue": 28,
+    "price": "$2.99",
+    "publisher": "Dork Storm",
+    "count": 3493
+  },
+  {
+    "rank": 231,
+    "title": "Yuggoth Creatures",
+    "id": "yuggoth-creatures",
+    "issue": 1,
+    "price": "$3.99",
+    "publisher": "Avatar",
+    "count": 3300
+  },
+  {
+    "rank": 232,
+    "title": "Ghost Spy",
+    "id": "ghost-spy",
+    "issue": 2,
+    "price": "$2.95",
+    "publisher": "Image",
+    "count": 3272
+  },
+  {
+    "rank": 233,
+    "title": "Looney Tunes",
+    "id": "looney-tunes",
+    "issue": 116,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 3203
+  },
+  {
+    "rank": 234,
+    "title": "Ghostbusters Legion",
+    "id": "ghostbusters-legion",
+    "issue": 2,
+    "price": "$3.50",
+    "publisher": "Eightball",
+    "count": 3196
+  },
+  {
+    "rank": 235,
+    "title": "El Zombo",
+    "id": "el-zombo",
+    "issue": 3,
+    "price": "$2.99",
+    "publisher": "Dark Horse",
+    "count": 3141
+  },
+  {
+    "rank": 236,
+    "title": "Luba",
+    "id": "luba",
+    "issue": 8,
+    "price": "$3.50",
+    "publisher": "Fantagraphics",
+    "count": 3017
+  },
+  {
+    "rank": 237,
+    "title": "Archie",
+    "id": "archie",
+    "issue": 550,
+    "price": "$2.19",
+    "publisher": "Archie",
+    "count": 3010
+  },
+  {
+    "rank": 238,
+    "title": "Sabrina Vol. 2",
+    "id": "sabrina-vol-2",
+    "issue": 59,
+    "price": "$2.19",
+    "publisher": "Archie",
+    "count": 2948
+  },
+  {
+    "rank": 239,
+    "title": "Autumn",
+    "id": "autumn",
+    "issue": 1,
+    "price": "$2.95",
+    "publisher": "Slave Labor",
+    "count": 2927
+  },
+  {
+    "rank": 240,
+    "title": "Patient Zero",
+    "id": "patient-zero",
+    "issue": 4,
+    "price": "$2.95",
+    "publisher": "Image",
+    "count": 2837
+  },
+  {
+    "rank": 241,
+    "title": "Wanted",
+    "id": "wanted",
+    "issue": 4,
+    "price": "$2.99",
+    "publisher": "Image",
+    "count": 2782
+  },
+  {
+    "rank": 242,
+    "title": "JLA",
+    "id": "jla",
+    "issue": 100,
+    "price": "$3.50",
+    "publisher": "DC",
+    "count": 2706
+  },
+  {
+    "rank": 243,
+    "title": "Ruule Kiss & Tell",
+    "id": "ruule-kiss-tell",
+    "issue": 2,
+    "price": "$1.99",
+    "publisher": "Beckett",
+    "count": 2692
+  },
+  {
+    "rank": 244,
+    "title": "Betty & Veronica",
+    "id": "betty-veronica",
+    "issue": 202,
+    "price": "$2.19",
+    "publisher": "Archie",
+    "count": 2665
+  },
+  {
+    "rank": 245,
+    "title": "Robin",
+    "id": "robin",
+    "issue": 127,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 2644
+  },
+  {
+    "rank": 246,
+    "title": "Betty",
+    "id": "betty",
+    "issue": 139,
+    "price": "$2.19",
+    "publisher": "Archie",
+    "count": 2637
+  },
+  {
+    "rank": 247,
+    "title": "Ex Machina",
+    "id": "ex-machina",
+    "issue": 1,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 2506
+  },
+  {
+    "rank": 248,
+    "title": "Nightjar Hollow Bones",
+    "id": "nightjar-hollow-bones",
+    "issue": 1,
+    "price": "$3.99",
+    "publisher": "Avatar",
+    "count": 2485
+  },
+  {
+    "rank": 249,
+    "title": "Dogwitch",
+    "id": "dogwitch",
+    "issue": 12,
+    "price": "$2.95",
+    "publisher": "Sirius",
+    "count": 2437
+  },
+  {
+    "rank": 250,
+    "title": "Astonishing X-Men",
+    "id": "astonishing-x-men",
+    "issue": 2,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 2375
+  },
+  {
+    "rank": 251,
+    "title": "Betty & Veronica Digest",
+    "id": "betty-veronica-digest",
+    "issue": 149,
+    "price": "$2.39",
+    "publisher": "Archie",
+    "count": 2361
+  },
+  {
+    "rank": 252,
+    "title": "Love Fights",
+    "id": "love-fights",
+    "issue": 11,
+    "price": "$2.99",
+    "publisher": "Oni",
+    "count": 2354
+  },
+  {
+    "rank": 253,
+    "title": "Cartoon Cartoons",
+    "id": "cartoon-cartoons",
+    "issue": 32,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 2347
+  },
+  {
+    "rank": 254,
+    "title": "Serenity Rose",
+    "id": "serenity-rose",
+    "issue": 4,
+    "price": "$2.95",
+    "publisher": "Slave Labor",
+    "count": 2319
+  },
+  {
+    "rank": 255,
+    "title": "Superman/Batman",
+    "id": "supermanbatman",
+    "issue": 10,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 2299
+  },
+  {
+    "rank": 256,
+    "title": "Knights of the Dinner Table Illustrated",
+    "id": "knights-of-the-dinner-tableillustrated",
+    "issue": 36,
+    "price": "$2.99",
+    "publisher": "Kenzer",
+    "count": 2292
+  },
+  {
+    "rank": 257,
+    "title": "Green Lantern",
+    "id": "green-lantern",
+    "issue": 178,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 2271
+  },
+  {
+    "rank": 258,
+    "title": "Batman",
+    "id": "batman",
+    "issue": 629,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 2264
+  },
+  {
+    "rank": 259,
+    "title": "Dungeons & Dragons Where Shadows Fall",
+    "id": "dungeons-dragons-whereshadows-fall",
+    "issue": 5,
+    "price": "$3.50",
+    "publisher": "Kenzer",
+    "count": 2257
+  },
+  {
+    "rank": 260,
+    "title": "Betty & Veronica Double Digest",
+    "id": "betty-veronica-doubledigest",
+    "issue": 126,
+    "price": "$3.59",
+    "publisher": "Archie",
+    "count": 2209
+  },
+  {
+    "rank": 261,
+    "title": "Artesia Annual",
+    "id": "artesia-annual",
+    "issue": 3,
+    "price": "$4.95",
+    "publisher": "Archie",
+    "count": 2154
+  },
+  {
+    "rank": 262,
+    "title": "Amazing Spider-Man",
+    "id": "amazing-spider-man",
+    "issue": 509,
+    "price": "$2.25",
+    "publisher": "Marvel",
+    "count": 2154
+  },
+  {
+    "rank": 263,
+    "title": "Housewives A/Play",
+    "id": "housewives-aplay",
+    "issue": 12,
+    "price": "$4.95",
+    "publisher": "Fantagraphics",
+    "count": 2147
+  },
+  {
+    "rank": 264,
+    "title": "Archie & Friends",
+    "id": "archie-friends",
+    "issue": 84,
+    "price": "$2.19",
+    "publisher": "Archie",
+    "count": 2126
+  },
+  {
+    "rank": 265,
+    "title": "Pals N Gals Double Digest",
+    "id": "pals-n-gals-double-digest",
+    "issue": 86,
+    "price": "$3.59",
+    "publisher": "Archie",
+    "count": 2092
+  },
+  {
+    "rank": 266,
+    "title": "Jughead",
+    "id": "jughead",
+    "issue": 159,
+    "price": "$2.19",
+    "publisher": "Archie",
+    "count": 2036
+  },
+  {
+    "rank": 267,
+    "title": "Archie Digest",
+    "id": "archie-digest",
+    "issue": 209,
+    "price": "$2.39",
+    "publisher": "Archie",
+    "count": 2029
+  },
+  {
+    "rank": 268,
+    "title": "Doom Patrol",
+    "id": "doom-patrol",
+    "issue": 1,
+    "price": "$2.50",
+    "publisher": "DC",
+    "count": 1981
+  },
+  {
+    "rank": 269,
+    "title": "Jugheads Double Digest",
+    "id": "jugheads-double-digest",
+    "issue": 105,
+    "price": "$3.59",
+    "publisher": "Archie",
+    "count": 1954
+  },
+  {
+    "rank": 270,
+    "title": "Top Shelf Conversations",
+    "id": "top-shelf-conversations",
+    "issue": 1,
+    "price": "$4.95",
+    "publisher": "Top Shelf",
+    "count": 1912
+  },
+  {
+    "rank": 271,
+    "title": "City of Heroes",
+    "id": "city-of-heroes",
+    "issue": 3,
+    "price": "$2.95",
+    "publisher": "Blue King",
+    "count": 1891
+  },
+  {
+    "rank": 272,
+    "title": "Animerica Extra Aug 2004 Vol. 7",
+    "id": "animerica-extra-aug-2004-vol-7",
+    "issue": 8,
+    "price": "$4.99",
+    "publisher": "Viz",
+    "count": 1871
+  },
+  {
+    "rank": 273,
+    "title": "JLA Another Nail",
+    "id": "jla-another-nail",
+    "issue": 2,
+    "price": "$5.95",
+    "publisher": "DC",
+    "count": 1829
+  },
+  {
+    "rank": 274,
+    "title": "Astonishing X-Men",
+    "id": "astonishing-x-men",
+    "issue": 1,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 1802
+  },
+  {
+    "rank": 275,
+    "title": "Jughead W/Archie Digest",
+    "id": "jughead-warchie-digest",
+    "issue": 194,
+    "price": "$2.39",
+    "publisher": "Archie",
+    "count": 1802
+  },
+  {
+    "rank": 276,
+    "title": "Ninja High School",
+    "id": "ninja-high-school",
+    "issue": 118,
+    "price": "$2.99",
+    "publisher": "Antarctic",
+    "count": 1795
+  },
+  {
+    "rank": 277,
+    "title": "DF Soulfire Alt Cvr",
+    "id": "df-soulfire-alt-cvr",
+    "issue": 0,
+    "price": "$6.99",
+    "publisher": "Dynamic Forces",
+    "count": 1767
+  },
+  {
+    "rank": 278,
+    "title": "Laugh Digest",
+    "id": "laugh-digest",
+    "issue": 195,
+    "price": "$2.39",
+    "publisher": "Archie",
+    "count": 1746
+  },
+  {
+    "rank": 279,
+    "title": "Knights of the Dinner Table Everknights",
+    "id": "knights-of-the-dinner-tableeverknights",
+    "issue": 13,
+    "price": "$2.99",
+    "publisher": "Kenzer",
+    "count": 1740
+  },
+  {
+    "rank": 280,
+    "title": "Little Gloomy Adventures",
+    "id": "little-gloomy-adventures",
+    "issue": 2,
+    "price": "$3.95",
+    "publisher": "Slave Labor",
+    "count": 1636
+  },
+  {
+    "rank": 282,
+    "title": "Amazing Fantasy",
+    "id": "amazing-fantasy",
+    "issue": 1,
+    "price": "$2.99",
+    "publisher": "Marvel",
+    "count": 1588
+  },
+  {
+    "rank": 283,
+    "title": "Milk",
+    "id": "milk",
+    "issue": 41,
+    "price": "$3.50",
+    "publisher": "Radio",
+    "count": 1498
+  },
+  {
+    "rank": 284,
+    "title": "Sex Warrior Isane",
+    "id": "sex-warrior-isane",
+    "issue": 7,
+    "price": "$3.95",
+    "publisher": "Fantagraphics",
+    "count": 1387
+  },
+  {
+    "rank": 285,
+    "title": "Dictators Hitler",
+    "id": "dictators-hitler",
+    "issue": 3,
+    "price": "$2.99",
+    "publisher": "Antarctic",
+    "count": 1353
+  },
+  {
+    "rank": 287,
+    "title": "JLA Another Nail",
+    "id": "jla-another-nail",
+    "issue": 1,
+    "price": "$5.95",
+    "publisher": "DC",
+    "count": 1298
+  },
+  {
+    "rank": 288,
+    "title": "Furrlough",
+    "id": "furrlough",
+    "issue": 137,
+    "price": "$2.99",
+    "publisher": "Radio",
+    "count": 1298
+  },
+  {
+    "rank": 289,
+    "title": "Superman/Batman",
+    "id": "supermanbatman",
+    "issue": 9,
+    "price": "$2.95",
+    "publisher": "DC",
+    "count": 1298
+  },
+  {
+    "rank": 290,
+    "title": "Dictators Hitler",
+    "id": "dictators-hitler",
+    "issue": 4,
+    "price": "$2.99",
+    "publisher": "Antarctic",
+    "count": 1298
+  },
+  {
+    "rank": 291,
+    "title": "Wanted",
+    "id": "wanted",
+    "issue": 3,
+    "price": "$2.99",
+    "publisher": "Image",
+    "count": 1277
+  },
+  {
+    "rank": 292,
+    "title": "Symbiotes",
+    "id": "symbiotes",
+    "issue": 1,
+    "price": "$2.95",
+    "publisher": "Drive",
+    "count": 1270
+  },
+  {
+    "rank": 293,
+    "title": "Angry Youth Comix",
+    "id": "angry-youth-comix",
+    "issue": 7,
+    "price": "$3.50",
+    "publisher": "Fantagraphics",
+    "count": 1243
+  },
+  {
+    "rank": 294,
+    "title": "Black Tide",
+    "id": "black-tide",
+    "issue": 10,
+    "price": "$2.95",
+    "publisher": "Angel Gate",
+    "count": 1236
+  },
+  {
+    "rank": 295,
+    "title": "Classic Illus Jr",
+    "id": "classic-illus-jr",
+    "issue": 535,
+    "price": "$3.99",
+    "publisher": "JAC",
+    "count": 1222
+  },
+  {
+    "rank": 296,
+    "title": "Evil Eye",
+    "id": "evil-eye",
+    "issue": 12,
+    "price": "$3.95",
+    "publisher": "Fantagraphics",
+    "count": 1215
+  },
+  {
+    "rank": 297,
+    "title": "Dragon Arms Chaos Blade",
+    "id": "dragon-arms-chaos-blade",
+    "issue": 5,
+    "price": "$2.99",
+    "publisher": "Antarctic",
+    "count": 1208
+  },
+  {
+    "rank": 298,
+    "title": "Pantheon",
+    "id": "pantheon",
+    "issue": 13,
+    "price": "$2.95",
+    "publisher": "Lone Star",
+    "count": 1208
+  },
+  {
+    "rank": 299,
+    "title": "Flash",
+    "id": "flash",
+    "issue": 211,
+    "price": "$2.25",
+    "publisher": "DC",
+    "count": 1187
+  },
+  {
+    "rank": 300,
+    "title": "Students of the Unusual",
+    "id": "students-of-the-unusual",
+    "issue": 1,
+    "price": "$2.95",
+    "publisher": "3BP",
+    "count": 1187
+  }
+]
