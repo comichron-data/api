@@ -1,6 +1,11 @@
 [
   {
     "year": 1999,
+    "month": 3,
+    "count": 40087
+  },
+  {
+    "year": 1999,
     "month": 4,
     "count": 33493
   },
@@ -93,6 +98,16 @@
     "year": 2000,
     "month": 10,
     "count": 36156
+  },
+  {
+    "year": 2000,
+    "month": 11,
+    "count": 37492
+  },
+  {
+    "year": 2000,
+    "month": 12,
+    "count": 37668
   },
   {
     "year": 2001,
@@ -225,14 +240,34 @@
     "count": 8062
   },
   {
+    "year": 2009,
+    "month": 12,
+    "count": 7829
+  },
+  {
     "year": 2010,
     "month": 1,
     "count": 7952
   },
   {
     "year": 2010,
+    "month": 2,
+    "count": 7943
+  },
+  {
+    "year": 2010,
     "month": 3,
     "count": 7779
+  },
+  {
+    "year": 2010,
+    "month": 4,
+    "count": 7563
+  },
+  {
+    "year": 2010,
+    "month": 5,
+    "count": 13087
   },
   {
     "year": 2010,
@@ -243,6 +278,11 @@
     "year": 2010,
     "month": 7,
     "count": 7062
+  },
+  {
+    "year": 2010,
+    "month": 8,
+    "count": 6860
   },
   {
     "year": 2010,
