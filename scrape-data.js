@@ -3,30 +3,9 @@ var through2 = require('through2');
 var slugger = require('slugger');
 
 var paths = require('./paths');
+var transformRecords = require('./transform');
 
-var x = require('x-ray')({
-  filters: {
-    removeCommas: function(value) {
-      return value.replace(/,/g, '');
-    },
-    parseInt: function(value) {
-      return parseInt(value, 10);
-    },
-    removeNewlines: function(value) {
-      return value.replace(/\n/g, ' ');
-    },
-    slug: function(value) {
-      return slugger(value, {decode: false});
-    },
-    trim: function(value) {
-      if (value) {
-        return value.trim();
-      } else {
-        return '';
-      }
-    }
-  }
-});
+var x = require('x-ray')();
 
 // [month, year] or [year]
 var chunk1 = [
@@ -71,7 +50,7 @@ var chunk4 = [
   [7, 2016]
 ];
 
-var dates = []//chunk4;
+var dates = chunk4;
 
 ingestData(expandDates(dates));
 
@@ -81,7 +60,7 @@ function ingestData(dates) {
 
     var recordsArrayStream = xrayStream(month, year)
       .pipe(fromJson())
-      .pipe(onlySingleIssues())
+      .pipe(cleanUp())
       .pipe(toJson())
       .pipe(fs.createWriteStream(outputFile))
       .on('error', function(e) {
@@ -103,13 +82,12 @@ function xrayStream(month, year) {
   console.log(`hitting ${url}`);
 
   return x(url, '#content .post tr', [{
-    rank:      'td:nth-of-type(1) | parseInt',
-    title:     'td:nth-of-type(2) | removeNewlines | trim',
-    id:        'td:nth-of-type(2) | slug',
-    issue:     'td:nth-of-type(3) | parseInt',
+    rank:      'td:nth-of-type(1)',
+    title:     'td:nth-of-type(2)',
+    issue:     'td:nth-of-type(3)',
     price:     'td:nth-of-type(4)',
     publisher: 'td:nth-of-type(5)',
-    count:     'td:nth-of-type(6) | removeCommas | parseInt'
+    count:     'td:nth-of-type(6)'
   }]).stream();
 }
 
@@ -133,22 +111,17 @@ function fromJson() {
   });
 }
 
-function onlySingleIssues() {
-  return through2.obj(function(records, encoding, callback) {
-    var singleIssueRecords = records
-      .filter(outEmptyRecords)
-      .filter(outTradePaperbacks);
+function cleanUp() {
+  return through2.obj(function cleanUpTransform(records, encoding, callback) {
+    try {
+      var cleaned = transformRecords(records);
+      return callback(null, cleaned);
+    } catch (e) {
+      console.error(e)
 
-    callback(null, singleIssueRecords);
+      return callback(e);
+    }
   });
-}
-
-function outTradePaperbacks(record) {
-  return record.issue != null;
-}
-
-function outEmptyRecords(record) {
-  return record.rank != null;
 }
 
 function getUrl(month, year) {

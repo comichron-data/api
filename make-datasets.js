@@ -19,7 +19,7 @@ glob(pattern, function(err, filenames) {
     var [year, month] = paths.dateFromSourceFilename(filename);
 
     records.forEach(function(record) {
-      ensureTitle(titles, record.id, record.title);
+      ensureTitle(titles, record.id, record.title, record.publisher);
       incrementByIssueCount(byIssue, record.id, record.issue, record.count);
       incrementByMonthCount(byMonth, record.id, year, month, record.count);
     });
@@ -54,13 +54,14 @@ function writeDataset(file, data) {
   });
 }
 
-function ensureTitle(titles, id, title) {
+function ensureTitle(titles, id, title, publisher) {
   var index = titles.findIndex(t => t.id == id);
 
   if (index == -1) {
     titles.push({
       id,
-      title
+      title,
+      publisher
     });
   }
 }
