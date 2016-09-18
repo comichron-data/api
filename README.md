@@ -15,12 +15,14 @@ List of all comics in the api, sorted by title.
 ```js
 [
   {
+    "id": "saga-image",
     "title": "Saga",
-    "id": "saga"
+    "publisher": "Image"
   },
   {
+    "id": "shutter-image",
     "title": "Shutter",
-    "id": "shutter"
+    "publisher": "Image"
   },
   // and so on
 ]
@@ -86,7 +88,7 @@ Data scraped from comichron. All other routes are based on this data.
   {
     "rank": 1,
     "title": "Star Wars Shattered Empire",
-    "id": "star-wars-shattered-empire",
+    "id": "star-wars-shattered-empire-marvel",
     "issue": 1,
     "price": "$3.99",
     "publisher": "Marvel",
@@ -95,7 +97,7 @@ Data scraped from comichron. All other routes are based on this data.
   {
     "rank": 2,
     "title": "Star Wars",
-    "id": "star-wars",
+    "id": "star-wars-marvel",
     "issue": 9,
     "price": "$3.99",
     "publisher": "Marvel",
