@@ -61,7 +61,7 @@ function makeCount(usableRecord) {
 }
 
 function makeId(usableRecord) {
-  var raw = usableRecord.title + '-' + usableRecord.publisher;
+  var raw = makeTitle(usableRecord) + '-' + makePublisher(usableRecord);
   return slugger(raw, {
     decode: false
   });
