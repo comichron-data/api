@@ -83,7 +83,7 @@ function firstPartAsNumber(issue) {
 }
 
 function makePublisher(usableRecord) {
-  return usableRecord.publisher;
+  return usableRecord.publisher.trim();
 }
 
 function makePrice(usableRecord) {
