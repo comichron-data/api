@@ -135,14 +135,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "10th-muse-avatar",
-    "title": "10th Muse",
-    "publisher": "Avatar"
-  },
-  {
     "id": "10th-muse-image",
     "title": "10th Muse",
     "publisher": "Image"
+  },
+  {
+    "id": "10th-muse-avatar",
+    "title": "10th Muse",
+    "publisher": "Avatar"
   },
   {
     "id": "10th-muse-demonslayer-avatar",
@@ -155,14 +155,14 @@
     "publisher": "Comic Cavalcade"
   },
   {
-    "id": "10th-muse-vol-2-alias",
-    "title": "10th Muse Vol. 2",
-    "publisher": "Alias"
-  },
-  {
     "id": "10th-muse-vol-2-avatar",
     "title": "10th Muse Vol. 2",
     "publisher": "Avatar"
+  },
+  {
+    "id": "10th-muse-vol-2-alias",
+    "title": "10th Muse Vol. 2",
+    "publisher": "Alias"
   },
   {
     "id": "1111-crusade",
@@ -445,14 +445,14 @@
     "publisher": "Image"
   },
   {
-    "id": "7-guys-of-justice-fallen-idol",
-    "title": "7 Guys Of Justice",
-    "publisher": "Fallen Idol"
-  },
-  {
     "id": "7-guys-of-justice-false-idol",
     "title": "7 Guys Of Justice",
     "publisher": "False Idol"
+  },
+  {
+    "id": "7-guys-of-justice-fallen-idol",
+    "title": "7 Guys Of Justice",
+    "publisher": "Fallen Idol"
   },
   {
     "id": "7-psychopaths-boom",
@@ -725,11 +725,6 @@
     "publisher": "DC"
   },
   {
-    "id": "action-comics--dc",
-    "title": "Action Comics",
-    "publisher": " DC "
-  },
-  {
     "id": "action-comics-dc",
     "title": "Action Comics",
     "publisher": "DC"
@@ -807,7 +802,7 @@
   {
     "id": "adam-strange-dc",
     "title": "Adam Strange",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "adam-strange-special-dc",
@@ -1455,14 +1450,14 @@
     "publisher": "Fantagraphics"
   },
   {
-    "id": "alice-in-sexland-extreme-fantagraphics",
-    "title": "Alice In Sexland Extreme",
-    "publisher": "Fantagraphics"
-  },
-  {
     "id": "alice-in-sexland-extreme-fantagraphicseros",
     "title": "Alice In Sexland Extreme",
     "publisher": "Fantagraphics/Eros"
+  },
+  {
+    "id": "alice-in-sexland-extreme-fantagraphics",
+    "title": "Alice In Sexland Extreme",
+    "publisher": "Fantagraphics"
   },
   {
     "id": "alice-in-wonderland-antarctic",
@@ -2300,11 +2295,6 @@
     "publisher": "Dark Horse"
   },
   {
-    "id": "angel--idw",
-    "title": "Angel",
-    "publisher": " IDW "
-  },
-  {
     "id": "angel-idw",
     "title": "Angel",
     "publisher": "IDW"
@@ -2505,14 +2495,14 @@
     "publisher": "IDW"
   },
   {
-    "id": "angry-youth-comix-fantagraphicseros",
-    "title": "Angry Youth Comix",
-    "publisher": "Fantagraphics/Eros"
-  },
-  {
     "id": "angry-youth-comix-fantagraphics",
     "title": "Angry Youth Comix",
     "publisher": "Fantagraphics"
+  },
+  {
+    "id": "angry-youth-comix-fantagraphicseros",
+    "title": "Angry Youth Comix",
+    "publisher": "Fantagraphics/Eros"
   },
   {
     "id": "animal-man-dc",
@@ -2735,14 +2725,14 @@
     "publisher": "Dark Horse"
   },
   {
-    "id": "ant-archie",
-    "title": "Ant",
-    "publisher": "Archie"
-  },
-  {
     "id": "ant-image",
     "title": "Ant",
     "publisher": "Image"
+  },
+  {
+    "id": "ant-archie",
+    "title": "Ant",
+    "publisher": "Archie"
   },
   {
     "id": "ant-unleashed-big-city",
@@ -3375,14 +3365,14 @@
     "publisher": "DC"
   },
   {
-    "id": "army-of-darkness-dynamic",
-    "title": "Army of Darkness",
-    "publisher": "Dynamic"
-  },
-  {
     "id": "army-of-darkness-dynamic-forces",
     "title": "Army of Darkness",
     "publisher": "Dynamic Forces"
+  },
+  {
+    "id": "army-of-darkness-dynamic",
+    "title": "Army of Darkness",
+    "publisher": "Dynamic"
   },
   {
     "id": "army-of-darkness-dynamite",
@@ -3395,9 +3385,9 @@
     "publisher": "Dynamic"
   },
   {
-    "id": "army-of-darkness-ashes-2-ashes-devils-due",
+    "id": "army-of-darkness-ashes-2-ashes-dynamic",
     "title": "Army of Darkness Ashes 2 Ashes",
-    "publisher": "Devil's Due"
+    "publisher": "Dynamic"
   },
   {
     "id": "army-of-darkness-ashes-2-ashes-dynamic-forces",
@@ -3405,9 +3395,9 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "army-of-darkness-ashes-2-ashes-dynamic",
+    "id": "army-of-darkness-ashes-2-ashes-devils-due",
     "title": "Army of Darkness Ashes 2 Ashes",
-    "publisher": "Dynamic"
+    "publisher": "Devil's Due"
   },
   {
     "id": "army-of-darkness-ashes-to-ashes-directors-cut-dynamic",
@@ -3575,24 +3565,24 @@
     "publisher": "Sirius"
   },
   {
+    "id": "artesia-afire-archie",
+    "title": "Artesia Afire",
+    "publisher": "Archie"
+  },
+  {
     "id": "artesia-afire-archaia",
     "title": "Artesia Afire",
     "publisher": "Archaia"
   },
   {
-    "id": "artesia-afire-archie",
-    "title": "Artesia Afire",
+    "id": "artesia-annual-archie",
+    "title": "Artesia Annual",
     "publisher": "Archie"
   },
   {
     "id": "artesia-annual-sirius",
     "title": "Artesia Annual",
     "publisher": "Sirius"
-  },
-  {
-    "id": "artesia-annual-archie",
-    "title": "Artesia Annual",
-    "publisher": "Archie"
   },
   {
     "id": "artesia-besieged-archaia",
@@ -3765,14 +3755,14 @@
     "publisher": "APC"
   },
   {
-    "id": "assassin-school-vol-2-apc",
-    "title": "Assassin School Vol. 2",
-    "publisher": "APC"
-  },
-  {
     "id": "assassin-school-vol-2-com-x",
     "title": "Assassin School Vol. 2",
     "publisher": "Com X"
+  },
+  {
+    "id": "assassin-school-vol-2-apc",
+    "title": "Assassin School Vol. 2",
+    "publisher": "APC"
   },
   {
     "id": "assassinate-hitler-new-england",
@@ -3905,14 +3895,14 @@
     "publisher": "IDW"
   },
   {
-    "id": "astro-city-image",
-    "title": "Astro City",
-    "publisher": "Image"
-  },
-  {
     "id": "astro-city-dc",
     "title": "Astro City",
     "publisher": "DC"
+  },
+  {
+    "id": "astro-city-image",
+    "title": "Astro City",
+    "publisher": "Image"
   },
   {
     "id": "astro-city-astra-special-dc",
@@ -4030,14 +4020,14 @@
     "publisher": "Avatar"
   },
   {
-    "id": "atlas-drawn-quarterly",
-    "title": "Atlas",
-    "publisher": "Drawn & Quarterly"
-  },
-  {
     "id": "atlas-marvel",
     "title": "Atlas",
     "publisher": "Marvel"
+  },
+  {
+    "id": "atlas-drawn-quarterly",
+    "title": "Atlas",
+    "publisher": "Drawn & Quarterly"
   },
   {
     "id": "atlas-unified-ardden",
@@ -4140,14 +4130,14 @@
     "publisher": "Crusade"
   },
   {
-    "id": "atomika-mercury",
-    "title": "Atomika",
-    "publisher": "Mercury"
-  },
-  {
     "id": "atomika-speakeasy",
     "title": "Atomika",
     "publisher": "Speakeasy"
+  },
+  {
+    "id": "atomika-mercury",
+    "title": "Atomika",
+    "publisher": "Mercury"
   },
   {
     "id": "auteur-oni",
@@ -4230,9 +4220,9 @@
     "publisher": "Marvel"
   },
   {
-    "id": "avengelyne-extreme",
+    "id": "avengelyne-awesome",
     "title": "Avengelyne",
-    "publisher": "Extreme"
+    "publisher": "Awesome"
   },
   {
     "id": "avengelyne-image",
@@ -4240,14 +4230,14 @@
     "publisher": "Image"
   },
   {
-    "id": "avengelyne-awesome",
-    "title": "Avengelyne",
-    "publisher": "Awesome"
-  },
-  {
     "id": "avengelyne-maximum",
     "title": "Avengelyne",
     "publisher": "Maximum"
+  },
+  {
+    "id": "avengelyne-extreme",
+    "title": "Avengelyne",
+    "publisher": "Extreme"
   },
   {
     "id": "avengelyne-bad-blood-avatar",
@@ -4255,14 +4245,14 @@
     "publisher": "Avatar"
   },
   {
-    "id": "avengelyne-dark-depths-avatar",
-    "title": "Avengelyne Dark Depths",
-    "publisher": "Avatar"
-  },
-  {
     "id": "avengelyne-dark-depths-comic-cavalcade",
     "title": "Avengelyne Dark Depths",
     "publisher": "Comic Cavalcade"
+  },
+  {
+    "id": "avengelyne-dark-depths-avatar",
+    "title": "Avengelyne Dark Depths",
+    "publisher": "Avatar"
   },
   {
     "id": "avengelyne-dark-depths-heavenly-body-ed-avatar",
@@ -4315,14 +4305,14 @@
     "publisher": "Comic Cavalcade"
   },
   {
-    "id": "avengelyne-shi-avatar",
-    "title": "Avengelyne Shi",
-    "publisher": "Avatar"
-  },
-  {
     "id": "avengelyne-shi-comic-cavalcade",
     "title": "Avengelyne Shi",
     "publisher": "Comic Cavalcade"
+  },
+  {
+    "id": "avengelyne-shi-avatar",
+    "title": "Avengelyne Shi",
+    "publisher": "Avatar"
   },
   {
     "id": "avengelyne-shi-face-off-cvr-comics-cavalcade",
@@ -4730,14 +4720,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "awakening-image",
-    "title": "Awakening",
-    "publisher": "Image"
-  },
-  {
     "id": "awakening-kitchen-sink",
     "title": "Awakening",
     "publisher": "Kitchen Sink"
+  },
+  {
+    "id": "awakening-image",
+    "title": "Awakening",
+    "publisher": "Image"
   },
   {
     "id": "awesome-holiday-special-awesome",
@@ -4955,14 +4945,14 @@
     "publisher": "Image"
   },
   {
-    "id": "badger-image",
-    "title": "Badger",
-    "publisher": "Image"
-  },
-  {
     "id": "badger-devils-due",
     "title": "Badger",
     "publisher": "Devil's Due"
+  },
+  {
+    "id": "badger-image",
+    "title": "Badger",
+    "publisher": "Image"
   },
   {
     "id": "badger-saves-world-idw",
@@ -5065,14 +5055,14 @@
     "publisher": "DC"
   },
   {
-    "id": "banished-knights-dreamwave",
-    "title": "Banished Knights",
-    "publisher": "Dreamwave"
-  },
-  {
     "id": "banished-knights-image",
     "title": "Banished Knights",
     "publisher": "Image"
+  },
+  {
+    "id": "banished-knights-dreamwave",
+    "title": "Banished Knights",
+    "publisher": "Dreamwave"
   },
   {
     "id": "banished-knights-holofoil-cvr-image",
@@ -5243,11 +5233,6 @@
     "id": "batman-dc",
     "title": "Batman",
     "publisher": "DC"
-  },
-  {
-    "id": "batman--dc",
-    "title": "Batman",
-    "publisher": " DC "
   },
   {
     "id": "batman-66-meets-steed-and-mrs-peel-dc",
@@ -5622,7 +5607,7 @@
   {
     "id": "batman-catwoman-trail-of-the-gun-dc",
     "title": "Batman Catwoman Trail of the Gun",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "batman-chronicles-dc",
@@ -6005,14 +5990,9 @@
     "publisher": "DC"
   },
   {
-    "id": "batman-streets-of-gotham--dc",
-    "title": "Batman Streets of Gotham",
-    "publisher": " DC "
-  },
-  {
     "id": "batman-strikes-dc",
     "title": "Batman Strikes",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "batman-superman-dc",
@@ -6185,14 +6165,14 @@
     "publisher": "DC"
   },
   {
-    "id": "batman-shadow-of-the-bat-image",
-    "title": "Batman: Shadow of the Bat",
-    "publisher": "Image"
-  },
-  {
     "id": "batman-shadow-of-the-bat-dc",
     "title": "Batman: Shadow of the Bat",
     "publisher": "DC"
+  },
+  {
+    "id": "batman-shadow-of-the-bat-image",
+    "title": "Batman: Shadow of the Bat",
+    "publisher": "Image"
   },
   {
     "id": "batman-shadow-of-the-bat-annual-dc",
@@ -6390,14 +6370,14 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "battlestar-galactica-realm",
-    "title": "Battlestar Galactica",
-    "publisher": "Realm"
-  },
-  {
     "id": "battlestar-galactica-dynamic",
     "title": "Battlestar Galactica",
     "publisher": "Dynamic"
+  },
+  {
+    "id": "battlestar-galactica-realm",
+    "title": "Battlestar Galactica",
+    "publisher": "Realm"
   },
   {
     "id": "battlestar-galactica-20-yahren-comm-ed-realm",
@@ -6695,19 +6675,14 @@
     "publisher": "Antarctic"
   },
   {
-    "id": "beowulf-idw",
-    "title": "Beowulf",
-    "publisher": "IDW"
-  },
-  {
-    "id": "beowulf-speakeasy",
-    "title": "Beowulf",
-    "publisher": "Speakeasy"
-  },
-  {
     "id": "beowulf-thecomiccom",
     "title": "Beowulf",
     "publisher": "Thecomic.com"
+  },
+  {
+    "id": "beowulf-idw",
+    "title": "Beowulf",
+    "publisher": "IDW"
   },
   {
     "id": "beowulf-antarctic",
@@ -6715,9 +6690,14 @@
     "publisher": "Antarctic"
   },
   {
-    "id": "berlin-blackout",
+    "id": "beowulf-speakeasy",
+    "title": "Beowulf",
+    "publisher": "Speakeasy"
+  },
+  {
+    "id": "berlin-drawn-quarterly",
     "title": "Berlin",
-    "publisher": "Blackout"
+    "publisher": "Drawn & Quarterly"
   },
   {
     "id": "berlin-black-eye",
@@ -6725,9 +6705,9 @@
     "publisher": "Black Eye"
   },
   {
-    "id": "berlin-drawn-quarterly",
+    "id": "berlin-blackout",
     "title": "Berlin",
-    "publisher": "Drawn & Quarterly"
+    "publisher": "Blackout"
   },
   {
     "id": "berlin-resolicitation-black-eye",
@@ -7070,14 +7050,14 @@
     "publisher": "Maximum"
   },
   {
-    "id": "bipolar-five-o-clock-shadow",
-    "title": "Bipolar",
-    "publisher": "Five O' Clock Shadow"
-  },
-  {
     "id": "bipolar-alternative",
     "title": "Bipolar",
     "publisher": "Alternative"
+  },
+  {
+    "id": "bipolar-five-o-clock-shadow",
+    "title": "Bipolar",
+    "publisher": "Five O' Clock Shadow"
   },
   {
     "id": "birds-of-prey-dc",
@@ -7380,14 +7360,14 @@
     "publisher": "DC"
   },
   {
-    "id": "black-terror-dynamic-forces",
-    "title": "Black Terror",
-    "publisher": "Dynamic Forces"
-  },
-  {
     "id": "black-terror-dynamic",
     "title": "Black Terror",
     "publisher": "Dynamic"
+  },
+  {
+    "id": "black-terror-dynamic-forces",
+    "title": "Black Terror",
+    "publisher": "Dynamic Forces"
   },
   {
     "id": "black-terror-dynamite",
@@ -7395,14 +7375,14 @@
     "publisher": "Dynamite"
   },
   {
-    "id": "black-tide-avatar",
-    "title": "Black Tide",
-    "publisher": "Avatar"
-  },
-  {
     "id": "black-tide-image",
     "title": "Black Tide",
     "publisher": "Image"
+  },
+  {
+    "id": "black-tide-avatar",
+    "title": "Black Tide",
+    "publisher": "Avatar"
   },
   {
     "id": "black-tide-angel-gate",
@@ -7745,14 +7725,14 @@
     "publisher": "Image"
   },
   {
-    "id": "blokhedz-street-legends",
-    "title": "Blokhedz",
-    "publisher": "Street Legends"
-  },
-  {
     "id": "blokhedz-image",
     "title": "Blokhedz",
     "publisher": "Image"
+  },
+  {
+    "id": "blokhedz-street-legends",
+    "title": "Blokhedz",
+    "publisher": "Street Legends"
   },
   {
     "id": "blood-water-dc",
@@ -7840,14 +7820,14 @@
     "publisher": "DC"
   },
   {
-    "id": "bloodrayne-plague-of-dreams-digital-manga",
-    "title": "Bloodrayne Plague of Dreams",
-    "publisher": "Digital Manga"
-  },
-  {
     "id": "bloodrayne-plague-of-dreams-denis-kitchen",
     "title": "Bloodrayne Plague of Dreams",
     "publisher": "Denis Kitchen"
+  },
+  {
+    "id": "bloodrayne-plague-of-dreams-digital-manga",
+    "title": "Bloodrayne Plague of Dreams",
+    "publisher": "Digital Manga"
   },
   {
     "id": "bloodrayne-prime-cuts-digital-webbing",
@@ -7865,14 +7845,14 @@
     "publisher": "Digital Webbing"
   },
   {
-    "id": "bloodshot-valiant",
-    "title": "Bloodshot",
-    "publisher": "Valiant"
-  },
-  {
     "id": "bloodshot-acclaim",
     "title": "Bloodshot",
     "publisher": "Acclaim"
+  },
+  {
+    "id": "bloodshot-valiant",
+    "title": "Bloodshot",
+    "publisher": "Valiant"
   },
   {
     "id": "bloodshot-hard-corps-valiant",
@@ -7920,14 +7900,14 @@
     "publisher": "DC"
   },
   {
-    "id": "blowjob-fantagraphics",
-    "title": "Blowjob",
-    "publisher": "Fantagraphics"
-  },
-  {
     "id": "blowjob-fantagraphicseros",
     "title": "Blowjob",
     "publisher": "Fantagraphics/Eros"
+  },
+  {
+    "id": "blowjob-fantagraphics",
+    "title": "Blowjob",
+    "publisher": "Fantagraphics"
   },
   {
     "id": "blue-image",
@@ -8115,14 +8095,14 @@
     "publisher": "Image"
   },
   {
-    "id": "bone-image",
-    "title": "Bone",
-    "publisher": "Image"
-  },
-  {
     "id": "bone-cartoon",
     "title": "Bone",
     "publisher": "Cartoon"
+  },
+  {
+    "id": "bone-image",
+    "title": "Bone",
+    "publisher": "Image"
   },
   {
     "id": "bone-reprint-image",
@@ -8375,19 +8355,14 @@
     "publisher": "Dynamic"
   },
   {
-    "id": "boys-dynamite",
-    "title": "Boys",
-    "publisher": "Dynamite"
-  },
-  {
     "id": "boys-dc",
     "title": "Boys",
     "publisher": "DC"
   },
   {
-    "id": "boys--dynamic",
+    "id": "boys-dynamite",
     "title": "Boys",
-    "publisher": " Dynamic "
+    "publisher": "Dynamite"
   },
   {
     "id": "boys-butcher-baker-candlestickmaker-dynamic-forces",
@@ -8618,11 +8593,6 @@
     "id": "brave-the-bold-dc",
     "title": "Brave & The Bold",
     "publisher": "DC"
-  },
-  {
-    "id": "brave-and-the-bold--dc",
-    "title": "Brave and the Bold",
-    "publisher": " DC "
   },
   {
     "id": "brave-and-the-bold-dc",
@@ -8960,11 +8930,6 @@
     "publisher": "Studio Foglio"
   },
   {
-    "id": "buck-rogers-dynamite",
-    "title": "Buck Rogers",
-    "publisher": "Dynamite"
-  },
-  {
     "id": "buck-rogers-dynamic-forces",
     "title": "Buck Rogers",
     "publisher": "Dynamic Forces"
@@ -8973,6 +8938,11 @@
     "id": "buck-rogers-dynamic",
     "title": "Buck Rogers",
     "publisher": "Dynamic"
+  },
+  {
+    "id": "buck-rogers-dynamite",
+    "title": "Buck Rogers",
+    "publisher": "Dynamite"
   },
   {
     "id": "buck-rogers-annual-dynamic-forces",
@@ -9215,14 +9185,14 @@
     "publisher": "Dark Horse"
   },
   {
-    "id": "cabbot-bloodhunter-maximum",
-    "title": "Cabbot Bloodhunter",
-    "publisher": "Maximum"
-  },
-  {
     "id": "cabbot-bloodhunter-extreme",
     "title": "Cabbot Bloodhunter",
     "publisher": "Extreme"
+  },
+  {
+    "id": "cabbot-bloodhunter-maximum",
+    "title": "Cabbot Bloodhunter",
+    "publisher": "Maximum"
   },
   {
     "id": "cable-marvel",
@@ -9705,24 +9675,24 @@
     "publisher": "Chapter House"
   },
   {
-    "id": "captain-canuck-2015-ongoing-chapterhouse",
-    "title": "Captain Canuck 2015 Ongoing",
-    "publisher": "Chapterhouse"
-  },
-  {
     "id": "captain-canuck-2015-ongoing-chapter-house",
     "title": "Captain Canuck 2015 Ongoing",
     "publisher": "Chapter House"
   },
   {
-    "id": "captain-canuck-unholy-war-comely",
-    "title": "Captain Canuck Unholy War",
-    "publisher": "Comely"
+    "id": "captain-canuck-2015-ongoing-chapterhouse",
+    "title": "Captain Canuck 2015 Ongoing",
+    "publisher": "Chapterhouse"
   },
   {
     "id": "captain-canuck-unholy-war-com-x",
     "title": "Captain Canuck Unholy War",
     "publisher": "Com X"
+  },
+  {
+    "id": "captain-canuck-unholy-war-comely",
+    "title": "Captain Canuck Unholy War",
+    "publisher": "Comely"
   },
   {
     "id": "captain-carrot-final-ark-dc",
@@ -9810,14 +9780,14 @@
     "publisher": "Image"
   },
   {
-    "id": "cardcaptor-sakura-mixx",
-    "title": "Cardcaptor Sakura",
-    "publisher": "Mixx"
-  },
-  {
     "id": "cardcaptor-sakura-tokyopop",
     "title": "Cardcaptor Sakura",
     "publisher": "Tokyopop"
+  },
+  {
+    "id": "cardcaptor-sakura-mixx",
+    "title": "Cardcaptor Sakura",
+    "publisher": "Mixx"
   },
   {
     "id": "carnage-marvel",
@@ -9877,7 +9847,7 @@
   {
     "id": "cartoon-network-block-party-dc",
     "title": "Cartoon Network Block Party",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "cartoon-network-holiday-special-archie",
@@ -9940,14 +9910,14 @@
     "publisher": "Image"
   },
   {
-    "id": "casanova-image",
-    "title": "Casanova",
-    "publisher": "Image"
-  },
-  {
     "id": "casanova-marvel",
     "title": "Casanova",
     "publisher": "Marvel"
+  },
+  {
+    "id": "casanova-image",
+    "title": "Casanova",
+    "publisher": "Image"
   },
   {
     "id": "casanova-acedia-image",
@@ -9995,14 +9965,19 @@
     "publisher": "Oni"
   },
   {
+    "id": "castle-waiting-olio",
+    "title": "Castle Waiting",
+    "publisher": "Olio"
+  },
+  {
     "id": "castle-waiting-cartoon",
     "title": "Castle Waiting",
     "publisher": "Cartoon"
   },
   {
-    "id": "castle-waiting-olio",
-    "title": "Castle Waiting",
-    "publisher": "Olio"
+    "id": "castle-waiting-vol-2-cartoon",
+    "title": "Castle Waiting Vol. 2",
+    "publisher": "Cartoon"
   },
   {
     "id": "castle-waiting-vol-2-fantagraphics",
@@ -10013,11 +9988,6 @@
     "id": "castle-waiting-vol-2-olio",
     "title": "Castle Waiting Vol. 2",
     "publisher": "Olio"
-  },
-  {
-    "id": "castle-waiting-vol-2-cartoon",
-    "title": "Castle Waiting Vol. 2",
-    "publisher": "Cartoon"
   },
   {
     "id": "castle-waiting-vol-ii-fantagraphics",
@@ -10132,7 +10102,7 @@
   {
     "id": "catwoman-when-in-rome-dc",
     "title": "Catwoman When in Rome",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "catwoman-wildcat-dc",
@@ -10350,14 +10320,14 @@
     "publisher": "Image"
   },
   {
-    "id": "chaos-dynamite",
-    "title": "Chaos",
-    "publisher": "Dynamite"
-  },
-  {
     "id": "chaos-dynamic-forces",
     "title": "Chaos",
     "publisher": "Dynamic Forces"
+  },
+  {
+    "id": "chaos-dynamite",
+    "title": "Chaos",
+    "publisher": "Dynamite"
   },
   {
     "id": "chaos-gallery-chaos",
@@ -10465,24 +10435,24 @@
     "publisher": "DC"
   },
   {
-    "id": "chassis-hurricane",
-    "title": "Chassis",
-    "publisher": "Hurricane"
-  },
-  {
     "id": "chassis-image",
     "title": "Chassis",
     "publisher": "Image"
   },
   {
-    "id": "chastity-dynamite",
-    "title": "Chastity",
-    "publisher": "Dynamite"
+    "id": "chassis-hurricane",
+    "title": "Chassis",
+    "publisher": "Hurricane"
   },
   {
     "id": "chastity-chaos",
     "title": "Chastity",
     "publisher": "Chaos"
+  },
+  {
+    "id": "chastity-dynamite",
+    "title": "Chastity",
+    "publisher": "Dynamite"
   },
   {
     "id": "chastity-crazytown-chaos",
@@ -10540,14 +10510,14 @@
     "publisher": "DC"
   },
   {
-    "id": "cherry-cherry",
-    "title": "Cherry",
-    "publisher": "Cherry"
-  },
-  {
     "id": "cherry-kitchen-sink",
     "title": "Cherry",
     "publisher": "Kitchen Sink"
+  },
+  {
+    "id": "cherry-cherry",
+    "title": "Cherry",
+    "publisher": "Cherry"
   },
   {
     "id": "cherry-deluxe-cherry",
@@ -10630,14 +10600,14 @@
     "publisher": "Crossgen"
   },
   {
-    "id": "chimichanga-albion",
-    "title": "Chimichanga",
-    "publisher": "Albion"
-  },
-  {
     "id": "chimichanga-albatross-exploding",
     "title": "Chimichanga",
     "publisher": "Albatross Exploding"
+  },
+  {
+    "id": "chimichanga-albion",
+    "title": "Chimichanga",
+    "publisher": "Albion"
   },
   {
     "id": "chin-music-image",
@@ -10710,14 +10680,14 @@
     "publisher": "Maximum"
   },
   {
-    "id": "christian-zaniers-dark-city-angel-drawn-quarterly",
-    "title": "Christian Zaniers Dark City Angel",
-    "publisher": "Drawn & Quarterly"
-  },
-  {
     "id": "christian-zaniers-dark-city-angel-dhj",
     "title": "Christian Zaniers Dark City Angel",
     "publisher": "DHJ"
+  },
+  {
+    "id": "christian-zaniers-dark-city-angel-drawn-quarterly",
+    "title": "Christian Zaniers Dark City Angel",
+    "publisher": "Drawn & Quarterly"
   },
   {
     "id": "chronicles-of-dr-herbert-west-zenescope",
@@ -11275,14 +11245,14 @@
     "publisher": "Drawn & Quarterly"
   },
   {
-    "id": "colonia-colonia",
-    "title": "Colonia",
-    "publisher": "Colonia"
-  },
-  {
     "id": "colonia-bad-habit",
     "title": "Colonia",
     "publisher": "Bad Habit"
+  },
+  {
+    "id": "colonia-colonia",
+    "title": "Colonia",
+    "publisher": "Colonia"
   },
   {
     "id": "colonized-idw",
@@ -11365,14 +11335,14 @@
     "publisher": "Automatic Pictures"
   },
   {
-    "id": "conan-dark-horse",
-    "title": "Conan",
-    "publisher": "Dark Horse"
-  },
-  {
     "id": "conan-marvel",
     "title": "Conan",
     "publisher": "Marvel"
+  },
+  {
+    "id": "conan-dark-horse",
+    "title": "Conan",
+    "publisher": "Dark Horse"
   },
   {
     "id": "conan-demons-of-khitai-dark-horse",
@@ -11488,11 +11458,6 @@
     "id": "conan-the-barbarianlord-of-the-spiders-marvel",
     "title": "Conan The Barbarian/Lord of the Spiders",
     "publisher": "Marvel"
-  },
-  {
-    "id": "conan-the-cimmerian--dark-horse",
-    "title": "Conan the Cimmerian",
-    "publisher": " Dark Horse "
   },
   {
     "id": "conan-the-cimmerian-dark-horse",
@@ -11825,14 +11790,14 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "cosmic-guard-dynamic",
-    "title": "Cosmic Guard",
-    "publisher": "Dynamic"
-  },
-  {
     "id": "cosmic-guard-devils-due",
     "title": "Cosmic Guard",
     "publisher": "Devil's Due"
+  },
+  {
+    "id": "cosmic-guard-dynamic",
+    "title": "Cosmic Guard",
+    "publisher": "Dynamic"
   },
   {
     "id": "cosmic-ray-image",
@@ -11915,14 +11880,14 @@
     "publisher": "DC"
   },
   {
-    "id": "countdown-vampires-ironcat",
-    "title": "Countdown Vampires",
-    "publisher": "Ironcat"
-  },
-  {
     "id": "countdown-vampires-studio-g",
     "title": "Countdown Vampires",
     "publisher": "Studio G"
+  },
+  {
+    "id": "countdown-vampires-ironcat",
+    "title": "Countdown Vampires",
+    "publisher": "Ironcat"
   },
   {
     "id": "counter-ops-antarctic",
@@ -12040,14 +12005,14 @@
     "publisher": "Awesome"
   },
   {
-    "id": "coven-dark-sister-com-x",
-    "title": "Coven Dark Sister",
-    "publisher": "Com X"
-  },
-  {
     "id": "coven-dark-sister-avatar",
     "title": "Coven Dark Sister",
     "publisher": "Avatar"
+  },
+  {
+    "id": "coven-dark-sister-com-x",
+    "title": "Coven Dark Sister",
+    "publisher": "Com X"
   },
   {
     "id": "coven-dark-sister-wrp-cvr-avatar",
@@ -12070,14 +12035,14 @@
     "publisher": "Awesome"
   },
   {
-    "id": "coven-spellcaster-avatar",
-    "title": "Coven Spellcaster",
-    "publisher": "Avatar"
-  },
-  {
     "id": "coven-spellcaster-comic-cavalcade",
     "title": "Coven Spellcaster",
     "publisher": "Comic Cavalcade"
+  },
+  {
+    "id": "coven-spellcaster-avatar",
+    "title": "Coven Spellcaster",
+    "publisher": "Avatar"
   },
   {
     "id": "coven-spellcaster-into-hell-ed-comic-cavalcade",
@@ -12090,14 +12055,14 @@
     "publisher": "Avatar"
   },
   {
-    "id": "coven-tooth-nail-comics-cavalcade",
-    "title": "Coven Tooth & Nail",
-    "publisher": "Comics Cavalcade"
-  },
-  {
     "id": "coven-tooth-nail-avatar",
     "title": "Coven Tooth & Nail",
     "publisher": "Avatar"
+  },
+  {
+    "id": "coven-tooth-nail-comics-cavalcade",
+    "title": "Coven Tooth & Nail",
+    "publisher": "Comics Cavalcade"
   },
   {
     "id": "coven-vol-2-awesome",
@@ -12425,14 +12390,14 @@
     "publisher": "Crossgen"
   },
   {
-    "id": "crow-image",
-    "title": "Crow",
-    "publisher": "Image"
-  },
-  {
     "id": "crow-idw",
     "title": "Crow",
     "publisher": "IDW"
+  },
+  {
+    "id": "crow-image",
+    "title": "Crow",
+    "publisher": "Image"
   },
   {
     "id": "crow-curare-idw",
@@ -12585,14 +12550,14 @@
     "publisher": "IDW"
   },
   {
-    "id": "csi-bad-rap-idea-and-design-works",
-    "title": "CSI Bad Rap",
-    "publisher": "Idea and Design Works"
-  },
-  {
     "id": "csi-bad-rap-idw",
     "title": "CSI Bad Rap",
     "publisher": "IDW"
+  },
+  {
+    "id": "csi-bad-rap-idea-and-design-works",
+    "title": "CSI Bad Rap",
+    "publisher": "Idea and Design Works"
   },
   {
     "id": "csi-crime-scene-investigation-idw",
@@ -12820,14 +12785,14 @@
     "publisher": "Maximum"
   },
   {
-    "id": "cyclops-marvel",
-    "title": "Cyclops",
-    "publisher": "Marvel"
-  },
-  {
     "id": "cyclops-archaia",
     "title": "Cyclops",
     "publisher": "Archaia"
+  },
+  {
+    "id": "cyclops-marvel",
+    "title": "Cyclops",
+    "publisher": "Marvel"
   },
   {
     "id": "cygor-image",
@@ -12925,14 +12890,14 @@
     "publisher": "Dark Horse"
   },
   {
-    "id": "damned-oni",
-    "title": "Damned",
-    "publisher": "Oni"
-  },
-  {
     "id": "damned-image",
     "title": "Damned",
     "publisher": "Image"
+  },
+  {
+    "id": "damned-oni",
+    "title": "Damned",
+    "publisher": "Oni"
   },
   {
     "id": "damsels-dynamic-forces",
@@ -13070,11 +13035,6 @@
     "publisher": "Image"
   },
   {
-    "id": "daredevil--marvel",
-    "title": "Daredevil",
-    "publisher": " Marvel "
-  },
-  {
     "id": "daredevil-marvel",
     "title": "Daredevil",
     "publisher": "Marvel"
@@ -13200,11 +13160,6 @@
     "publisher": "Image"
   },
   {
-    "id": "dark-avengers--marvel",
-    "title": "Dark Avengers",
-    "publisher": " Marvel "
-  },
-  {
     "id": "dark-avengers-marvel",
     "title": "Dark Avengers",
     "publisher": "Marvel"
@@ -13260,14 +13215,14 @@
     "publisher": "IDW"
   },
   {
-    "id": "dark-days-idea-and-design-works",
-    "title": "Dark Days",
-    "publisher": "Idea and Design Works"
-  },
-  {
     "id": "dark-days-idw-works",
     "title": "Dark Days",
     "publisher": "IDW Works"
+  },
+  {
+    "id": "dark-days-idea-and-design-works",
+    "title": "Dark Days",
+    "publisher": "Idea and Design Works"
   },
   {
     "id": "dark-delicacies-idw",
@@ -13420,11 +13375,6 @@
     "publisher": "Marvel"
   },
   {
-    "id": "dark-reign-sinister-spider-man--marvel",
-    "title": "Dark Reign Sinister Spider-Man",
-    "publisher": " Marvel "
-  },
-  {
     "id": "dark-reign-sinister-spider-man-marvel",
     "title": "Dark Reign Sinister Spider-Man",
     "publisher": "Marvel"
@@ -13435,19 +13385,9 @@
     "publisher": "Marvel"
   },
   {
-    "id": "dark-reign-young-avengers--marvel",
-    "title": "Dark Reign Young Avengers",
-    "publisher": " Marvel "
-  },
-  {
     "id": "dark-reign-zodiac-marvel",
     "title": "Dark Reign Zodiac",
     "publisher": "Marvel"
-  },
-  {
-    "id": "dark-reign-zodiac--marvel",
-    "title": "Dark Reign Zodiac",
-    "publisher": " Marvel "
   },
   {
     "id": "dark-sector-image",
@@ -13605,14 +13545,14 @@
     "publisher": "Dynamic"
   },
   {
-    "id": "darkchylde-darkchylde",
-    "title": "Darkchylde",
-    "publisher": "Darkchylde"
-  },
-  {
     "id": "darkchylde-image",
     "title": "Darkchylde",
     "publisher": "Image"
+  },
+  {
+    "id": "darkchylde-darkchylde",
+    "title": "Darkchylde",
+    "publisher": "Darkchylde"
   },
   {
     "id": "darkchylde-original-remastered-image",
@@ -13620,14 +13560,14 @@
     "publisher": "Image"
   },
   {
-    "id": "darkchylde-redemption-dark-horse",
-    "title": "Darkchylde Redemption",
-    "publisher": "Dark Horse"
-  },
-  {
     "id": "darkchylde-redemption-darkchylde",
     "title": "Darkchylde Redemption",
     "publisher": "Darkchylde"
+  },
+  {
+    "id": "darkchylde-redemption-dark-horse",
+    "title": "Darkchylde Redemption",
+    "publisher": "Dark Horse"
   },
   {
     "id": "darkchylde-remastered-image",
@@ -13650,14 +13590,14 @@
     "publisher": "Image"
   },
   {
-    "id": "darkchylde-the-legacy-image",
-    "title": "Darkchylde The Legacy",
-    "publisher": "Image"
-  },
-  {
     "id": "darkchylde-the-legacy-dc",
     "title": "Darkchylde The Legacy",
     "publisher": "DC"
+  },
+  {
+    "id": "darkchylde-the-legacy-image",
+    "title": "Darkchylde The Legacy",
+    "publisher": "Image"
   },
   {
     "id": "darkchylde-witchblade-image",
@@ -13725,14 +13665,14 @@
     "publisher": "Image"
   },
   {
-    "id": "darkness-top-cow",
-    "title": "Darkness",
-    "publisher": "Top Cow"
-  },
-  {
     "id": "darkness-image",
     "title": "Darkness",
     "publisher": "Image"
+  },
+  {
+    "id": "darkness-top-cow",
+    "title": "Darkness",
+    "publisher": "Top Cow"
   },
   {
     "id": "darkness-tomb-raider-image",
@@ -14555,11 +14495,6 @@
     "publisher": "Dynamic"
   },
   {
-    "id": "dead-irons--dynamic",
-    "title": "Dead Irons",
-    "publisher": " Dynamic "
-  },
-  {
     "id": "dead-king-chaos",
     "title": "Dead King",
     "publisher": "Chaos"
@@ -14783,11 +14718,6 @@
     "id": "deadpool-pulp-marvel",
     "title": "Deadpool Pulp",
     "publisher": "Marvel"
-  },
-  {
-    "id": "deadpool-suicide-kings--marvel",
-    "title": "Deadpool Suicide Kings",
-    "publisher": " Marvel "
   },
   {
     "id": "deadpool-suicide-kings-marvel",
@@ -15315,14 +15245,14 @@
     "publisher": "Avatar"
   },
   {
-    "id": "demonslayer-path-of-time-comic-cavalcade",
-    "title": "Demonslayer Path Of Time",
-    "publisher": "Comic Cavalcade"
-  },
-  {
     "id": "demonslayer-path-of-time-avatar",
     "title": "Demonslayer Path Of Time",
     "publisher": "Avatar"
+  },
+  {
+    "id": "demonslayer-path-of-time-comic-cavalcade",
+    "title": "Demonslayer Path Of Time",
+    "publisher": "Comic Cavalcade"
   },
   {
     "id": "demonslayer-prophecy-avatar",
@@ -15335,14 +15265,14 @@
     "publisher": "Awesome"
   },
   {
-    "id": "demonslayer-vengeance-avatar",
-    "title": "Demonslayer Vengeance",
-    "publisher": "Avatar"
-  },
-  {
     "id": "demonslayer-vengeance-comic-cavalcade",
     "title": "Demonslayer Vengeance",
     "publisher": "Comic Cavalcade"
+  },
+  {
+    "id": "demonslayer-vengeance-avatar",
+    "title": "Demonslayer Vengeance",
+    "publisher": "Avatar"
   },
   {
     "id": "demonslayer-vengeance-wraparound-cvr-avatar",
@@ -15580,14 +15510,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "dexters-laboratory-idw",
-    "title": "Dexters Laboratory",
-    "publisher": "IDW"
-  },
-  {
     "id": "dexters-laboratory-dc",
     "title": "Dexters Laboratory",
     "publisher": "DC"
+  },
+  {
+    "id": "dexters-laboratory-idw",
+    "title": "Dexters Laboratory",
+    "publisher": "IDW"
   },
   {
     "id": "df-amazing-spider-man-romita-sgn-dynamic-forces",
@@ -16155,14 +16085,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "doctor-spektor-dynamic-forces",
-    "title": "Doctor Spektor",
-    "publisher": "Dynamic Forces"
-  },
-  {
     "id": "doctor-spektor-dynamite",
     "title": "Doctor Spektor",
     "publisher": "Dynamite"
+  },
+  {
+    "id": "doctor-spektor-dynamic-forces",
+    "title": "Doctor Spektor",
+    "publisher": "Dynamic Forces"
   },
   {
     "id": "doctor-strange-marvel",
@@ -16360,14 +16290,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "dominion-image",
-    "title": "Dominion",
-    "publisher": "Image"
-  },
-  {
     "id": "dominion-boom",
     "title": "Dominion",
     "publisher": "Boom"
+  },
+  {
+    "id": "dominion-image",
+    "title": "Dominion",
+    "publisher": "Image"
   },
   {
     "id": "dominique-laveau-voodoo-child-dc",
@@ -16385,11 +16315,6 @@
     "publisher": "Moonstone"
   },
   {
-    "id": "donald-duck-boom",
-    "title": "Donald Duck",
-    "publisher": "Boom"
-  },
-  {
     "id": "donald-duck-gladstone",
     "title": "Donald Duck",
     "publisher": "Gladstone"
@@ -16398,6 +16323,11 @@
     "id": "donald-duck-idw",
     "title": "Donald Duck",
     "publisher": "IDW"
+  },
+  {
+    "id": "donald-duck-boom",
+    "title": "Donald Duck",
+    "publisher": "Boom"
   },
   {
     "id": "donald-duck-friends-gemstone",
@@ -16410,14 +16340,14 @@
     "publisher": "Gladstone"
   },
   {
-    "id": "donald-duck-and-friends-boom",
-    "title": "Donald Duck And Friends",
-    "publisher": "Boom"
-  },
-  {
     "id": "donald-duck-and-friends-gemstone",
     "title": "Donald Duck And Friends",
     "publisher": "Gemstone"
+  },
+  {
+    "id": "donald-duck-and-friends-boom",
+    "title": "Donald Duck And Friends",
+    "publisher": "Boom"
   },
   {
     "id": "donna-mia-avatar",
@@ -16850,11 +16780,6 @@
     "publisher": "Devil's Due"
   },
   {
-    "id": "dragons-lair-arcana",
-    "title": "Dragons Lair",
-    "publisher": "Arcana"
-  },
-  {
     "id": "dragons-lair-astonish",
     "title": "Dragons Lair",
     "publisher": "Astonish"
@@ -16863,6 +16788,11 @@
     "id": "dragons-lair-archaia",
     "title": "Dragons Lair",
     "publisher": "Archaia"
+  },
+  {
+    "id": "dragons-lair-arcana",
+    "title": "Dragons Lair",
+    "publisher": "Arcana"
   },
   {
     "id": "dragons-lair-singes-revenge-crossgen",
@@ -16945,14 +16875,14 @@
     "publisher": "Image"
   },
   {
-    "id": "dream-police-image",
-    "title": "Dream Police",
-    "publisher": "Image"
-  },
-  {
     "id": "dream-police-marvel",
     "title": "Dream Police",
     "publisher": "Marvel"
+  },
+  {
+    "id": "dream-police-image",
+    "title": "Dream Police",
+    "publisher": "Image"
   },
   {
     "id": "dream-thief-dark-horse",
@@ -16985,14 +16915,14 @@
     "publisher": "IDW"
   },
   {
-    "id": "dreams-of-the-darkchylde-dark-horse",
-    "title": "Dreams of the Darkchylde",
-    "publisher": "Dark Horse"
-  },
-  {
     "id": "dreams-of-the-darkchylde-dc",
     "title": "Dreams of the Darkchylde",
     "publisher": "DC"
+  },
+  {
+    "id": "dreams-of-the-darkchylde-dark-horse",
+    "title": "Dreams of the Darkchylde",
+    "publisher": "Dark Horse"
   },
   {
     "id": "dreams-of-the-darkchylde-darkchylde",
@@ -17787,7 +17717,7 @@
   {
     "id": "elric-making-of-a-sorcerer-dc",
     "title": "Elric Making of A Sorcerer",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "elric-making-of-sorcerer-dc",
@@ -17920,14 +17850,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "empire-dc",
-    "title": "Empire",
-    "publisher": "DC"
-  },
-  {
     "id": "empire-image",
     "title": "Empire",
     "publisher": "Image"
+  },
+  {
+    "id": "empire-dc",
+    "title": "Empire",
+    "publisher": "DC"
   },
   {
     "id": "empire-uprising-idw",
@@ -18050,14 +17980,14 @@
     "publisher": "Avatar"
   },
   {
-    "id": "enormous-215-ink",
-    "title": "Enormous",
-    "publisher": "215 Ink"
-  },
-  {
     "id": "enormous-215",
     "title": "Enormous",
     "publisher": "215"
+  },
+  {
+    "id": "enormous-215-ink",
+    "title": "Enormous",
+    "publisher": "215 Ink"
   },
   {
     "id": "enormous-one-shot-image",
@@ -18360,6 +18290,11 @@
     "publisher": "Boom"
   },
   {
+    "id": "evil-ernie-dynamite",
+    "title": "Evil Ernie",
+    "publisher": "Dynamite"
+  },
+  {
     "id": "evil-ernie-dynamic-forces",
     "title": "Evil Ernie",
     "publisher": "Dynamic Forces"
@@ -18368,11 +18303,6 @@
     "id": "evil-ernie-chaos",
     "title": "Evil Ernie",
     "publisher": "Chaos"
-  },
-  {
-    "id": "evil-ernie-dynamite",
-    "title": "Evil Ernie",
-    "publisher": "Dynamite"
   },
   {
     "id": "evil-ernie-depraved-chaos",
@@ -18445,14 +18375,14 @@
     "publisher": "Chaos"
   },
   {
-    "id": "evil-eye-fantagraphics",
-    "title": "Evil Eye",
-    "publisher": "Fantagraphics"
-  },
-  {
     "id": "evil-eye-fantagraphicseros",
     "title": "Evil Eye",
     "publisher": "Fantagraphics/Eros"
+  },
+  {
+    "id": "evil-eye-fantagraphics",
+    "title": "Evil Eye",
+    "publisher": "Fantagraphics"
   },
   {
     "id": "evil-heroes-zenescope",
@@ -18580,11 +18510,6 @@
     "publisher": "Marvel"
   },
   {
-    "id": "exiles--marvel",
-    "title": "Exiles",
-    "publisher": " Marvel "
-  },
-  {
     "id": "exiles-marvel",
     "title": "Exiles",
     "publisher": "Marvel"
@@ -18662,7 +18587,7 @@
   {
     "id": "extinction-seed-gg",
     "title": "Extinction Seed",
-    "publisher": "GG "
+    "publisher": "GG"
   },
   {
     "id": "extinctioners-vol-2-shanda",
@@ -18805,14 +18730,14 @@
     "publisher": "Boom"
   },
   {
-    "id": "faith-dc",
-    "title": "Faith",
-    "publisher": "DC"
-  },
-  {
     "id": "faith-valiant",
     "title": "Faith",
     "publisher": "Valiant"
+  },
+  {
+    "id": "faith-dc",
+    "title": "Faith",
+    "publisher": "DC"
   },
   {
     "id": "faith-encore-ed-lightning",
@@ -18865,14 +18790,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "fallen-angel-dc",
-    "title": "Fallen Angel",
-    "publisher": "DC"
-  },
-  {
     "id": "fallen-angel-idw",
     "title": "Fallen Angel",
     "publisher": "IDW"
+  },
+  {
+    "id": "fallen-angel-dc",
+    "title": "Fallen Angel",
+    "publisher": "DC"
   },
   {
     "id": "fallen-angel-idw-idw",
@@ -19185,14 +19110,14 @@
     "publisher": "Dreamwave"
   },
   {
-    "id": "fathom-aspen",
-    "title": "Fathom",
-    "publisher": "Aspen"
-  },
-  {
     "id": "fathom-image",
     "title": "Fathom",
     "publisher": "Image"
+  },
+  {
+    "id": "fathom-aspen",
+    "title": "Fathom",
+    "publisher": "Aspen"
   },
   {
     "id": "fathom-mid-west",
@@ -19390,14 +19315,14 @@
     "publisher": "IDW"
   },
   {
-    "id": "fear-agent-dark-horse",
-    "title": "Fear Agent",
-    "publisher": "Dark Horse"
-  },
-  {
     "id": "fear-agent-image",
     "title": "Fear Agent",
     "publisher": "Image"
+  },
+  {
+    "id": "fear-agent-dark-horse",
+    "title": "Fear Agent",
+    "publisher": "Dark Horse"
   },
   {
     "id": "fear-agent-hatchet-job-dark-horse",
@@ -19520,14 +19445,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "feather-image",
-    "title": "Feather",
-    "publisher": "Image"
-  },
-  {
     "id": "feather-fanboy",
     "title": "Feather",
     "publisher": "Fanboy"
+  },
+  {
+    "id": "feather-image",
+    "title": "Feather",
+    "publisher": "Image"
   },
   {
     "id": "feathers-boom",
@@ -19715,11 +19640,6 @@
     "publisher": "DC"
   },
   {
-    "id": "final-crisis-aftermath-dance--dc",
-    "title": "Final Crisis Aftermath Dance",
-    "publisher": " DC "
-  },
-  {
     "id": "final-crisis-aftermath-dance-dc",
     "title": "Final Crisis Aftermath Dance",
     "publisher": "DC"
@@ -19730,11 +19650,6 @@
     "publisher": "DC"
   },
   {
-    "id": "final-crisis-aftermath-ink--dc",
-    "title": "Final Crisis Aftermath Ink",
-    "publisher": " DC "
-  },
-  {
     "id": "final-crisis-aftermath-ink-dc",
     "title": "Final Crisis Aftermath Ink",
     "publisher": "DC"
@@ -19743,11 +19658,6 @@
     "id": "final-crisis-aftermath-run-dc",
     "title": "Final Crisis Aftermath Run",
     "publisher": "DC"
-  },
-  {
-    "id": "final-crisis-aftermath-run--dc",
-    "title": "Final Crisis Aftermath Run",
-    "publisher": " DC "
   },
   {
     "id": "final-crisis-legion-of-three-worlds-dc",
@@ -19885,14 +19795,14 @@
     "publisher": "DC"
   },
   {
-    "id": "first-wave-andromeda",
-    "title": "First Wave",
-    "publisher": "Andromeda"
-  },
-  {
     "id": "first-wave-realm",
     "title": "First Wave",
     "publisher": "Realm"
+  },
+  {
+    "id": "first-wave-andromeda",
+    "title": "First Wave",
+    "publisher": "Andromeda"
   },
   {
     "id": "first-wave-shi-realm",
@@ -20055,11 +19965,6 @@
     "publisher": "DC"
   },
   {
-    "id": "flash-gordon-dynamite",
-    "title": "Flash Gordon",
-    "publisher": "Dynamite"
-  },
-  {
     "id": "flash-gordon-dynamic-forces",
     "title": "Flash Gordon",
     "publisher": "Dynamic Forces"
@@ -20068,6 +19973,11 @@
     "id": "flash-gordon-ardden",
     "title": "Flash Gordon",
     "publisher": "Ardden"
+  },
+  {
+    "id": "flash-gordon-dynamite",
+    "title": "Flash Gordon",
+    "publisher": "Dynamite"
   },
   {
     "id": "flash-gordon-invasion-of-the-red-sword-ardden",
@@ -20682,7 +20592,7 @@
   {
     "id": "freedom-fighters-dc",
     "title": "Freedom Fighters",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "freedom-force-image",
@@ -20865,14 +20775,14 @@
     "publisher": "Dark Horse"
   },
   {
-    "id": "furrlough-antarctic",
-    "title": "Furrlough",
-    "publisher": "Antarctic"
-  },
-  {
     "id": "furrlough-radio",
     "title": "Furrlough",
     "publisher": "Radio"
+  },
+  {
+    "id": "furrlough-antarctic",
+    "title": "Furrlough",
+    "publisher": "Antarctic"
   },
   {
     "id": "furry-ninja-high-school-shanda",
@@ -20925,14 +20835,14 @@
     "publisher": "Image"
   },
   {
-    "id": "fused-image",
-    "title": "Fused",
-    "publisher": "Image"
-  },
-  {
     "id": "fused-dark-horse",
     "title": "Fused",
     "publisher": "Dark Horse"
+  },
+  {
+    "id": "fused-image",
+    "title": "Fused",
+    "publisher": "Image"
   },
   {
     "id": "fused-think-like-a-machine-dark-horse",
@@ -21067,12 +20977,12 @@
   {
     "id": "gi-combat-dc",
     "title": "G.I. Combat",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
-    "id": "gi-joe-dark-horse",
+    "id": "gi-joe-idw",
     "title": "G.I. Joe",
-    "publisher": "Dark Horse"
+    "publisher": "IDW"
   },
   {
     "id": "gi-joe-devils-due",
@@ -21080,9 +20990,9 @@
     "publisher": "Devil's Due"
   },
   {
-    "id": "gi-joe-idw",
+    "id": "gi-joe-dark-horse",
     "title": "G.I. Joe",
-    "publisher": "IDW"
+    "publisher": "Dark Horse"
   },
   {
     "id": "gi-joe-image",
@@ -21325,14 +21235,14 @@
     "publisher": "Playdigm"
   },
   {
-    "id": "galactica-1980-dynamic-forces",
-    "title": "Galactica 1980",
-    "publisher": "Dynamic Forces"
-  },
-  {
     "id": "galactica-1980-dynamic",
     "title": "Galactica 1980",
     "publisher": "Dynamic"
+  },
+  {
+    "id": "galactica-1980-dynamic-forces",
+    "title": "Galactica 1980",
+    "publisher": "Dynamic Forces"
   },
   {
     "id": "galactica-new-millennium-realm",
@@ -21380,14 +21290,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "game-of-thrones-dynamic-forces",
-    "title": "Game of Thrones",
-    "publisher": "Dynamic Forces"
-  },
-  {
     "id": "game-of-thrones-dynamite",
     "title": "Game of Thrones",
     "publisher": "Dynamite"
+  },
+  {
+    "id": "game-of-thrones-dynamic-forces",
+    "title": "Game of Thrones",
+    "publisher": "Dynamic Forces"
   },
   {
     "id": "gamekeeper-virgin",
@@ -21450,9 +21360,9 @@
     "publisher": "Avatar"
   },
   {
-    "id": "garth-ennis-battlefields-dynamite",
+    "id": "garth-ennis-battlefields-dynamic",
     "title": "Garth Ennis Battlefields",
-    "publisher": "Dynamite"
+    "publisher": "Dynamic"
   },
   {
     "id": "garth-ennis-battlefields-dynamic-forces",
@@ -21460,9 +21370,9 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "garth-ennis-battlefields-dynamic",
+    "id": "garth-ennis-battlefields-dynamite",
     "title": "Garth Ennis Battlefields",
-    "publisher": "Dynamic"
+    "publisher": "Dynamite"
   },
   {
     "id": "garth-ennis-battlefields-dear-billy-dynamic",
@@ -22305,14 +22215,14 @@
     "publisher": "Caliber"
   },
   {
-    "id": "gift-overcast",
-    "title": "Gift",
-    "publisher": "Overcast"
-  },
-  {
     "id": "gift-image",
     "title": "Gift",
     "publisher": "Image"
+  },
+  {
+    "id": "gift-overcast",
+    "title": "Gift",
+    "publisher": "Overcast"
   },
   {
     "id": "gift-set-overcast",
@@ -22350,24 +22260,24 @@
     "publisher": "Marvel"
   },
   {
-    "id": "girl-genius-ironcat",
-    "title": "Girl Genius",
-    "publisher": "Ironcat"
-  },
-  {
-    "id": "girl-genius-airship",
-    "title": "Girl Genius",
-    "publisher": "Airship"
-  },
-  {
     "id": "girl-genius-fogel",
     "title": "Girl Genius",
     "publisher": "Fogel"
   },
   {
+    "id": "girl-genius-ironcat",
+    "title": "Girl Genius",
+    "publisher": "Ironcat"
+  },
+  {
     "id": "girl-genius-studio-foglio",
     "title": "Girl Genius",
     "publisher": "Studio Foglio"
+  },
+  {
+    "id": "girl-genius-airship",
+    "title": "Girl Genius",
+    "publisher": "Airship"
   },
   {
     "id": "girl-presents-co-ed-diaries-resolicitation-blackout",
@@ -22435,11 +22345,6 @@
     "publisher": "Maximum"
   },
   {
-    "id": "glory-awesome",
-    "title": "Glory",
-    "publisher": "Awesome"
-  },
-  {
     "id": "glory-extreme",
     "title": "Glory",
     "publisher": "Extreme"
@@ -22450,9 +22355,19 @@
     "publisher": "Image"
   },
   {
+    "id": "glory-awesome",
+    "title": "Glory",
+    "publisher": "Awesome"
+  },
+  {
     "id": "glory-lionheart-rage-of-furies-awesome",
     "title": "Glory Lionheart Rage Of Furies",
     "publisher": "Awesome"
+  },
+  {
+    "id": "glorycelestine-dark-angel-maximum",
+    "title": "Glory/Celestine: Dark Angel",
+    "publisher": "Maximum"
   },
   {
     "id": "glorycelestine-dark-angel-extreme",
@@ -22463,11 +22378,6 @@
     "id": "glorycelestine-dark-angel-image",
     "title": "Glory/Celestine: Dark Angel",
     "publisher": "Image"
-  },
-  {
-    "id": "glorycelestine-dark-angel-maximum",
-    "title": "Glory/Celestine: Dark Angel",
-    "publisher": "Maximum"
   },
   {
     "id": "go-boy-7-human-action-machine-dark-horse",
@@ -22740,24 +22650,24 @@
     "publisher": "Fantagraphics"
   },
   {
-    "id": "goon-dark-horse",
-    "title": "Goon",
-    "publisher": "Dark Horse"
-  },
-  {
     "id": "goon-avatar",
     "title": "Goon",
     "publisher": "Avatar"
   },
   {
-    "id": "goon-albatross",
-    "title": "Goon",
-    "publisher": "Albatross"
-  },
-  {
     "id": "goon-albatross-exploding",
     "title": "Goon",
     "publisher": "Albatross Exploding"
+  },
+  {
+    "id": "goon-dark-horse",
+    "title": "Goon",
+    "publisher": "Dark Horse"
+  },
+  {
+    "id": "goon-albatross",
+    "title": "Goon",
+    "publisher": "Albatross"
   },
   {
     "id": "goon-color-special-albatross",
@@ -22838,11 +22748,6 @@
     "id": "gotham-city-sirens-dc",
     "title": "Gotham City Sirens",
     "publisher": "DC"
-  },
-  {
-    "id": "gotham-city-sirens--dc",
-    "title": "Gotham City Sirens",
-    "publisher": " DC "
   },
   {
     "id": "gotham-gazette-dc",
@@ -23010,11 +22915,6 @@
     "publisher": "DC"
   },
   {
-    "id": "green-arrow-black-canary--dc",
-    "title": "Green Arrow Black Canary",
-    "publisher": " DC "
-  },
-  {
     "id": "green-arrow-black-canary-wedding-sp-dc",
     "title": "Green Arrow Black Canary Wedding Sp",
     "publisher": "DC"
@@ -23090,14 +22990,14 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "green-hornet-parallel-lives-dynamite",
-    "title": "Green Hornet Parallel Lives",
-    "publisher": "Dynamite"
-  },
-  {
     "id": "green-hornet-parallel-lives-dynamic-forces",
     "title": "Green Hornet Parallel Lives",
     "publisher": "Dynamic Forces"
+  },
+  {
+    "id": "green-hornet-parallel-lives-dynamite",
+    "title": "Green Hornet Parallel Lives",
+    "publisher": "Dynamite"
   },
   {
     "id": "green-hornet-strikes-dynamite",
@@ -23110,6 +23010,11 @@
     "publisher": "Dynamic Forces"
   },
   {
+    "id": "green-hornet-year-one-dynamic-forces",
+    "title": "Green Hornet Year One",
+    "publisher": "Dynamic Forces"
+  },
+  {
     "id": "green-hornet-year-one-dynamic",
     "title": "Green Hornet Year One",
     "publisher": "Dynamic"
@@ -23118,11 +23023,6 @@
     "id": "green-hornet-year-one-dynamite",
     "title": "Green Hornet Year One",
     "publisher": "Dynamite"
-  },
-  {
-    "id": "green-hornet-year-one-dynamic-forces",
-    "title": "Green Hornet Year One",
-    "publisher": "Dynamic Forces"
   },
   {
     "id": "green-lantern-dc",
@@ -23435,9 +23335,9 @@
     "publisher": "Andromeda"
   },
   {
-    "id": "gremlin-trouble-antarctic",
+    "id": "gremlin-trouble-anti-ballistic-pixelations",
     "title": "Gremlin Trouble",
-    "publisher": "Antarctic"
+    "publisher": "Anti-Ballistic Pixelations"
   },
   {
     "id": "gremlin-trouble-anti-ballistic",
@@ -23445,9 +23345,9 @@
     "publisher": "Anti-Ballistic"
   },
   {
-    "id": "gremlin-trouble-anti-ballistic-pixelations",
+    "id": "gremlin-trouble-antarctic",
     "title": "Gremlin Trouble",
-    "publisher": "Anti-Ballistic Pixelations"
+    "publisher": "Antarctic"
   },
   {
     "id": "grendel-behold-devil-dark-horse",
@@ -23535,14 +23435,14 @@
     "publisher": "Slave Labor"
   },
   {
-    "id": "grifter-dc",
-    "title": "Grifter",
-    "publisher": "DC"
-  },
-  {
     "id": "grifter-image",
     "title": "Grifter",
     "publisher": "Image"
+  },
+  {
+    "id": "grifter-dc",
+    "title": "Grifter",
+    "publisher": "DC"
   },
   {
     "id": "grifter-and-the-mask-dark-horse",
@@ -23580,14 +23480,14 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "grimm-fairy-tales-zenescope",
-    "title": "Grimm Fairy Tales",
-    "publisher": "Zenescope"
-  },
-  {
     "id": "grimm-fairy-tales-zenscope",
     "title": "Grimm Fairy Tales",
     "publisher": "Zenscope"
+  },
+  {
+    "id": "grimm-fairy-tales-zenescope",
+    "title": "Grimm Fairy Tales",
+    "publisher": "Zenescope"
   },
   {
     "id": "grimm-fairy-tales-alice-10th-anniversary-special-zenescope",
@@ -24120,14 +24020,14 @@
     "publisher": "Dynamite"
   },
   {
-    "id": "grumpy-old-monsters-idw",
-    "title": "Grumpy Old Monsters",
-    "publisher": "IDW"
-  },
-  {
     "id": "grumpy-old-monsters-idea-and-design-works",
     "title": "Grumpy Old Monsters",
     "publisher": "Idea and Design Works"
+  },
+  {
+    "id": "grumpy-old-monsters-idw",
+    "title": "Grumpy Old Monsters",
+    "publisher": "IDW"
   },
   {
     "id": "guardian-angel-image",
@@ -24265,14 +24165,14 @@
     "publisher": "Image"
   },
   {
-    "id": "gundam-wing-tokyopop",
-    "title": "Gundam Wing",
-    "publisher": "Tokyopop"
-  },
-  {
     "id": "gundam-wing-mixx",
     "title": "Gundam Wing",
     "publisher": "Mixx"
+  },
+  {
+    "id": "gundam-wing-tokyopop",
+    "title": "Gundam Wing",
+    "publisher": "Tokyopop"
   },
   {
     "id": "gundam-wing-battlefield-of-pacifists-tokyopop",
@@ -24820,14 +24720,14 @@
     "publisher": "Image"
   },
   {
-    "id": "harvey-magazine-for-kids-harris",
-    "title": "Harvey Magazine For Kids",
-    "publisher": "Harris"
-  },
-  {
     "id": "harvey-magazine-for-kids-harvey",
     "title": "Harvey Magazine For Kids",
     "publisher": "Harvey"
+  },
+  {
+    "id": "harvey-magazine-for-kids-harris",
+    "title": "Harvey Magazine For Kids",
+    "publisher": "Harris"
   },
   {
     "id": "hate-fantagraphics",
@@ -24900,14 +24800,14 @@
     "publisher": "Dark Horse"
   },
   {
-    "id": "haunted-mansion-slave-labor",
-    "title": "Haunted Mansion",
-    "publisher": "Slave Labor"
-  },
-  {
     "id": "haunted-mansion-marvel",
     "title": "Haunted Mansion",
     "publisher": "Marvel"
+  },
+  {
+    "id": "haunted-mansion-slave-labor",
+    "title": "Haunted Mansion",
+    "publisher": "Slave Labor"
   },
   {
     "id": "haunted-tank-dc",
@@ -25025,14 +24925,14 @@
     "publisher": "DC"
   },
   {
-    "id": "head-fantagraphicseros",
-    "title": "Head",
-    "publisher": "Fantagraphics/Eros"
-  },
-  {
     "id": "head-fantagraphics",
     "title": "Head",
     "publisher": "Fantagraphics"
+  },
+  {
+    "id": "head-fantagraphicseros",
+    "title": "Head",
+    "publisher": "Fantagraphics/Eros"
   },
   {
     "id": "head-hunters-image",
@@ -25165,14 +25065,14 @@
     "publisher": "Oni"
   },
   {
-    "id": "helios-dakuwaka",
-    "title": "Helios",
-    "publisher": "Dakuwaka"
-  },
-  {
     "id": "helios-dakukawa",
     "title": "Helios",
     "publisher": "Dakukawa"
+  },
+  {
+    "id": "helios-dakuwaka",
+    "title": "Helios",
+    "publisher": "Dakuwaka"
   },
   {
     "id": "helios-in-wnew-speakeasy",
@@ -25515,14 +25415,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "hercules-radical",
-    "title": "Hercules",
-    "publisher": "Radical"
-  },
-  {
     "id": "hercules-radio",
     "title": "Hercules",
     "publisher": "Radio"
+  },
+  {
+    "id": "hercules-radical",
+    "title": "Hercules",
+    "publisher": "Radical"
   },
   {
     "id": "hercules-marvel",
@@ -26785,11 +26685,6 @@
     "publisher": "Image"
   },
   {
-    "id": "immortal-iron-fist--marvel",
-    "title": "Immortal Iron Fist",
-    "publisher": " Marvel "
-  },
-  {
     "id": "immortal-iron-fist-marvel",
     "title": "Immortal Iron Fist",
     "publisher": "Marvel"
@@ -27040,14 +26935,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "inferno-marvel",
-    "title": "Inferno",
-    "publisher": "Marvel"
-  },
-  {
     "id": "inferno-dc",
     "title": "Inferno",
     "publisher": "DC"
+  },
+  {
+    "id": "inferno-marvel",
+    "title": "Inferno",
+    "publisher": "Marvel"
   },
   {
     "id": "inferno-hellbound-image",
@@ -27125,14 +27020,14 @@
     "publisher": "Image"
   },
   {
-    "id": "infinite-kung-fu-great-lakes-ninja",
-    "title": "Infinite Kung Fu",
-    "publisher": "Great Lakes Ninja"
-  },
-  {
     "id": "infinite-kung-fu-great-lakes",
     "title": "Infinite Kung Fu",
     "publisher": "Great Lakes"
+  },
+  {
+    "id": "infinite-kung-fu-great-lakes-ninja",
+    "title": "Infinite Kung Fu",
+    "publisher": "Great Lakes Ninja"
   },
   {
     "id": "infinite-loop-idw",
@@ -27455,11 +27350,6 @@
     "publisher": "Dark Horse"
   },
   {
-    "id": "invincible-iron-man--marvel",
-    "title": "Invincible Iron Man",
-    "publisher": " Marvel "
-  },
-  {
     "id": "invincible-iron-man-marvel",
     "title": "Invincible Iron Man",
     "publisher": "Marvel"
@@ -27760,14 +27650,14 @@
     "publisher": "IDW"
   },
   {
-    "id": "iron-wings-action",
-    "title": "Iron Wings",
-    "publisher": "Action"
-  },
-  {
     "id": "iron-wings-ace",
     "title": "Iron Wings",
     "publisher": "Ace"
+  },
+  {
+    "id": "iron-wings-action",
+    "title": "Iron Wings",
+    "publisher": "Action"
   },
   {
     "id": "iron-wings-vol-2-image",
@@ -27820,14 +27710,14 @@
     "publisher": "Big"
   },
   {
-    "id": "island-image",
-    "title": "Island",
-    "publisher": "Image"
-  },
-  {
     "id": "island-tokyopop",
     "title": "Island",
     "publisher": "Tokyopop"
+  },
+  {
+    "id": "island-image",
+    "title": "Island",
+    "publisher": "Image"
   },
   {
     "id": "it-girl-the-atomics-image",
@@ -27915,6 +27805,11 @@
     "publisher": "DC"
   },
   {
+    "id": "jack-staff-com-x",
+    "title": "Jack Staff",
+    "publisher": "Com X"
+  },
+  {
     "id": "jack-staff-dancing-elephant",
     "title": "Jack Staff",
     "publisher": "Dancing Elephant"
@@ -27923,11 +27818,6 @@
     "id": "jack-staff-image",
     "title": "Jack Staff",
     "publisher": "Image"
-  },
-  {
-    "id": "jack-staff-com-x",
-    "title": "Jack Staff",
-    "publisher": "Com X"
   },
   {
     "id": "jack-staff-special-image",
@@ -28145,14 +28035,14 @@
     "publisher": "Boom"
   },
   {
-    "id": "jericho-season-3-idw",
-    "title": "Jericho Season 3",
-    "publisher": "IDW"
-  },
-  {
     "id": "jericho-season-3-devils-due",
     "title": "Jericho Season 3",
     "publisher": "Devil's Due"
+  },
+  {
+    "id": "jericho-season-3-idw",
+    "title": "Jericho Season 3",
+    "publisher": "IDW"
   },
   {
     "id": "jericho-season-4-idw",
@@ -28265,14 +28155,14 @@
     "publisher": "DC"
   },
   {
-    "id": "jingle-belle-dark-horse",
-    "title": "Jingle Belle",
-    "publisher": "Dark Horse"
-  },
-  {
     "id": "jingle-belle-oni",
     "title": "Jingle Belle",
     "publisher": "Oni"
+  },
+  {
+    "id": "jingle-belle-dark-horse",
+    "title": "Jingle Belle",
+    "publisher": "Dark Horse"
   },
   {
     "id": "jinn-image",
@@ -28585,14 +28475,14 @@
     "publisher": "Storm King"
   },
   {
-    "id": "john-carpenters-snake-plissken-hurricane",
-    "title": "John Carpenters Snake Plissken",
-    "publisher": "Hurricane"
-  },
-  {
     "id": "john-carpenters-snake-plissken-crossgen",
     "title": "John Carpenters Snake Plissken",
     "publisher": "Crossgen"
+  },
+  {
+    "id": "john-carpenters-snake-plissken-hurricane",
+    "title": "John Carpenters Snake Plissken",
+    "publisher": "Hurricane"
   },
   {
     "id": "john-carter-a-princess-of-mars-marvel",
@@ -29015,14 +28905,14 @@
     "publisher": "A List"
   },
   {
-    "id": "jungle-fantasy-avatar",
-    "title": "Jungle Fantasy",
-    "publisher": "Avatar"
-  },
-  {
     "id": "jungle-fantasy-comic-cavalcade",
     "title": "Jungle Fantasy",
     "publisher": "Comic Cavalcade"
+  },
+  {
+    "id": "jungle-fantasy-avatar",
+    "title": "Jungle Fantasy",
+    "publisher": "Avatar"
   },
   {
     "id": "jungle-fantasy-annual-avatar",
@@ -29377,7 +29267,7 @@
   {
     "id": "justice-league-unlimited-dc",
     "title": "Justice League Unlimited",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "justice-league-unltd-dc",
@@ -29420,11 +29310,6 @@
     "publisher": "DC"
   },
   {
-    "id": "justice-society-of-america--dc",
-    "title": "Justice Society of America",
-    "publisher": " DC "
-  },
-  {
     "id": "justice-society-of-america-dc",
     "title": "Justice Society of America",
     "publisher": "DC"
@@ -29447,7 +29332,7 @@
   {
     "id": "justice-society-of-america-special-dc",
     "title": "Justice Society Of America Special",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "ka-zar-marvel",
@@ -29475,11 +29360,6 @@
     "publisher": "Awesome"
   },
   {
-    "id": "kabuki-image",
-    "title": "Kabuki",
-    "publisher": "Image"
-  },
-  {
     "id": "kabuki-caliber",
     "title": "Kabuki",
     "publisher": "Caliber"
@@ -29488,6 +29368,11 @@
     "id": "kabuki-marvel",
     "title": "Kabuki",
     "publisher": "Marvel"
+  },
+  {
+    "id": "kabuki-image",
+    "title": "Kabuki",
+    "publisher": "Image"
   },
   {
     "id": "kabuki-variant-cover-image",
@@ -29520,14 +29405,14 @@
     "publisher": "Image"
   },
   {
-    "id": "kabuki-reflections-image",
-    "title": "Kabuki Reflections",
-    "publisher": "Image"
-  },
-  {
     "id": "kabuki-reflections-marvel",
     "title": "Kabuki Reflections",
     "publisher": "Marvel"
+  },
+  {
+    "id": "kabuki-reflections-image",
+    "title": "Kabuki Reflections",
+    "publisher": "Image"
   },
   {
     "id": "kabuki-reflections-book-marvel",
@@ -29605,14 +29490,14 @@
     "publisher": "Bongo"
   },
   {
-    "id": "kaos-moon-tusk",
-    "title": "Kaos Moon",
-    "publisher": "Tusk"
-  },
-  {
     "id": "kaos-moon-caliber",
     "title": "Kaos Moon",
     "publisher": "Caliber"
+  },
+  {
+    "id": "kaos-moon-tusk",
+    "title": "Kaos Moon",
+    "publisher": "Tusk"
   },
   {
     "id": "kaos-moon-resolicitation-caliber",
@@ -29670,14 +29555,14 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "kato-origins-way-of-the-ninja-dynamic-forces",
-    "title": "Kato Origins Way of the Ninja",
-    "publisher": "Dynamic Forces"
-  },
-  {
     "id": "kato-origins-way-of-the-ninja-dynamite",
     "title": "Kato Origins Way of the Ninja",
     "publisher": "Dynamite"
+  },
+  {
+    "id": "kato-origins-way-of-the-ninja-dynamic-forces",
+    "title": "Kato Origins Way of the Ninja",
+    "publisher": "Dynamic Forces"
   },
   {
     "id": "keep-idw",
@@ -29725,14 +29610,14 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "kevin-smith-green-hornet-dynamic",
-    "title": "Kevin Smith Green Hornet",
-    "publisher": "Dynamic"
-  },
-  {
     "id": "kevin-smith-green-hornet-dynamite",
     "title": "Kevin Smith Green Hornet",
     "publisher": "Dynamite"
+  },
+  {
+    "id": "kevin-smith-green-hornet-dynamic",
+    "title": "Kevin Smith Green Hornet",
+    "publisher": "Dynamic"
   },
   {
     "id": "kevin-smith-green-hornet-dynamic-forces",
@@ -29795,14 +29680,14 @@
     "publisher": "Event"
   },
   {
-    "id": "kid-supreme-image",
-    "title": "Kid Supreme",
-    "publisher": "Image"
-  },
-  {
     "id": "kid-supreme-extreme",
     "title": "Kid Supreme",
     "publisher": "Extreme"
+  },
+  {
+    "id": "kid-supreme-image",
+    "title": "Kid Supreme",
+    "publisher": "Image"
   },
   {
     "id": "kid-terrific-image",
@@ -29905,14 +29790,14 @@
     "publisher": "Black Mask"
   },
   {
-    "id": "kin-ice",
-    "title": "Kin",
-    "publisher": "Ice"
-  },
-  {
     "id": "kin-image",
     "title": "Kin",
     "publisher": "Image"
+  },
+  {
+    "id": "kin-ice",
+    "title": "Kin",
+    "publisher": "Ice"
   },
   {
     "id": "kindergoth-bloodfire",
@@ -30375,14 +30260,14 @@
     "publisher": "Image"
   },
   {
-    "id": "kurt-busieks-astro-city-vol-2-image",
-    "title": "Kurt Busiek's Astro City Vol. 2",
-    "publisher": "Image"
-  },
-  {
     "id": "kurt-busieks-astro-city-vol-2-homage",
     "title": "Kurt Busiek's Astro City Vol. 2",
     "publisher": "Homage"
+  },
+  {
+    "id": "kurt-busieks-astro-city-vol-2-image",
+    "title": "Kurt Busiek's Astro City Vol. 2",
+    "publisher": "Image"
   },
   {
     "id": "kurt-busieks-astro-city-vol-ii-image",
@@ -30410,14 +30295,14 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "la-blue-girl-central-park",
-    "title": "La Blue Girl",
-    "publisher": "Central Park"
-  },
-  {
     "id": "la-blue-girl-cpm",
     "title": "La Blue Girl",
     "publisher": "CPM"
+  },
+  {
+    "id": "la-blue-girl-central-park",
+    "title": "La Blue Girl",
+    "publisher": "Central Park"
   },
   {
     "id": "la-blue-girl-manga-ed-cpm",
@@ -30475,14 +30360,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "lady-death-chaos",
-    "title": "Lady Death",
-    "publisher": "Chaos"
-  },
-  {
     "id": "lady-death-avatar",
     "title": "Lady Death",
     "publisher": "Avatar"
+  },
+  {
+    "id": "lady-death-chaos",
+    "title": "Lady Death",
+    "publisher": "Chaos"
   },
   {
     "id": "lady-death-ongoing-avatar",
@@ -30800,14 +30685,14 @@
     "publisher": "Chaos"
   },
   {
-    "id": "lady-demon-chaos",
-    "title": "Lady Demon",
-    "publisher": "Chaos"
-  },
-  {
     "id": "lady-demon-dynamite",
     "title": "Lady Demon",
     "publisher": "Dynamite"
+  },
+  {
+    "id": "lady-demon-chaos",
+    "title": "Lady Demon",
+    "publisher": "Chaos"
   },
   {
     "id": "lady-killer-dark-horse",
@@ -30885,14 +30770,14 @@
     "publisher": "Image"
   },
   {
-    "id": "lady-rawhide-topps",
-    "title": "Lady Rawhide",
-    "publisher": "Topps"
-  },
-  {
     "id": "lady-rawhide-dynamic-forces",
     "title": "Lady Rawhide",
     "publisher": "Dynamic Forces"
+  },
+  {
+    "id": "lady-rawhide-topps",
+    "title": "Lady Rawhide",
+    "publisher": "Topps"
   },
   {
     "id": "lady-robotika-image",
@@ -31035,14 +30920,14 @@
     "publisher": "Dark Horse"
   },
   {
-    "id": "last-phantom-dynamic-forces",
-    "title": "Last Phantom",
-    "publisher": "Dynamic Forces"
-  },
-  {
     "id": "last-phantom-dynamite",
     "title": "Last Phantom",
     "publisher": "Dynamite"
+  },
+  {
+    "id": "last-phantom-dynamic-forces",
+    "title": "Last Phantom",
+    "publisher": "Dynamic Forces"
   },
   {
     "id": "last-planet-standing-marvel",
@@ -31310,14 +31195,14 @@
     "publisher": "Dynamic"
   },
   {
-    "id": "legenderry-a-steampunk-adv-dynamic-forces",
-    "title": "Legenderry A Steampunk Adv",
-    "publisher": "Dynamic Forces"
-  },
-  {
     "id": "legenderry-a-steampunk-adv-dynamite",
     "title": "Legenderry A Steampunk Adv",
     "publisher": "Dynamite"
+  },
+  {
+    "id": "legenderry-a-steampunk-adv-dynamic-forces",
+    "title": "Legenderry A Steampunk Adv",
+    "publisher": "Dynamic Forces"
   },
   {
     "id": "legenderry-green-hornet-dynamite",
@@ -31785,11 +31670,6 @@
     "publisher": "DC"
   },
   {
-    "id": "literals--dc",
-    "title": "Literals",
-    "publisher": " DC "
-  },
-  {
     "id": "literary-graffiti-kami-shibal",
     "title": "Literary Graffiti",
     "publisher": "Kami Shibal"
@@ -32110,14 +31990,14 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "lone-ranger-tonto-dynamic",
-    "title": "Lone Ranger & Tonto",
-    "publisher": "Dynamic"
-  },
-  {
     "id": "lone-ranger-tonto-dynamic-forces",
     "title": "Lone Ranger & Tonto",
     "publisher": "Dynamic Forces"
+  },
+  {
+    "id": "lone-ranger-tonto-dynamic",
+    "title": "Lone Ranger & Tonto",
+    "publisher": "Dynamic"
   },
   {
     "id": "lone-ranger-and-tonto-dynamic",
@@ -32235,14 +32115,14 @@
     "publisher": "IDW"
   },
   {
-    "id": "lori-lovecraft-av",
-    "title": "Lori Lovecraft",
-    "publisher": "AV"
-  },
-  {
     "id": "lori-lovecraft-caliber",
     "title": "Lori Lovecraft",
     "publisher": "Caliber"
+  },
+  {
+    "id": "lori-lovecraft-av",
+    "title": "Lori Lovecraft",
+    "publisher": "AV"
   },
   {
     "id": "losers-dc",
@@ -32330,14 +32210,14 @@
     "publisher": "Drawn & Quarterly"
   },
   {
-    "id": "love-rockets-vol-2-fantagraphicseros",
-    "title": "Love & Rockets Vol. 2",
-    "publisher": "Fantagraphics/Eros"
-  },
-  {
     "id": "love-rockets-vol-2-fantagraphics",
     "title": "Love & Rockets Vol. 2",
     "publisher": "Fantagraphics"
+  },
+  {
+    "id": "love-rockets-vol-2-fantagraphicseros",
+    "title": "Love & Rockets Vol. 2",
+    "publisher": "Fantagraphics/Eros"
   },
   {
     "id": "love-and-rockets-volume-ii-fantagraphics",
@@ -32390,14 +32270,14 @@
     "publisher": "Image"
   },
   {
-    "id": "luba-fantagraphicseros",
-    "title": "Luba",
-    "publisher": "Fantagraphics/Eros"
-  },
-  {
     "id": "luba-fantagraphics",
     "title": "Luba",
     "publisher": "Fantagraphics"
+  },
+  {
+    "id": "luba-fantagraphicseros",
+    "title": "Luba",
+    "publisher": "Fantagraphics/Eros"
   },
   {
     "id": "lubas-comics-stories-fantagraphics",
@@ -32510,14 +32390,14 @@
     "publisher": "IDW"
   },
   {
-    "id": "lust-fantagraphics",
-    "title": "Lust",
-    "publisher": "Fantagraphics"
-  },
-  {
     "id": "lust-eros",
     "title": "Lust",
     "publisher": "Eros"
+  },
+  {
+    "id": "lust-fantagraphics",
+    "title": "Lust",
+    "publisher": "Fantagraphics"
   },
   {
     "id": "lust-for-life-slave-labor",
@@ -32925,16 +32805,6 @@
     "publisher": "White Lightning"
   },
   {
-    "id": "magnus-robot-fighter-acclaim",
-    "title": "Magnus Robot Fighter",
-    "publisher": "Acclaim"
-  },
-  {
-    "id": "magnus-robot-fighter-dynamic-forces",
-    "title": "Magnus Robot Fighter",
-    "publisher": "Dynamic Forces"
-  },
-  {
     "id": "magnus-robot-fighter-dynamite",
     "title": "Magnus Robot Fighter",
     "publisher": "Dynamite"
@@ -32943,6 +32813,16 @@
     "id": "magnus-robot-fighter-dark-horse",
     "title": "Magnus Robot Fighter",
     "publisher": "Dark Horse"
+  },
+  {
+    "id": "magnus-robot-fighter-acclaim",
+    "title": "Magnus Robot Fighter",
+    "publisher": "Acclaim"
+  },
+  {
+    "id": "magnus-robot-fighter-dynamic-forces",
+    "title": "Magnus Robot Fighter",
+    "publisher": "Dynamic Forces"
   },
   {
     "id": "magog-dc",
@@ -34340,14 +34220,14 @@
     "publisher": "Image"
   },
   {
-    "id": "masters-of-the-universe-vol-3-image",
-    "title": "Masters of the Universe Vol. 3",
-    "publisher": "Image"
-  },
-  {
     "id": "masters-of-the-universe-vol-3-mv-creations",
     "title": "Masters of the Universe Vol. 3",
     "publisher": "MV Creations"
+  },
+  {
+    "id": "masters-of-the-universe-vol-3-image",
+    "title": "Masters of the Universe Vol. 3",
+    "publisher": "Image"
   },
   {
     "id": "matador-dc",
@@ -34845,14 +34725,14 @@
     "publisher": "Big"
   },
   {
-    "id": "micronauts-devils-due",
-    "title": "Micronauts",
-    "publisher": "Devil's Due"
-  },
-  {
     "id": "micronauts-idw",
     "title": "Micronauts",
     "publisher": "IDW"
+  },
+  {
+    "id": "micronauts-devils-due",
+    "title": "Micronauts",
+    "publisher": "Devil's Due"
   },
   {
     "id": "micronauts-image",
@@ -35860,14 +35740,14 @@
     "publisher": "MV Creations"
   },
   {
-    "id": "motu-he-man-rise-of-the-snake-men-mv-creations",
-    "title": "Motu He-Man Rise of the Snake Men",
-    "publisher": "MV Creations"
-  },
-  {
     "id": "motu-he-man-rise-of-the-snake-men-crossgen",
     "title": "Motu He-Man Rise of the Snake Men",
     "publisher": "CrossGen"
+  },
+  {
+    "id": "motu-he-man-rise-of-the-snake-men-mv-creations",
+    "title": "Motu He-Man Rise of the Snake Men",
+    "publisher": "MV Creations"
   },
   {
     "id": "motu-icons-of-evil-beast-man-image",
@@ -35910,14 +35790,14 @@
     "publisher": "Image"
   },
   {
-    "id": "mouse-guard-archaia",
-    "title": "Mouse Guard",
-    "publisher": "Archaia"
-  },
-  {
     "id": "mouse-guard-archie",
     "title": "Mouse Guard",
     "publisher": "Archie"
+  },
+  {
+    "id": "mouse-guard-archaia",
+    "title": "Mouse Guard",
+    "publisher": "Archaia"
   },
   {
     "id": "mouse-guard-black-axe-archaia",
@@ -36018,11 +35898,6 @@
     "id": "ms-fortune-image",
     "title": "Ms Fortune",
     "publisher": "Image"
-  },
-  {
-    "id": "ms-marvel--marvel",
-    "title": "Ms Marvel",
-    "publisher": " Marvel "
   },
   {
     "id": "ms-marvel-marvel",
@@ -36385,14 +36260,14 @@
     "publisher": "Dark Horse"
   },
   {
-    "id": "mystic-marvel",
-    "title": "Mystic",
-    "publisher": "Marvel"
-  },
-  {
     "id": "mystic-crossgen",
     "title": "Mystic",
     "publisher": "CrossGen"
+  },
+  {
+    "id": "mystic-marvel",
+    "title": "Mystic",
+    "publisher": "Marvel"
   },
   {
     "id": "mystic-comics-marvel",
@@ -36405,9 +36280,9 @@
     "publisher": "Antarctic"
   },
   {
-    "id": "mystic-funnies-last-gasp",
+    "id": "mystic-funnies-nincompoop",
     "title": "Mystic Funnies",
-    "publisher": "Last Gasp"
+    "publisher": "Nincompoop"
   },
   {
     "id": "mystic-funnies-fantagraphics",
@@ -36415,9 +36290,9 @@
     "publisher": "Fantagraphics"
   },
   {
-    "id": "mystic-funnies-nincompoop",
+    "id": "mystic-funnies-last-gasp",
     "title": "Mystic Funnies",
-    "publisher": "Nincompoop"
+    "publisher": "Last Gasp"
   },
   {
     "id": "mystique-marvel",
@@ -36945,14 +36820,14 @@
     "publisher": "Fantagraphics"
   },
   {
-    "id": "new-bondage-fairies-eros",
-    "title": "New Bondage Fairies",
-    "publisher": "Eros"
-  },
-  {
     "id": "new-bondage-fairies-fantagraphics",
     "title": "New Bondage Fairies",
     "publisher": "Fantagraphics"
+  },
+  {
+    "id": "new-bondage-fairies-eros",
+    "title": "New Bondage Fairies",
+    "publisher": "Eros"
   },
   {
     "id": "new-bondage-fairies-curr-prtg-fantagraphics",
@@ -37040,14 +36915,14 @@
     "publisher": "Fantagraphics"
   },
   {
-    "id": "new-mangaverse-harris",
-    "title": "New Mangaverse",
-    "publisher": "Harris"
-  },
-  {
     "id": "new-mangaverse-marvel",
     "title": "New Mangaverse",
     "publisher": "Marvel"
+  },
+  {
+    "id": "new-mangaverse-harris",
+    "title": "New Mangaverse",
+    "publisher": "Harris"
   },
   {
     "id": "new-men-extreme",
@@ -37225,14 +37100,14 @@
     "publisher": "DC"
   },
   {
-    "id": "newmen-maximum",
-    "title": "Newmen",
-    "publisher": "Maximum"
-  },
-  {
     "id": "newmen-extreme",
     "title": "Newmen",
     "publisher": "Extreme"
+  },
+  {
+    "id": "newmen-maximum",
+    "title": "Newmen",
+    "publisher": "Maximum"
   },
   {
     "id": "newmen-image",
@@ -37610,14 +37485,14 @@
     "publisher": "DC"
   },
   {
-    "id": "ninjak-acclaim",
-    "title": "Ninjak",
-    "publisher": "Acclaim"
-  },
-  {
     "id": "ninjak-valiant",
     "title": "Ninjak",
     "publisher": "Valiant"
+  },
+  {
+    "id": "ninjak-acclaim",
+    "title": "Ninjak",
+    "publisher": "Acclaim"
   },
   {
     "id": "ninjas-vs-zombies-azure",
@@ -37805,14 +37680,14 @@
     "publisher": "Oni"
   },
   {
-    "id": "nodwick-henchman",
-    "title": "Nodwick",
-    "publisher": "Henchman"
-  },
-  {
     "id": "nodwick-dork-storm",
     "title": "Nodwick",
     "publisher": "Dork Storm"
+  },
+  {
+    "id": "nodwick-henchman",
+    "title": "Nodwick",
+    "publisher": "Henchman"
   },
   {
     "id": "noir-dynamic-forces",
@@ -38045,11 +37920,6 @@
     "publisher": "Marvel"
   },
   {
-    "id": "official-index-to-marvel-universe--marvel",
-    "title": "Official Index To Marvel Universe",
-    "publisher": " Marvel "
-  },
-  {
     "id": "official-index-to-marvel-universe-marvel",
     "title": "Official Index To Marvel Universe",
     "publisher": "Marvel"
@@ -38115,14 +37985,14 @@
     "publisher": "Boom"
   },
   {
-    "id": "oh-my-ic",
-    "title": "Oh My",
-    "publisher": "I.C."
-  },
-  {
     "id": "oh-my-ironcat",
     "title": "Oh My",
     "publisher": "Ironcat"
+  },
+  {
+    "id": "oh-my-ic",
+    "title": "Oh My",
+    "publisher": "I.C."
   },
   {
     "id": "oh-my-goddess-dark-horse",
@@ -38297,7 +38167,7 @@
   {
     "id": "one-gg",
     "title": "One",
-    "publisher": "GG "
+    "publisher": "GG"
   },
   {
     "id": "one-hit-wonder-image",
@@ -38405,14 +38275,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "original-bondage-fairies-fantagraphics",
-    "title": "Original Bondage Fairies",
-    "publisher": "Fantagraphics"
-  },
-  {
     "id": "original-bondage-fairies-fantagraphicseros",
     "title": "Original Bondage Fairies",
     "publisher": "Fantagraphics/Eros"
+  },
+  {
+    "id": "original-bondage-fairies-fantagraphics",
+    "title": "Original Bondage Fairies",
+    "publisher": "Fantagraphics"
   },
   {
     "id": "original-sin-marvel",
@@ -38522,12 +38392,12 @@
   {
     "id": "our-army-at-war-dc",
     "title": "Our Army At War",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "our-fighting-forces-dc",
     "title": "Our Fighting Forces",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "out-for-blood-dark-horse",
@@ -38563,11 +38433,6 @@
     "id": "outlook-grim-slave-labor",
     "title": "Outlook Grim",
     "publisher": "Slave Labor"
-  },
-  {
-    "id": "outsiders--dc",
-    "title": "Outsiders",
-    "publisher": " DC "
   },
   {
     "id": "outsiders-dc",
@@ -38820,14 +38685,14 @@
     "publisher": "Chaos"
   },
   {
-    "id": "pandora-avatar",
-    "title": "Pandora",
-    "publisher": "Avatar"
-  },
-  {
     "id": "pandora-brainstorm",
     "title": "Pandora",
     "publisher": "Brainstorm"
+  },
+  {
+    "id": "pandora-avatar",
+    "title": "Pandora",
+    "publisher": "Avatar"
   },
   {
     "id": "pandora-nude-avatar",
@@ -38870,14 +38735,14 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "pantheon-london-night",
-    "title": "Pantheon",
-    "publisher": "London Night"
-  },
-  {
     "id": "pantheon-lone-star",
     "title": "Pantheon",
     "publisher": "Lone Star"
+  },
+  {
+    "id": "pantheon-london-night",
+    "title": "Pantheon",
+    "publisher": "London Night"
   },
   {
     "id": "pants-ant-trouser-hour-slave-labor",
@@ -39170,14 +39035,14 @@
     "publisher": "BIG"
   },
   {
-    "id": "penny-for-your-soul-false-prophet-big-dog",
-    "title": "Penny For Your Soul False Prophet",
-    "publisher": "Big Dog"
-  },
-  {
     "id": "penny-for-your-soul-false-prophet-big-dog-ink",
     "title": "Penny For Your Soul False Prophet",
     "publisher": "Big Dog Ink"
+  },
+  {
+    "id": "penny-for-your-soul-false-prophet-big-dog",
+    "title": "Penny For Your Soul False Prophet",
+    "publisher": "Big Dog"
   },
   {
     "id": "penny-pincher-gladstone",
@@ -39895,6 +39760,11 @@
     "publisher": "Dark Horse"
   },
   {
+    "id": "pop-gun-war-abstract",
+    "title": "Pop Gun War",
+    "publisher": "Abstract"
+  },
+  {
     "id": "pop-gun-war-absence-of-ink",
     "title": "Pop Gun War",
     "publisher": "Absence of Ink"
@@ -39905,24 +39775,19 @@
     "publisher": "Cryptic"
   },
   {
-    "id": "pop-gun-war-abstract",
-    "title": "Pop Gun War",
-    "publisher": "Abstract"
-  },
-  {
     "id": "pop-life-fantagraphicseros",
     "title": "Pop Life",
     "publisher": "Fantagraphics/Eros"
   },
   {
-    "id": "popbot-idw",
-    "title": "Popbot",
-    "publisher": "IDW"
-  },
-  {
     "id": "popbot-idea-design-works",
     "title": "Popbot",
     "publisher": "Idea & Design Works"
+  },
+  {
+    "id": "popbot-idw",
+    "title": "Popbot",
+    "publisher": "IDW"
   },
   {
     "id": "popbot-reader-idw",
@@ -39995,11 +39860,6 @@
     "publisher": "DC"
   },
   {
-    "id": "power-girl--dc",
-    "title": "Power Girl",
-    "publisher": " DC "
-  },
-  {
     "id": "power-girl-dc",
     "title": "Power Girl",
     "publisher": "DC"
@@ -40040,19 +39900,14 @@
     "publisher": "Boom"
   },
   {
-    "id": "power-rangers-zeo-extreme",
-    "title": "Power Rangers Zeo",
-    "publisher": "Extreme"
-  },
-  {
     "id": "power-rangers-zeo-image",
     "title": "Power Rangers Zeo",
     "publisher": "Image"
   },
   {
-    "id": "power-rangers-zeoyoungblood-maximum",
-    "title": "Power Rangers Zeo/Youngblood",
-    "publisher": "Maximum"
+    "id": "power-rangers-zeo-extreme",
+    "title": "Power Rangers Zeo",
+    "publisher": "Extreme"
   },
   {
     "id": "power-rangers-zeoyoungblood-extreme",
@@ -40063,6 +39918,11 @@
     "id": "power-rangers-zeoyoungblood-image",
     "title": "Power Rangers Zeo/Youngblood",
     "publisher": "Image"
+  },
+  {
+    "id": "power-rangers-zeoyoungblood-maximum",
+    "title": "Power Rangers Zeo/Youngblood",
+    "publisher": "Maximum"
   },
   {
     "id": "power-up-boom",
@@ -40355,9 +40215,9 @@
     "publisher": "Dynamic"
   },
   {
-    "id": "project-superpowers-chapter-two--dynamic",
+    "id": "project-superpowers-chapter-two-dynamic",
     "title": "Project Superpowers Chapter Two",
-    "publisher": " Dynamic "
+    "publisher": "Dynamic"
   },
   {
     "id": "project-superpowers-chapter-two-dynamite",
@@ -40365,24 +40225,19 @@
     "publisher": "Dynamite"
   },
   {
-    "id": "project-superpowers-chapter-two-dynamic",
-    "title": "Project Superpowers Chapter Two",
-    "publisher": "Dynamic"
-  },
-  {
     "id": "project-superpowers-christmas-special-dynamic-forces",
     "title": "Project Superpowers Christmas Special",
-    "publisher": "Dynamic Forces"
-  },
-  {
-    "id": "project-superpowers-meet-the-bad-guys-dynamic-forces",
-    "title": "Project Superpowers Meet The Bad Guys",
     "publisher": "Dynamic Forces"
   },
   {
     "id": "project-superpowers-meet-the-bad-guys-dynamic",
     "title": "Project Superpowers Meet The Bad Guys",
     "publisher": "Dynamic"
+  },
+  {
+    "id": "project-superpowers-meet-the-bad-guys-dynamic-forces",
+    "title": "Project Superpowers Meet The Bad Guys",
+    "publisher": "Dynamic Forces"
   },
   {
     "id": "project-superpowers-vol-2-supremacy-dynamic",
@@ -40530,14 +40385,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "public-enemy-american-mule",
-    "title": "Public Enemy",
-    "publisher": "American Mule"
-  },
-  {
     "id": "public-enemy-basement",
     "title": "Public Enemy",
     "publisher": "Basement"
+  },
+  {
+    "id": "public-enemy-american-mule",
+    "title": "Public Enemy",
+    "publisher": "American Mule"
   },
   {
     "id": "pubo-dark-horse",
@@ -40735,11 +40590,6 @@
     "publisher": "Action Lab"
   },
   {
-    "id": "purgatori-chaos",
-    "title": "Purgatori",
-    "publisher": "Chaos"
-  },
-  {
     "id": "purgatori-devils-due",
     "title": "Purgatori",
     "publisher": "Devil's Due"
@@ -40748,6 +40598,11 @@
     "id": "purgatori-dynamite",
     "title": "Purgatori",
     "publisher": "Dynamite"
+  },
+  {
+    "id": "purgatori-chaos",
+    "title": "Purgatori",
+    "publisher": "Chaos"
   },
   {
     "id": "purgatori-darkest-hour-chaos",
@@ -40955,6 +40810,11 @@
     "publisher": "ARH Comix"
   },
   {
+    "id": "queen-sonja-dynamic-forces",
+    "title": "Queen Sonja",
+    "publisher": "Dynamic Forces"
+  },
+  {
     "id": "queen-sonja-dynamic",
     "title": "Queen Sonja",
     "publisher": "Dynamic"
@@ -40963,11 +40823,6 @@
     "id": "queen-sonja-dynamite",
     "title": "Queen Sonja",
     "publisher": "Dynamite"
-  },
-  {
-    "id": "queen-sonja-dynamic-forces",
-    "title": "Queen Sonja",
-    "publisher": "Dynamic Forces"
   },
   {
     "id": "question-dc",
@@ -41055,14 +40910,14 @@
     "publisher": "Image"
   },
   {
-    "id": "ragnarok-tokyopop",
-    "title": "Ragnarok",
-    "publisher": "Tokyopop"
-  },
-  {
     "id": "ragnarok-idw",
     "title": "Ragnarok",
     "publisher": "IDW"
+  },
+  {
+    "id": "ragnarok-tokyopop",
+    "title": "Ragnarok",
+    "publisher": "Tokyopop"
   },
   {
     "id": "rai-valiant",
@@ -41210,14 +41065,14 @@
     "publisher": "DC"
   },
   {
-    "id": "rapture-acid-colors",
-    "title": "Rapture",
-    "publisher": "Acid Colors"
-  },
-  {
     "id": "rapture-dark-horse",
     "title": "Rapture",
     "publisher": "Dark Horse"
+  },
+  {
+    "id": "rapture-acid-colors",
+    "title": "Rapture",
+    "publisher": "Acid Colors"
   },
   {
     "id": "rare-creature-slave-labor",
@@ -41235,14 +41090,14 @@
     "publisher": "Image"
   },
   {
-    "id": "rat-bastard-crusade",
-    "title": "Rat Bastard",
-    "publisher": "Crusade"
-  },
-  {
     "id": "rat-bastard-crucial",
     "title": "Rat Bastard",
     "publisher": "Crucial"
+  },
+  {
+    "id": "rat-bastard-crusade",
+    "title": "Rat Bastard",
+    "publisher": "Crusade"
   },
   {
     "id": "rat-god-dark-horse",
@@ -41262,7 +41117,7 @@
   {
     "id": "ratchet-and-clank-dc",
     "title": "Ratchet And Clank",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "ravagers-dc",
@@ -41360,14 +41215,14 @@
     "publisher": "Eh!"
   },
   {
-    "id": "razor-gothic-eh",
-    "title": "Razor Gothic",
-    "publisher": "Eh!"
-  },
-  {
     "id": "razor-gothic-london-night",
     "title": "Razor Gothic",
     "publisher": "London Night"
+  },
+  {
+    "id": "razor-gothic-eh",
+    "title": "Razor Gothic",
+    "publisher": "Eh!"
   },
   {
     "id": "razor-the-ravening-avatar",
@@ -41380,14 +41235,14 @@
     "publisher": "Avatar"
   },
   {
-    "id": "razor-uncut-london-night",
-    "title": "Razor Uncut",
-    "publisher": "London Night"
-  },
-  {
     "id": "razor-uncut-eh",
     "title": "Razor Uncut",
     "publisher": "Eh!"
+  },
+  {
+    "id": "razor-uncut-london-night",
+    "title": "Razor Uncut",
+    "publisher": "London Night"
   },
   {
     "id": "razor-vol-2-london-night",
@@ -41567,7 +41422,7 @@
   {
     "id": "red-frank-special-dc",
     "title": "Red Frank Special",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "red-fury-high-impact",
@@ -41612,7 +41467,7 @@
   {
     "id": "red-joe-special-dc",
     "title": "Red Joe Special",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "red-lanterns-dc",
@@ -41632,7 +41487,7 @@
   {
     "id": "red-marvin-special-dc",
     "title": "Red Marvin Special",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "red-mass-for-mars-image",
@@ -41653,11 +41508,6 @@
     "id": "red-prophet-tales-of-alvin-maker-marvel",
     "title": "Red Prophet Tales of Alvin Maker",
     "publisher": "Marvel"
-  },
-  {
-    "id": "red-robin--dc",
-    "title": "Red Robin",
-    "publisher": " DC "
   },
   {
     "id": "red-robin-dc",
@@ -41685,14 +41535,14 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "red-sonja-cross-plains",
-    "title": "Red Sonja",
-    "publisher": "Cross Plains"
-  },
-  {
     "id": "red-sonja-dynamic",
     "title": "Red Sonja",
     "publisher": "Dynamic"
+  },
+  {
+    "id": "red-sonja-cross-plains",
+    "title": "Red Sonja",
+    "publisher": "Cross Plains"
   },
   {
     "id": "red-sonja-dynamite",
@@ -41780,14 +41630,14 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "red-sonja-wrath-of-the-gods-dynamic",
-    "title": "Red Sonja Wrath of the Gods",
-    "publisher": "Dynamic"
-  },
-  {
     "id": "red-sonja-wrath-of-the-gods-dynamite",
     "title": "Red Sonja Wrath of the Gods",
     "publisher": "Dynamite"
+  },
+  {
+    "id": "red-sonja-wrath-of-the-gods-dynamic",
+    "title": "Red Sonja Wrath of the Gods",
+    "publisher": "Dynamic"
   },
   {
     "id": "red-spike-image",
@@ -41820,16 +41670,6 @@
     "publisher": "Image"
   },
   {
-    "id": "red-star-vol-2-archaia",
-    "title": "Red Star Vol. 2",
-    "publisher": "Archaia"
-  },
-  {
-    "id": "red-star-vol-2-archie",
-    "title": "Red Star Vol. 2",
-    "publisher": "Archie"
-  },
-  {
     "id": "red-star-vol-2-arcade",
     "title": "Red Star Vol. 2",
     "publisher": "Arcade"
@@ -41838,6 +41678,16 @@
     "id": "red-star-vol-2-archangel",
     "title": "Red Star Vol. 2",
     "publisher": "Archangel"
+  },
+  {
+    "id": "red-star-vol-2-archie",
+    "title": "Red Star Vol. 2",
+    "publisher": "Archie"
+  },
+  {
+    "id": "red-star-vol-2-archaia",
+    "title": "Red Star Vol. 2",
+    "publisher": "Archaia"
   },
   {
     "id": "red-thorn-dc",
@@ -41852,7 +41702,7 @@
   {
     "id": "red-victoria-special-dc",
     "title": "Red Victoria Special",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "red-wing-image",
@@ -41945,14 +41795,14 @@
     "publisher": "Image"
   },
   {
-    "id": "replacement-god-image",
-    "title": "Replacement God",
-    "publisher": "Image"
-  },
-  {
     "id": "replacement-god-slave-labor",
     "title": "Replacement God",
     "publisher": "Slave Labor"
+  },
+  {
+    "id": "replacement-god-image",
+    "title": "Replacement God",
+    "publisher": "Image"
   },
   {
     "id": "replacement-god-other-stories-image",
@@ -42145,14 +41995,14 @@
     "publisher": "MR"
   },
   {
-    "id": "revolution-of-the-planet-of-the-apes-markosia",
-    "title": "Revolution of the Planet of the Apes",
-    "publisher": "Markosia"
-  },
-  {
     "id": "revolution-of-the-planet-of-the-apes-mr-comics",
     "title": "Revolution of the Planet of the Apes",
     "publisher": "MR Comics"
+  },
+  {
+    "id": "revolution-of-the-planet-of-the-apes-markosia",
+    "title": "Revolution of the Planet of the Apes",
+    "publisher": "Markosia"
   },
   {
     "id": "revolution-on-the-planet-of-the-apes-mr-comics",
@@ -42745,14 +42595,14 @@
     "publisher": "IDW"
   },
   {
-    "id": "rocketo-devils-due",
-    "title": "Rocketo",
-    "publisher": "Devil's Due"
-  },
-  {
     "id": "rocketo-speakeasy",
     "title": "Rocketo",
     "publisher": "Speakeasy"
+  },
+  {
+    "id": "rocketo-devils-due",
+    "title": "Rocketo",
+    "publisher": "Devil's Due"
   },
   {
     "id": "rocketo-image",
@@ -42975,14 +42825,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "runes-of-ragnan-silent-devil",
-    "title": "Runes of Ragnan",
-    "publisher": "Silent Devil"
-  },
-  {
     "id": "runes-of-ragnan-image",
     "title": "Runes of Ragnan",
     "publisher": "Image"
+  },
+  {
+    "id": "runes-of-ragnan-silent-devil",
+    "title": "Runes of Ragnan",
+    "publisher": "Silent Devil"
   },
   {
     "id": "runlovekill-image",
@@ -43130,14 +42980,14 @@
     "publisher": "Image"
   },
   {
-    "id": "saga-of-the-metabarons-humanoids",
-    "title": "Saga of the Metabarons",
-    "publisher": "Humanoids"
-  },
-  {
     "id": "saga-of-the-metabarons-humble",
     "title": "Saga of the Metabarons",
     "publisher": "Humble"
+  },
+  {
+    "id": "saga-of-the-metabarons-humanoids",
+    "title": "Saga of the Metabarons",
+    "publisher": "Humanoids"
   },
   {
     "id": "saga-of-the-swamp-thing-dc",
@@ -43682,7 +43532,7 @@
   {
     "id": "scooby-doo-where-are-you-dc",
     "title": "Scooby Doo Where Are You",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "scooby-doo-dc",
@@ -44038,11 +43888,6 @@
     "id": "secret-service-marvel",
     "title": "Secret Service",
     "publisher": "Marvel"
-  },
-  {
-    "id": "secret-six--dc",
-    "title": "Secret Six",
-    "publisher": " DC "
   },
   {
     "id": "secret-six-dc",
@@ -44515,14 +44360,14 @@
     "publisher": "Dynamite"
   },
   {
-    "id": "shadow-year-one-dynamic-forces",
-    "title": "Shadow Year One",
-    "publisher": "Dynamic Forces"
-  },
-  {
     "id": "shadow-year-one-dynamite",
     "title": "Shadow Year One",
     "publisher": "Dynamite"
+  },
+  {
+    "id": "shadow-year-one-dynamic-forces",
+    "title": "Shadow Year One",
+    "publisher": "Dynamic Forces"
   },
   {
     "id": "shadowgear-antarctic",
@@ -44655,11 +44500,6 @@
     "publisher": "Maximum"
   },
   {
-    "id": "shahrazad-aspen",
-    "title": "Shahrazad",
-    "publisher": "Aspen"
-  },
-  {
     "id": "shahrazad-big-dog",
     "title": "Shahrazad",
     "publisher": "Big Dog"
@@ -44668,6 +44508,11 @@
     "id": "shahrazad-big",
     "title": "Shahrazad",
     "publisher": "BIG"
+  },
+  {
+    "id": "shahrazad-aspen",
+    "title": "Shahrazad",
+    "publisher": "Aspen"
   },
   {
     "id": "shame-itself-marvel",
@@ -44700,14 +44545,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "shaolin-cowboy-dark-horse",
-    "title": "Shaolin Cowboy",
-    "publisher": "Dark Horse"
-  },
-  {
     "id": "shaolin-cowboy-burlyman",
     "title": "Shaolin Cowboy",
     "publisher": "Burlyman"
+  },
+  {
+    "id": "shaolin-cowboy-dark-horse",
+    "title": "Shaolin Cowboy",
+    "publisher": "Dark Horse"
   },
   {
     "id": "shaper-dark-horse",
@@ -44715,14 +44560,14 @@
     "publisher": "Dark Horse"
   },
   {
-    "id": "shark-man-thrillhouse",
-    "title": "Shark-Man",
-    "publisher": "Thrillhouse"
-  },
-  {
     "id": "shark-man-image",
     "title": "Shark-Man",
     "publisher": "Image"
+  },
+  {
+    "id": "shark-man-thrillhouse",
+    "title": "Shark-Man",
+    "publisher": "Thrillhouse"
   },
   {
     "id": "sharky-image",
@@ -44835,19 +44680,14 @@
     "publisher": "Titan"
   },
   {
-    "id": "sherlock-holmes-dynamic",
-    "title": "Sherlock Holmes",
-    "publisher": "Dynamic"
-  },
-  {
-    "id": "sherlock-holmes--dynamic",
-    "title": "Sherlock Holmes",
-    "publisher": " Dynamic "
-  },
-  {
     "id": "sherlock-holmes-dynamic-forces",
     "title": "Sherlock Holmes",
     "publisher": "Dynamic Forces"
+  },
+  {
+    "id": "sherlock-holmes-dynamic",
+    "title": "Sherlock Holmes",
+    "publisher": "Dynamic"
   },
   {
     "id": "sherlock-holmes-kolchak-moonstone",
@@ -44880,14 +44720,14 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "sherwood-tx-12-gauge",
-    "title": "Sherwood TX",
-    "publisher": "12-Gauge"
-  },
-  {
     "id": "sherwood-tx-12-guage",
     "title": "Sherwood TX",
     "publisher": "12 Guage"
+  },
+  {
+    "id": "sherwood-tx-12-gauge",
+    "title": "Sherwood TX",
+    "publisher": "12-Gauge"
   },
   {
     "id": "shevas-war-dc",
@@ -44935,24 +44775,24 @@
     "publisher": "Crusade"
   },
   {
-    "id": "shi-pandoras-box-avatar",
-    "title": "Shi Pandoras Box",
-    "publisher": "Avatar"
-  },
-  {
     "id": "shi-pandoras-box-comic-cavalcade",
     "title": "Shi Pandoras Box",
     "publisher": "Comic Cavalcade"
   },
   {
-    "id": "shi-poisoned-paradise-avatar",
-    "title": "Shi Poisoned Paradise",
+    "id": "shi-pandoras-box-avatar",
+    "title": "Shi Pandoras Box",
     "publisher": "Avatar"
   },
   {
     "id": "shi-poisoned-paradise-comic-cavalcade",
     "title": "Shi Poisoned Paradise",
     "publisher": "Comic Cavalcade"
+  },
+  {
+    "id": "shi-poisoned-paradise-avatar",
+    "title": "Shi Poisoned Paradise",
+    "publisher": "Avatar"
   },
   {
     "id": "shi-poisoned-paradise-platinum-cvr-incentive-avatar",
@@ -45050,14 +44890,14 @@
     "publisher": "Crusade"
   },
   {
-    "id": "shidima-dreamwave",
-    "title": "Shidima",
-    "publisher": "Dreamwave"
-  },
-  {
     "id": "shidima-image",
     "title": "Shidima",
     "publisher": "Image"
+  },
+  {
+    "id": "shidima-dreamwave",
+    "title": "Shidima",
+    "publisher": "Dreamwave"
   },
   {
     "id": "shidima-arnakin-cover-image",
@@ -45075,9 +44915,9 @@
     "publisher": "Image"
   },
   {
-    "id": "shield-archie",
+    "id": "shield-marvel",
     "title": "Shield",
-    "publisher": "Archie"
+    "publisher": "Marvel"
   },
   {
     "id": "shield-dc",
@@ -45085,9 +44925,9 @@
     "publisher": "DC"
   },
   {
-    "id": "shield-marvel",
+    "id": "shield-archie",
     "title": "Shield",
-    "publisher": "Marvel"
+    "publisher": "Archie"
   },
   {
     "id": "shield-dark-circle-archie",
@@ -45445,14 +45285,14 @@
     "publisher": "Radical"
   },
   {
-    "id": "shrek-ape",
-    "title": "Shrek",
-    "publisher": "Ape"
-  },
-  {
     "id": "shrek-dark-horse",
     "title": "Shrek",
     "publisher": "Dark Horse"
+  },
+  {
+    "id": "shrek-ape",
+    "title": "Shrek",
+    "publisher": "Ape"
   },
   {
     "id": "shrinking-man-idw",
@@ -45550,14 +45390,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "sigil-marvel",
-    "title": "Sigil",
-    "publisher": "Marvel"
-  },
-  {
     "id": "sigil-crossgen",
     "title": "Sigil",
     "publisher": "CrossGen"
+  },
+  {
+    "id": "sigil-marvel",
+    "title": "Sigil",
+    "publisher": "Marvel"
   },
   {
     "id": "silencers-moonstone",
@@ -46080,11 +45920,6 @@
     "publisher": "Marvel"
   },
   {
-    "id": "skaar-son-of-hulk--marvel",
-    "title": "Skaar Son of Hulk",
-    "publisher": " Marvel "
-  },
-  {
     "id": "skaar-son-of-hulk-marvel",
     "title": "Skaar Son Of Hulk",
     "publisher": "Marvel"
@@ -46252,7 +46087,7 @@
   {
     "id": "sleeper-s2-dc",
     "title": "Sleeper S2",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "sleeper-season-2-dc",
@@ -46935,14 +46770,14 @@
     "publisher": "DC"
   },
   {
-    "id": "space-ace-defender-of-the-universe-crossgen",
-    "title": "Space Ace Defender of the Universe",
-    "publisher": "CrossGen"
-  },
-  {
     "id": "space-ace-defender-of-the-universe-mv-creations",
     "title": "Space Ace Defender of the Universe",
     "publisher": "MV Creations"
+  },
+  {
+    "id": "space-ace-defender-of-the-universe-crossgen",
+    "title": "Space Ace Defender of the Universe",
+    "publisher": "CrossGen"
   },
   {
     "id": "space-battle-lunchtime-oni",
@@ -47015,14 +46850,14 @@
     "publisher": "Fantagraphics"
   },
   {
-    "id": "sparks-slave-labor",
-    "title": "Sparks",
-    "publisher": "Slave Labor"
-  },
-  {
     "id": "sparks-catastrophic",
     "title": "Sparks",
     "publisher": "Catastrophic"
+  },
+  {
+    "id": "sparks-slave-labor",
+    "title": "Sparks",
+    "publisher": "Slave Labor"
   },
   {
     "id": "sparks-nevada-marshal-on-mars-image",
@@ -47215,14 +47050,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "spellbound-magic-of-love-fantagraphics",
-    "title": "Spellbound Magic Of Love",
-    "publisher": "Fantagraphics"
-  },
-  {
     "id": "spellbound-magic-of-love-fanboy",
     "title": "Spellbound Magic Of Love",
     "publisher": "Fanboy"
+  },
+  {
+    "id": "spellbound-magic-of-love-fantagraphics",
+    "title": "Spellbound Magic Of Love",
+    "publisher": "Fantagraphics"
   },
   {
     "id": "spellgame-speakeasy",
@@ -48015,14 +47850,14 @@
     "publisher": "Abstract"
   },
   {
-    "id": "star-blazers-voyager",
-    "title": "Star Blazers",
-    "publisher": "Voyager"
-  },
-  {
     "id": "star-blazers-argo",
     "title": "Star Blazers",
     "publisher": "Argo"
+  },
+  {
+    "id": "star-blazers-voyager",
+    "title": "Star Blazers",
+    "publisher": "Voyager"
   },
   {
     "id": "star-crossed-dc",
@@ -48062,7 +47897,7 @@
   {
     "id": "star-spangled-war-stories-dc",
     "title": "Star Spangled War Stories",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "star-spangled-war-stories-gi-zombie-dc",
@@ -49195,6 +49030,11 @@
     "publisher": "Marvel"
   },
   {
+    "id": "stark-raven-harris",
+    "title": "Stark Raven",
+    "publisher": "Harris"
+  },
+  {
     "id": "stark-raven-endless-horizons",
     "title": "Stark Raven",
     "publisher": "Endless Horizons"
@@ -49203,11 +49043,6 @@
     "id": "stark-raven-endless-horizon",
     "title": "Stark Raven",
     "publisher": "Endless Horizon"
-  },
-  {
-    "id": "stark-raven-harris",
-    "title": "Stark Raven",
-    "publisher": "Harris"
   },
   {
     "id": "starkweather-immortal-archaia",
@@ -49270,14 +49105,14 @@
     "publisher": "Dark Horse"
   },
   {
-    "id": "starship-troopers-markosia",
-    "title": "Starship Troopers",
-    "publisher": "Markosia"
-  },
-  {
     "id": "starship-troopers-marvel",
     "title": "Starship Troopers",
     "publisher": "Marvel"
+  },
+  {
+    "id": "starship-troopers-markosia",
+    "title": "Starship Troopers",
+    "publisher": "Markosia"
   },
   {
     "id": "starship-troopers-damaged-justice-markosia",
@@ -49825,14 +49660,14 @@
     "publisher": "Abstract"
   },
   {
-    "id": "strangers-in-paradise-vol-3-image",
-    "title": "Strangers in Paradise Vol. 3",
-    "publisher": "Image"
-  },
-  {
     "id": "strangers-in-paradise-vol-3-abstract",
     "title": "Strangers in Paradise Vol. 3",
     "publisher": "Abstract"
+  },
+  {
+    "id": "strangers-in-paradise-vol-3-image",
+    "title": "Strangers in Paradise Vol. 3",
+    "publisher": "Image"
   },
   {
     "id": "strangers-in-paradise-vol-3-homage",
@@ -49875,14 +49710,14 @@
     "publisher": "Ape"
   },
   {
-    "id": "stray-bullets-el-capitan",
-    "title": "Stray Bullets",
-    "publisher": "El Capitan"
-  },
-  {
     "id": "stray-bullets-image",
     "title": "Stray Bullets",
     "publisher": "Image"
+  },
+  {
+    "id": "stray-bullets-el-capitan",
+    "title": "Stray Bullets",
+    "publisher": "El Capitan"
   },
   {
     "id": "stray-bullets-relist-el-capitan",
@@ -49915,14 +49750,14 @@
     "publisher": "Slave Labor"
   },
   {
-    "id": "street-fighter-devils-due",
-    "title": "Street Fighter",
-    "publisher": "Devil's Due"
-  },
-  {
     "id": "street-fighter-image",
     "title": "Street Fighter",
     "publisher": "Image"
+  },
+  {
+    "id": "street-fighter-devils-due",
+    "title": "Street Fighter",
+    "publisher": "Devil's Due"
   },
   {
     "id": "street-fighter-chen-cvr-image",
@@ -49958,11 +49793,6 @@
     "id": "street-fighter-legends-cammy-udon",
     "title": "Street Fighter Legends Cammy",
     "publisher": "Udon"
-  },
-  {
-    "id": "street-fighter-legends-chun-li--udon",
-    "title": "Street Fighter Legends Chun Li",
-    "publisher": " Udon "
   },
   {
     "id": "street-fighter-legends-chun-li-udon",
@@ -50285,11 +50115,6 @@
     "publisher": "DC"
   },
   {
-    "id": "super-friends--dc",
-    "title": "Super Friends",
-    "publisher": " DC "
-  },
-  {
     "id": "super-hero-happy-hour-geek-punk",
     "title": "Super Hero Happy Hour",
     "publisher": "Geek Punk"
@@ -50413,11 +50238,6 @@
     "id": "superfist-ayumi-fantagraphics",
     "title": "Superfist Ayumi",
     "publisher": "Fantagraphics"
-  },
-  {
-    "id": "supergirl--dc",
-    "title": "Supergirl",
-    "publisher": " DC "
   },
   {
     "id": "supergirl-dc",
@@ -50648,11 +50468,6 @@
     "id": "superman-annual-dc",
     "title": "Superman Annual",
     "publisher": "DC"
-  },
-  {
-    "id": "superman-batman--dc",
-    "title": "Superman Batman",
-    "publisher": " DC "
   },
   {
     "id": "superman-batman-dc",
@@ -50940,11 +50755,6 @@
     "publisher": "DC"
   },
   {
-    "id": "superman-world-of-new-krypton--dc",
-    "title": "Superman World of New Krypton",
-    "publisher": " DC "
-  },
-  {
     "id": "superman-world-of-new-krypton-dc",
     "title": "Superman World of New Krypton",
     "publisher": "DC"
@@ -51110,16 +50920,6 @@
     "publisher": "Arcade"
   },
   {
-    "id": "supreme-awesome",
-    "title": "Supreme",
-    "publisher": "Awesome"
-  },
-  {
-    "id": "supreme-extreme",
-    "title": "Supreme",
-    "publisher": "Extreme"
-  },
-  {
     "id": "supreme-image",
     "title": "Supreme",
     "publisher": "Image"
@@ -51128,6 +50928,16 @@
     "id": "supreme-maximum",
     "title": "Supreme",
     "publisher": "Maximum"
+  },
+  {
+    "id": "supreme-extreme",
+    "title": "Supreme",
+    "publisher": "Extreme"
+  },
+  {
+    "id": "supreme-awesome",
+    "title": "Supreme",
+    "publisher": "Awesome"
   },
   {
     "id": "supreme-blue-rose-image",
@@ -51460,14 +51270,14 @@
     "publisher": "Zenescope"
   },
   {
-    "id": "tales-of-alvin-maker-red-prophet-dabel",
-    "title": "Tales of Alvin Maker Red Prophet",
-    "publisher": "Dabel"
-  },
-  {
     "id": "tales-of-alvin-maker-red-prophet-dabel-brothers",
     "title": "Tales of Alvin Maker Red Prophet",
     "publisher": "Dabel Brothers"
+  },
+  {
+    "id": "tales-of-alvin-maker-red-prophet-dabel",
+    "title": "Tales of Alvin Maker Red Prophet",
+    "publisher": "Dabel"
   },
   {
     "id": "tales-of-cherokee-mandalay",
@@ -51555,14 +51365,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "tales-of-the-realm-mv-creations",
-    "title": "Tales of the Realm",
-    "publisher": "MV Creations"
-  },
-  {
     "id": "tales-of-the-realm-crossgen",
     "title": "Tales of the Realm",
     "publisher": "CrossGen"
+  },
+  {
+    "id": "tales-of-the-realm-mv-creations",
+    "title": "Tales of the Realm",
+    "publisher": "MV Creations"
   },
   {
     "id": "tales-of-the-teenage-mutant-ninja-turtles-mirage",
@@ -51595,14 +51405,14 @@
     "publisher": "Dark Horse"
   },
   {
-    "id": "tales-of-the-witchblade-image",
-    "title": "Tales of the Witchblade",
-    "publisher": "Image"
-  },
-  {
     "id": "tales-of-the-witchblade-top-cow",
     "title": "Tales of the Witchblade",
     "publisher": "Top Cow"
+  },
+  {
+    "id": "tales-of-the-witchblade-image",
+    "title": "Tales of the Witchblade",
+    "publisher": "Image"
   },
   {
     "id": "tales-of-the-witchblade-collected-ed-image",
@@ -51815,14 +51625,14 @@
     "publisher": "Broadsword"
   },
   {
-    "id": "tarot-witch-of-the-black-rose-broken-halos",
-    "title": "Tarot Witch of the Black Rose",
-    "publisher": "Broken Halos"
-  },
-  {
     "id": "tarot-witch-of-the-black-rose-broadsword",
     "title": "Tarot Witch of the Black Rose",
     "publisher": "Broadsword"
+  },
+  {
+    "id": "tarot-witch-of-the-black-rose-broken-halos",
+    "title": "Tarot Witch of the Black Rose",
+    "publisher": "Broken Halos"
   },
   {
     "id": "tarot-witch-of-the-black-rose-curr-ptg-broadsword",
@@ -51908,11 +51718,6 @@
     "id": "teen-titans-dc",
     "title": "Teen Titans",
     "publisher": "DC"
-  },
-  {
-    "id": "teen-titans--dc",
-    "title": "Teen Titans",
-    "publisher": " DC "
   },
   {
     "id": "teen-titans-deathstroke-dc",
@@ -52030,14 +51835,14 @@
     "publisher": "Mirage"
   },
   {
-    "id": "teenagers-from-mars-teenagers-from-mars",
-    "title": "Teenagers From Mars",
-    "publisher": "Teenagers from Mars"
-  },
-  {
     "id": "teenagers-from-mars-teenagers-from-mars-mars",
     "title": "Teenagers From Mars",
     "publisher": "Teenagers from Mars Mars"
+  },
+  {
+    "id": "teenagers-from-mars-teenagers-from-mars",
+    "title": "Teenagers From Mars",
+    "publisher": "Teenagers from Mars"
   },
   {
     "id": "teens-at-play-fantagraphics",
@@ -52450,14 +52255,14 @@
     "publisher": "Fantagraphics"
   },
   {
-    "id": "the-good-the-bad-the-ugly-dynamic-forces",
-    "title": "The Good The Bad & The Ugly",
-    "publisher": "Dynamic Forces"
-  },
-  {
     "id": "the-good-the-bad-the-ugly-dynamic",
     "title": "The Good The Bad & The Ugly",
     "publisher": "Dynamic"
+  },
+  {
+    "id": "the-good-the-bad-the-ugly-dynamic-forces",
+    "title": "The Good The Bad & The Ugly",
+    "publisher": "Dynamic Forces"
   },
   {
     "id": "the-grackle-acclaim",
@@ -52700,11 +52505,6 @@
     "publisher": "Boom"
   },
   {
-    "id": "thor--marvel",
-    "title": "Thor",
-    "publisher": " Marvel "
-  },
-  {
     "id": "thor-marvel",
     "title": "Thor",
     "publisher": "Marvel"
@@ -52890,14 +52690,14 @@
     "publisher": "Oni"
   },
   {
-    "id": "threshold-avatar",
-    "title": "Threshold",
-    "publisher": "Avatar"
-  },
-  {
     "id": "threshold-dc",
     "title": "Threshold",
     "publisher": "DC"
+  },
+  {
+    "id": "threshold-avatar",
+    "title": "Threshold",
+    "publisher": "Avatar"
   },
   {
     "id": "threshold-adult-avatar",
@@ -52968,11 +52768,6 @@
     "id": "thunderbolt-jaxon-dc",
     "title": "Thunderbolt Jaxon",
     "publisher": "DC"
-  },
-  {
-    "id": "thunderbolts--marvel",
-    "title": "Thunderbolts",
-    "publisher": " Marvel "
   },
   {
     "id": "thunderbolts-marvel",
@@ -53365,11 +53160,6 @@
     "publisher": "DC"
   },
   {
-    "id": "titans--dc",
-    "title": "Titans",
-    "publisher": " DC "
-  },
-  {
     "id": "titans-annual-dc",
     "title": "Titans Annual",
     "publisher": "DC"
@@ -53650,14 +53440,14 @@
     "publisher": "Image"
   },
   {
-    "id": "tomb-raider-witchblade-revisited-image",
-    "title": "Tomb Raider Witchblade Revisited",
-    "publisher": "Image"
-  },
-  {
     "id": "tomb-raider-witchblade-revisited-american-entertainment",
     "title": "Tomb Raider Witchblade Revisited",
     "publisher": "American Entertainment"
+  },
+  {
+    "id": "tomb-raider-witchblade-revisited-image",
+    "title": "Tomb Raider Witchblade Revisited",
+    "publisher": "Image"
   },
   {
     "id": "tommi-gun-london-night",
@@ -53950,24 +53740,19 @@
     "publisher": "Alias"
   },
   {
-    "id": "toy-story-marvel",
-    "title": "Toy Story",
-    "publisher": "Marvel"
-  },
-  {
     "id": "toy-story-boom",
     "title": "Toy Story",
     "publisher": "Boom"
   },
   {
+    "id": "toy-story-marvel",
+    "title": "Toy Story",
+    "publisher": "Marvel"
+  },
+  {
     "id": "toy-story-mysterious-stranger-boom",
     "title": "Toy Story Mysterious Stranger",
     "publisher": "Boom"
-  },
-  {
-    "id": "toy-story-mysterious-stranger--boom",
-    "title": "Toy Story Mysterious Stranger",
-    "publisher": " Boom "
   },
   {
     "id": "toy-story-tales-from-toy-chest-boom",
@@ -54965,14 +54750,14 @@
     "publisher": "Dark Horse"
   },
   {
-    "id": "true-story-swear-to-god-image",
-    "title": "True Story Swear To God",
-    "publisher": "Image"
-  },
-  {
     "id": "true-story-swear-to-god-clibs-boy",
     "title": "True Story Swear To God",
     "publisher": "Clibs Boy"
+  },
+  {
+    "id": "true-story-swear-to-god-image",
+    "title": "True Story Swear To God",
+    "publisher": "Image"
   },
   {
     "id": "true-story-swear-to-god-image-ed-image",
@@ -55015,14 +54800,14 @@
     "publisher": "Kim-Rehr"
   },
   {
-    "id": "tug-buster-image",
-    "title": "Tug & Buster",
-    "publisher": "Image"
-  },
-  {
     "id": "tug-buster-art-soul",
     "title": "Tug & Buster",
     "publisher": "Art & Soul"
+  },
+  {
+    "id": "tug-buster-image",
+    "title": "Tug & Buster",
+    "publisher": "Image"
   },
   {
     "id": "tuki-save-the-humans-cartoon",
@@ -55470,11 +55255,6 @@
     "publisher": "Marvel"
   },
   {
-    "id": "ultimate-spider-man--marvel",
-    "title": "Ultimate Spider-Man",
-    "publisher": " Marvel "
-  },
-  {
     "id": "ultimate-spider-man-marvel",
     "title": "Ultimate Spider-Man",
     "publisher": "Marvel"
@@ -55805,9 +55585,9 @@
     "publisher": "DC"
   },
   {
-    "id": "uncle-scrooge-boom",
+    "id": "uncle-scrooge-idw",
     "title": "Uncle Scrooge",
-    "publisher": "Boom"
+    "publisher": "IDW"
   },
   {
     "id": "uncle-scrooge-gladstone",
@@ -55815,9 +55595,9 @@
     "publisher": "Gladstone"
   },
   {
-    "id": "uncle-scrooge-idw",
+    "id": "uncle-scrooge-boom",
     "title": "Uncle Scrooge",
-    "publisher": "IDW"
+    "publisher": "Boom"
   },
   {
     "id": "uncle-scrooge-gemstone",
@@ -55850,14 +55630,14 @@
     "publisher": "Gladstone"
   },
   {
-    "id": "unclerooge-gemstone",
-    "title": "Unclerooge",
-    "publisher": "Gemstone"
-  },
-  {
     "id": "unclerooge-boom",
     "title": "Unclerooge",
     "publisher": "Boom"
+  },
+  {
+    "id": "unclerooge-gemstone",
+    "title": "Unclerooge",
+    "publisher": "Gemstone"
   },
   {
     "id": "undaunted-burning-blue-crusade",
@@ -55885,14 +55665,14 @@
     "publisher": "Image"
   },
   {
-    "id": "underwater-drawn-and-quarterly",
-    "title": "Underwater",
-    "publisher": "Drawn and Quarterly"
-  },
-  {
     "id": "underwater-drawn-quarterly",
     "title": "Underwater",
     "publisher": "Drawn & Quarterly"
+  },
+  {
+    "id": "underwater-drawn-and-quarterly",
+    "title": "Underwater",
+    "publisher": "Drawn and Quarterly"
   },
   {
     "id": "underworld-marvel",
@@ -55968,11 +55748,6 @@
     "id": "universal-war-one-revelations-marvel",
     "title": "Universal War One Revelations",
     "publisher": "Marvel"
-  },
-  {
-    "id": "universal-war-one-revelations--marvel",
-    "title": "Universal War One Revelations",
-    "publisher": " Marvel "
   },
   {
     "id": "universe-image",
@@ -56380,14 +56155,14 @@
     "publisher": "Ironcat"
   },
   {
-    "id": "vampire-yui-vol-5-ironcat",
-    "title": "Vampire Yui Vol. 5",
-    "publisher": "Ironcat"
-  },
-  {
     "id": "vampire-yui-vol-5-ic",
     "title": "Vampire Yui Vol. 5",
     "publisher": "I.C."
+  },
+  {
+    "id": "vampire-yui-vol-5-ironcat",
+    "title": "Vampire Yui Vol. 5",
+    "publisher": "Ironcat"
   },
   {
     "id": "vampirella-dynamic-forces",
@@ -56395,14 +56170,14 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "vampirella-dynamite",
-    "title": "Vampirella",
-    "publisher": "Dynamite"
-  },
-  {
     "id": "vampirella-harris",
     "title": "Vampirella",
     "publisher": "Harris"
+  },
+  {
+    "id": "vampirella-dynamite",
+    "title": "Vampirella",
+    "publisher": "Dynamite"
   },
   {
     "id": "vampirella-pantha-death-valley-harris",
@@ -56605,14 +56380,14 @@
     "publisher": "Dynamic Forces"
   },
   {
-    "id": "vampirella-strikes-dynamic-forces",
-    "title": "Vampirella Strikes",
-    "publisher": "Dynamic Forces"
-  },
-  {
     "id": "vampirella-strikes-harris",
     "title": "Vampirella Strikes",
     "publisher": "Harris"
+  },
+  {
+    "id": "vampirella-strikes-dynamic-forces",
+    "title": "Vampirella Strikes",
+    "publisher": "Dynamic Forces"
   },
   {
     "id": "vampirella-strikes-annual-harris",
@@ -56770,14 +56545,14 @@
     "publisher": "Q Comics"
   },
   {
-    "id": "vault-dhj",
-    "title": "Vault",
-    "publisher": "DHJ"
-  },
-  {
     "id": "vault-image",
     "title": "Vault",
     "publisher": "Image"
+  },
+  {
+    "id": "vault-dhj",
+    "title": "Vault",
+    "publisher": "DHJ"
   },
   {
     "id": "vault-of-horror-gemstone",
@@ -56795,14 +56570,14 @@
     "publisher": "Fantagraphics/Eros"
   },
   {
-    "id": "veil-dark-horse",
-    "title": "Veil",
-    "publisher": "Dark Horse"
-  },
-  {
     "id": "veil-idw",
     "title": "Veil",
     "publisher": "IDW"
+  },
+  {
+    "id": "veil-dark-horse",
+    "title": "Veil",
+    "publisher": "Dark Horse"
   },
   {
     "id": "velocity-image",
@@ -57480,14 +57255,14 @@
     "publisher": "Gladstone"
   },
   {
-    "id": "walt-disneys-comics-stories-boom",
-    "title": "Walt Disneys Comics & Stories",
-    "publisher": "Boom"
-  },
-  {
     "id": "walt-disneys-comics-stories-gemstone",
     "title": "Walt Disneys Comics & Stories",
     "publisher": "Gemstone"
+  },
+  {
+    "id": "walt-disneys-comics-stories-boom",
+    "title": "Walt Disneys Comics & Stories",
+    "publisher": "Boom"
   },
   {
     "id": "walt-disneys-vacation-parade-gemstone",
@@ -57685,14 +57460,14 @@
     "publisher": "Boom"
   },
   {
-    "id": "warhammer-monthly-games-workshop",
-    "title": "Warhammer Monthly",
-    "publisher": "Games Workshop"
-  },
-  {
     "id": "warhammer-monthly-games-workshopp",
     "title": "Warhammer Monthly",
     "publisher": "Games Workshopp"
+  },
+  {
+    "id": "warhammer-monthly-games-workshop",
+    "title": "Warhammer Monthly",
+    "publisher": "Games Workshop"
   },
   {
     "id": "warhammer-monthly-redeemer-spec-games-workshop",
@@ -57910,14 +57685,14 @@
     "publisher": "Avatar"
   },
   {
-    "id": "warrior-ultimate",
-    "title": "Warrior",
-    "publisher": "Ultimate"
-  },
-  {
     "id": "warrior-ultimate-warrior",
     "title": "Warrior",
     "publisher": "Ultimate Warrior"
+  },
+  {
+    "id": "warrior-ultimate",
+    "title": "Warrior",
+    "publisher": "Ultimate"
   },
   {
     "id": "warrior-resolicitation-ultimate",
@@ -58045,14 +57820,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "wartblade-tipping-cow",
-    "title": "Wartblade",
-    "publisher": "Tipping Cow"
-  },
-  {
     "id": "wartblade-lightning",
     "title": "Wartblade",
     "publisher": "Lightning"
+  },
+  {
+    "id": "wartblade-tipping-cow",
+    "title": "Wartblade",
+    "publisher": "Tipping Cow"
   },
   {
     "id": "wasteland-oni",
@@ -58336,13 +58111,8 @@
   },
   {
     "id": "werewolves-on-the-moon-versus-vampires-dark-horse",
-    "title": "Werewolves on the Moon Versus Vampires",
-    "publisher": "Dark Horse"
-  },
-  {
-    "id": "werewolves-on-the-moon-versus-vampires--dark-horse",
     "title": "Werewolves On the Moon Versus Vampires",
-    "publisher": " Dark Horse "
+    "publisher": "Dark Horse"
   },
   {
     "id": "wes-craven-coming-of-rage-liquid",
@@ -58360,14 +58130,14 @@
     "publisher": "Tool"
   },
   {
-    "id": "wetworks-dc",
-    "title": "Wetworks",
-    "publisher": "DC"
-  },
-  {
     "id": "wetworks-image",
     "title": "Wetworks",
     "publisher": "Image"
+  },
+  {
+    "id": "wetworks-dc",
+    "title": "Wetworks",
+    "publisher": "DC"
   },
   {
     "id": "wetworks-armageddon-dc",
@@ -58377,7 +58147,7 @@
   {
     "id": "wetworks-mutations-dc",
     "title": "Wetworks Mutations",
-    "publisher": "DC "
+    "publisher": "DC"
   },
   {
     "id": "wetworks-voyager-pack-image",
@@ -58865,6 +58635,11 @@
     "publisher": "Image"
   },
   {
+    "id": "witchblade-top-cow",
+    "title": "Witchblade",
+    "publisher": "Top Cow"
+  },
+  {
     "id": "witchblade-mid-west",
     "title": "Witchblade",
     "publisher": "Mid-West"
@@ -58873,11 +58648,6 @@
     "id": "witchblade-image",
     "title": "Witchblade",
     "publisher": "Image"
-  },
-  {
-    "id": "witchblade-top-cow",
-    "title": "Witchblade",
-    "publisher": "Top Cow"
   },
   {
     "id": "witchblade-tomb-raider-bw-cvr-image",
@@ -59235,9 +59005,9 @@
     "publisher": "Marvel"
   },
   {
-    "id": "wolverine-revolver--marvel",
+    "id": "wolverine-revolver-marvel",
     "title": "Wolverine Revolver",
-    "publisher": " Marvel "
+    "publisher": "Marvel"
   },
   {
     "id": "wolverine-road-to-hell-marvel",
@@ -59343,11 +59113,6 @@
     "id": "wonder-woman-dc",
     "title": "Wonder Woman",
     "publisher": "DC"
-  },
-  {
-    "id": "wonder-woman--dc",
-    "title": "Wonder Woman",
-    "publisher": " DC "
   },
   {
     "id": "wonder-woman-cheetah-dc",
@@ -59695,24 +59460,24 @@
     "publisher": "Moonstone"
   },
   {
+    "id": "wynonna-earp-idw",
+    "title": "Wynonna Earp",
+    "publisher": "IDW"
+  },
+  {
     "id": "wynonna-earp-image",
     "title": "Wynonna Earp",
     "publisher": "Image"
   },
   {
-    "id": "wynonna-earp-idw",
-    "title": "Wynonna Earp",
+    "id": "wynonna-earp-home-of-the-strange-idw",
+    "title": "Wynonna Earp Home of the Strange",
     "publisher": "IDW"
   },
   {
     "id": "wynonna-earp-home-of-the-strange-idw-works",
     "title": "Wynonna Earp Home of the Strange",
     "publisher": "IDW Works"
-  },
-  {
-    "id": "wynonna-earp-home-of-the-strange-idw",
-    "title": "Wynonna Earp Home of the Strange",
-    "publisher": "IDW"
   },
   {
     "id": "wyrd-the-reluctant-warrior-slave-labor",
@@ -60285,9 +60050,9 @@
     "publisher": "Marvel"
   },
   {
-    "id": "x-men-origins-gambit--marvel",
+    "id": "x-men-origins-gambit-marvel",
     "title": "X-Men Origins Gambit",
-    "publisher": " Marvel "
+    "publisher": "Marvel"
   },
   {
     "id": "x-men-origins-nightcrawler-marvel",
@@ -60460,14 +60225,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "x-o-manowar-valiant",
-    "title": "X-O Manowar",
-    "publisher": "Valiant"
-  },
-  {
     "id": "x-o-manowar-acclaim",
     "title": "X-O Manowar",
     "publisher": "Acclaim"
+  },
+  {
+    "id": "x-o-manowar-valiant",
+    "title": "X-O Manowar",
+    "publisher": "Valiant"
   },
   {
     "id": "x-o-manowar-annual-2016-valiant",
@@ -60840,14 +60605,14 @@
     "publisher": "Black Mask"
   },
   {
-    "id": "young-witches-empire-of-sin-fantagraphicseros",
-    "title": "Young Witches Empire Of Sin",
-    "publisher": "Fantagraphics/Eros"
-  },
-  {
     "id": "young-witches-empire-of-sin-fantagraphics",
     "title": "Young Witches Empire Of Sin",
     "publisher": "Fantagraphics"
+  },
+  {
+    "id": "young-witches-empire-of-sin-fantagraphicseros",
+    "title": "Young Witches Empire Of Sin",
+    "publisher": "Fantagraphics/Eros"
   },
   {
     "id": "young-witches-iii-empire-of-sin-fantagraphics",
@@ -60860,14 +60625,14 @@
     "publisher": "Fantagraphics"
   },
   {
-    "id": "young-witches-vol-5-legacy-fantagraphics",
-    "title": "Young Witches Vol. 5 Legacy",
-    "publisher": "Fantagraphics"
-  },
-  {
     "id": "young-witches-vol-5-legacy-fantagraphicseros",
     "title": "Young Witches Vol. 5 Legacy",
     "publisher": "Fantagraphics/Eros"
+  },
+  {
+    "id": "young-witches-vol-5-legacy-fantagraphics",
+    "title": "Young Witches Vol. 5 Legacy",
+    "publisher": "Fantagraphics"
   },
   {
     "id": "young-witches-vol-5-the-legacy-fantagraphics",
@@ -60880,16 +60645,6 @@
     "publisher": "Marvel"
   },
   {
-    "id": "youngblood-maximum",
-    "title": "Youngblood",
-    "publisher": "Maximum"
-  },
-  {
-    "id": "youngblood-awesome",
-    "title": "Youngblood",
-    "publisher": "Awesome"
-  },
-  {
     "id": "youngblood-image",
     "title": "Youngblood",
     "publisher": "Image"
@@ -60898,6 +60653,16 @@
     "id": "youngblood-extreme",
     "title": "Youngblood",
     "publisher": "Extreme"
+  },
+  {
+    "id": "youngblood-awesome",
+    "title": "Youngblood",
+    "publisher": "Awesome"
+  },
+  {
+    "id": "youngblood-maximum",
+    "title": "Youngblood",
+    "publisher": "Maximum"
   },
   {
     "id": "youngblood--awesome",
@@ -60915,14 +60680,14 @@
     "publisher": "Image"
   },
   {
-    "id": "youngblood-classics-extreme",
-    "title": "Youngblood Classics",
-    "publisher": "Extreme"
-  },
-  {
     "id": "youngblood-classics-maximum",
     "title": "Youngblood Classics",
     "publisher": "Maximum"
+  },
+  {
+    "id": "youngblood-classics-extreme",
+    "title": "Youngblood Classics",
+    "publisher": "Extreme"
   },
   {
     "id": "youngblood-genesis-arcade",
@@ -61060,14 +60825,14 @@
     "publisher": "Marvel"
   },
   {
-    "id": "zombie-tales-atomeka",
-    "title": "Zombie Tales",
-    "publisher": "Atomeka"
-  },
-  {
     "id": "zombie-tales-boom",
     "title": "Zombie Tales",
     "publisher": "Boom"
+  },
+  {
+    "id": "zombie-tales-atomeka",
+    "title": "Zombie Tales",
+    "publisher": "Atomeka"
   },
   {
     "id": "zombie-tales-death-valley-boom",
@@ -61240,6 +61005,11 @@
     "publisher": "NBM"
   },
   {
+    "id": "zorro-matanzas-image",
+    "title": "Zorro Matanzas",
+    "publisher": "Image"
+  },
+  {
     "id": "zorro-matanzas-dynamic",
     "title": "Zorro Matanzas",
     "publisher": "Dynamic"
@@ -61248,11 +61018,6 @@
     "id": "zorro-matanzas-dynamite",
     "title": "Zorro Matanzas",
     "publisher": "Dynamite"
-  },
-  {
-    "id": "zorro-matanzas-image",
-    "title": "Zorro Matanzas",
-    "publisher": "Image"
   },
   {
     "id": "zorro-rides-again-dynamic-forces",
