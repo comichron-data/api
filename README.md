@@ -2,11 +2,6 @@
 
 JSON api for monthly sales data from comichron.com
 
-## Related Projects
-
-- Graphs - https://comichron-data.github.io/graphs/
-- Browser client - https://github.com/comichron-data/browser-client
-
 ## Routes
 
 Prepend `http://comichron-data.github.io` to all routes shown below to form the full url.
@@ -132,3 +127,8 @@ More discussion [here](http://www.comichron.com/faq.html).
 ### What about comics that reuse issue numbers?
 
 The by-issue data for that comic will be weird.
+
+## Related Projects
+
+- Graphs - https://comichron-data.github.io/graphs/
+- Browser client - https://github.com/comichron-data/browser-client
