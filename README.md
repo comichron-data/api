@@ -2,6 +2,10 @@
 
 JSON api for monthly sales data from comichron.com
 
+## Client
+
+See [comichron-data/browser-client](https://github.com/comichron-data/browser-client) for a browser client.
+
 ## Routes
 
 Prepend `http://comichron-data.github.io` to all routes shown below to form the full url.
