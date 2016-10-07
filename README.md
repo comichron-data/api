@@ -83,7 +83,7 @@ Comic's sales numbers by month.
 Data scraped from comichron. All other routes are based on this data.
 
 - `year` is a 4 digit year.
-- `month` is a 2 digit month (e.g. `02`, `11`)
+- `month` is a 2 digit month (e.g. `02`, `11`). January is `01`.
 
 #### Example
 
