@@ -2,9 +2,10 @@
 
 JSON api for monthly sales data from comichron.com
 
-## Client
+## Related Projects
 
-See [comichron-data/browser-client](https://github.com/comichron-data/browser-client) for a browser client.
+- Graphs - https://comichron-data.github.io/graphs/
+- Browser client - https://github.com/comichron-data/browser-client
 
 ## Routes
 
@@ -110,3 +111,24 @@ Data scraped from comichron. All other routes are based on this data.
   // and so on
 ]
 ```
+
+## FAQ
+
+### Where did this data come from?
+
+It was compiled by the fine folks at http://www.comichron.com/.
+
+### How good is this data?
+
+Good but not great.
+
+- If a comic didn't sell enough to make the top ~300 for a given month, there is no data for it. So it looks like zero when it could have been a couple thousand.
+- Issues that come out early in the month will have better by-month numbers than issues coming out later in the month.
+- The numbers do not include digital sales.
+- The numbers do not include sales outside of North America.
+
+More discussion [here](http://www.comichron.com/faq.html).
+
+### What about comics that reuse issue numbers?
+
+The by-issue data for that comic will be weird.
