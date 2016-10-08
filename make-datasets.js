@@ -20,8 +20,8 @@ glob(pattern, function(err, filenames) {
 
     records.forEach(function(record) {
       ensureTitle(titles, record.id, record.title, record.publisher);
-      incrementByIssueCount(byIssue, record.id, record.issue, record.count);
-      incrementByMonthCount(byMonth, record.id, year, month, record.count);
+      incrementByIssueCount(byIssue, record);
+      incrementByMonthCount(byMonth, record, year, month);
     });
   });
 
@@ -31,17 +31,17 @@ glob(pattern, function(err, filenames) {
   Object.keys(byIssue)
     .forEach(function(id) {
       var outputFile = paths.titleByIssueFile(id);
-      var issueRecords = byIssue[id].sort(byIncreasingIssue);
 
-      writeDataset(outputFile, issueRecords);
+      byIssue[id].records.sort(byIncreasingIssue);
+      writeDataset(outputFile, byIssue[id]);
     });
 
   Object.keys(byMonth)
     .forEach(function(id) {
       var outputFile = paths.titleByMonthFile(id);
-      var monthRecords = byMonth[id].sort(byIncreasingDate);
 
-      writeDataset(outputFile, monthRecords);
+      byMonth[id].records.sort(byIncreasingDate);
+      writeDataset(outputFile, byMonth[id]);
     });
 });
 
@@ -66,8 +66,19 @@ function ensureTitle(titles, id, title, publisher) {
   }
 }
 
-function incrementByIssueCount(byIssue, id, issue, count) {
-  var issueRecords = byIssue[id] || (byIssue[id] = []);
+function incrementByIssueCount(byIssue, record) {
+  var {id, title, publisher, issue, count} = record;
+
+  if (!byIssue[id]) {
+    byIssue[id] = {
+      records: [],
+      id,
+      title,
+      publisher
+    };
+  }
+
+  var issueRecords = byIssue[id].records;
 
   var index = issueRecords.findIndex(r => r.issue == issue);
   if (index == -1) {
@@ -80,8 +91,19 @@ function incrementByIssueCount(byIssue, id, issue, count) {
   }
 }
 
-function incrementByMonthCount(byMonth, id, year, month, count) {
-  var monthRecords = byMonth[id] || (byMonth[id] = []);
+function incrementByMonthCount(byMonth, record, year, month) {
+  var {id, title, publisher, count} = record;
+
+  if (!byMonth[id]) {
+    byMonth[id] = {
+      records: [],
+      id,
+      title,
+      publisher
+    };
+  }
+
+  var monthRecords = byMonth[id].records;
 
   var index = monthRecords.findIndex(r => r.year == year && r.month == month);
   if (index == -1) {
