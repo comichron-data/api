@@ -37,17 +37,22 @@ Comic's sales numbers by issue.
 #### Example
 
 ```js
-[
-  {
-    "issue": 1,
-    "count": 5000
-  },
-  {
-    "issue": 2,
-    "count": 4000
-  },
-  // and so on
-]
+{
+  "id": "comic id",
+  "title": "comic title",
+  "publisher": "comic publisher",
+  "records": [
+    {
+      "issue": 1,
+      "count": 5000
+    },
+    {
+      "issue": 2,
+      "count": 4000
+    },
+    // and so on
+  ]
+}
 ```
 
 ### `/api/titles/{id}/by-month.json`
@@ -59,19 +64,24 @@ Comic's sales numbers by month.
 #### Example
 
 ```js
-[
-  {
-    "year": 2012,
-    "month": 3,
-    "count": 37641
-  },
-  {
-    "year": 2012,
-    "month": 4,
-    "count": 46526
-  },
-  // and so on
-]
+{
+  "id": "comic id",
+  "title": "comic title",
+  "publisher": "comic publisher",
+  "records": [
+    {
+      "year": 2012,
+      "month": 3,
+      "count": 37641
+    },
+    {
+      "year": 2012,
+      "month": 4,
+      "count": 46526
+    },
+    // and so on
+  ]
+}
 ```
 
 ### `/api/source-data/{year}-{month}.json`
