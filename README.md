@@ -107,13 +107,42 @@ Data scraped from comichron. All other routes are based on this data.
 ]
 ```
 
+## Versioning
+
+The official version number of this api is in its `package.json` file.
+
+### Major version will change when
+
+If any of
+
+- api routes
+- comic ids
+- json responses
+
+change in a way that is not backwards compatible.
+
+Existing API clients may be broken and should be updated.
+
+### Minor version will change when
+
+- New data is added, e.g. another month's sales data becomes available
+- Backwards compatible changes are made to json responses
+
+Existing API clients should not need to make any changes.
+
+### Patch version will change when
+
+- Small things that aren't covered by any of the above.
+
+Existing API clients should not need to make any changes.
+
 ## FAQ
 
-### Where did this data come from?
+### 1. Where did this data come from?
 
 It was compiled by the fine folks at http://www.comichron.com/.
 
-### How good is this data?
+### 2. How good is this data?
 
 Good but not great.
 
@@ -124,7 +153,7 @@ Good but not great.
 
 More discussion [here](http://www.comichron.com/faq.html).
 
-### What about comics that reuse issue numbers?
+### 3. What about comics that reuse issue numbers?
 
 The by-issue data for that comic will be weird.
 
