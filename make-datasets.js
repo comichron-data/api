@@ -26,7 +26,7 @@ glob(pattern, function(err, filenames) {
   });
 
   titles.sort((t1, t2) => t1.title.localeCompare(t2.title));
-  fs.writeFileSync(paths.titleIndexFile(), JSON.stringify(titles, null, 2));
+  fs.writeFileSync(paths.titleIndexFile(), JSON.stringify(titles));
 
   Object.keys(byIssue)
     .forEach(function(id) {
@@ -49,7 +49,7 @@ function writeDataset(file, data) {
   mkdirp(path.dirname(file), function(err) {
     if (err) throw err;
 
-    fs.writeFileSync(file, JSON.stringify(data, null, 2));
+    fs.writeFileSync(file, JSON.stringify(data));
     console.log('wrote ' + file);
   });
 }
