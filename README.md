@@ -123,7 +123,7 @@ The official version number of this api is in its `package.json` file.
 
 ### Major version will change when
 
-If any of
+Any of
 
 - api routes
 - comic ids

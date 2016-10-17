@@ -2,7 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.1.0] - 2016-10-17
+
+## Added
+
+- September 2016 data
+
 ## [2.0.0] - 2016-10-08
+
+### Changed
 
 - JSON response for by-issue route is now an Object containing: comic id, title, publisher and records array.
 - JSON response for by-month route is now an Object containing: comic id, title, publisher and records array.
