@@ -169,5 +169,4 @@ The by-issue data for that comic will be weird.
 
 ## Related Projects
 
-- Graphs - https://comichron-data.github.io/graphs/
-- Browser client - https://github.com/comichron-data/browser-client
+https://github.com/comichron-data
