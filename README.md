@@ -119,7 +119,7 @@ Data scraped from comichron. All other routes are based on this data.
 
 ## Versioning
 
-The official version number of this api is in its `package.json` file.
+The official version number of this api is in its [`package.json`](https://github.com/comichron-data/api/blob/master/package.json) file.
 
 ### Major version will change when
 
