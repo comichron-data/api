@@ -119,32 +119,13 @@ Data scraped from comichron. All other routes are based on this data.
 
 ## Versioning
 
-The official version number of this api is in its [`package.json`](https://github.com/comichron-data/api/blob/master/package.json) file.
+The version number of this api is in [`package.json`](https://github.com/comichron-data/api/blob/master/package.json).
 
-### Major version will change when
+This project follows Semver
 
-Any of
-
-- api routes
-- comic ids
-- json responses
-
-change in a way that is not backwards compatible.
-
-Existing API clients may be broken and should be updated.
-
-### Minor version will change when
-
-- New data is added, e.g. another month's sales data becomes available
-- Backwards compatible changes are made to json responses
-
-Existing API clients should not need to make any changes.
-
-### Patch version will change when
-
-- Small things that aren't covered by any of the above.
-
-Existing API clients should not need to make any changes.
+- Major version number changes - Existing API clients may be broken and should be updated
+- Minor version number changes - No change necessary to existing clients
+- Patch version number changes - No change necessary to existing clients
 
 ## FAQ
 
