@@ -41,17 +41,7 @@ var chunk4 = [
   [2013],
   [2014],
   [2015],
-  [1, 2016],
-  [2, 2016],
-  [3, 2016],
-  [4, 2016],
-  [5, 2016],
-  [6, 2016],
-  [7, 2016],
-  [8, 2016],
-  [9, 2016],
-  [10, 2016],
-  [11, 2016]
+  [2016]
 ];
 
 var dates = chunk4;
@@ -85,13 +75,13 @@ function xrayStream(month, year) {
 
   console.log(`hitting ${url}`);
 
-  return x(url, '#content .post tr', [{
+  return x(url, '#Top300Comics tr', [{
     rank:      'td:nth-of-type(1)',
-    title:     'td:nth-of-type(2)',
-    issue:     'td:nth-of-type(3)',
-    price:     'td:nth-of-type(4)',
-    publisher: 'td:nth-of-type(5)',
-    count:     'td:nth-of-type(6)'
+    title:     'td:nth-of-type(3) a',
+    issue:     'td:nth-of-type(4)',
+    price:     'td:nth-of-type(5)',
+    publisher: 'td:nth-of-type(6)',
+    count:     'td:nth-of-type(7) strong'
   }]).stream();
 }
 
