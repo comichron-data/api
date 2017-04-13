@@ -46,7 +46,8 @@ var chunk4 = [
 
 var chunk5 = [
   [1, 2017],
-  [2, 2017]
+  [2, 2017],
+  [3, 2017]
 ];
 
 var dates = chunk5;
