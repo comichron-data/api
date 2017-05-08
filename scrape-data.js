@@ -47,13 +47,11 @@ var chunk4 = [
 var chunk5 = [
   [1, 2017],
   [2, 2017],
-  [3, 2017]
-];
-
-// var dates = chunk5;
-var dates = [
+  [3, 2017],
   [4, 2017]
 ];
+
+var dates = chunk5;
 
 ingestData(expandDates(dates));
 
