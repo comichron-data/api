@@ -1,6 +1,6 @@
 ## Routes
 
-Prepend `http://comichron-data.github.io` to all routes shown below to form the full url.
+Prepend `https://comichron-data.github.io` to all routes shown below to form the full url.
 
 ### `/api/titles.json`
 
