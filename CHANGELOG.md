@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.8.0] - 2017-05-08
+
+### Added
+
+- April 2017 data
+
 ## [2.7.0] - 2017-04-12
 
 ### Added
