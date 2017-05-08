@@ -4,7 +4,7 @@ JSON api for monthly sales data from comichron.com
 
 ## Routes
 
-See [urls.md]
+See [urls.md](https://github.com/comichron-data/api/blob/master/urls.md).
 
 ## Versioning
 
