@@ -1,5 +1,14 @@
 ## Routes
 
+### Table of Contents
+
+- [List of comics in the api](#apititlesjson)
+- [Comic's sales by issue](#apititlesidby-issuejson)
+- [Comic's sale by month](#apititlesidby-monthjson)
+- [Source data](#apisource-datayear-monthjson)
+
+### Base url
+
 Prepend `https://comichron-data.github.io` to all routes shown below to form the full url.
 
 ### `/api/titles.json`
