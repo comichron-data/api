@@ -8,7 +8,7 @@ See [urls.md](https://github.com/comichron-data/api/blob/master/urls.md).
 
 ## Versioning
 
-The version number of this api is in [`package.json`](https://github.com/comichron-data/api/blob/master/package.json).
+The version number of this api is in [`package.json`](https://github.com/comichron-data/api/blob/master/package.json#L3).
 
 This project follows Semver
 
