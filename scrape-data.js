@@ -52,10 +52,12 @@ var chunk5 = [
   [5, 2017],
   [6, 2017],
   [7, 2017]
-  [8, 2017]
+  [8, 2017],
+  [9, 2017]
 ];
 
 var dates = [
+  [9, 2017]
 ];
 
 ingestData(expandDates(dates));
