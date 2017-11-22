@@ -24,14 +24,18 @@ It was compiled by the fine folks at http://www.comichron.com/.
 
 ### 2. How good is this data?
 
-Good but not great.
+It's okay but it has a lot of caveats.
 
+These numbers are estimates of issues sold to comic shops in North America. That means
+
+- Digital sales are not included
+- Sales outside of North America are not included
+- Sales in book stores and at conventions are not included
+- Trade paperback sales are not accounted for
 - If a comic didn't sell enough to make the top ~300 for a given month, there is no data for it. So it looks like zero when it could have been a couple thousand.
 - Issues that come out early in the month will have better by-month numbers than issues coming out later in the month.
-- The numbers do not include digital sales.
-- The numbers do not include sales outside of North America.
 
-More discussion [here](http://www.comichron.com/faq.html).
+For more discussion listen to [Off Panel podcast episode 124](http://sktchd.com/podcast/off-panel-124-no-surrender-with-jim-zub/) and read the [Comichron FAQ](http://www.comichron.com/faq/directmarketsalesdata.html).
 
 ### 3. What about comics that reuse issue numbers?
 
