@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 201-01-30
+
+Note: I no longer cut a new version for data updates.
+
 ## [2.14.0] - 2017-11-21
 
 ### Added
