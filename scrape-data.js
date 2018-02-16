@@ -45,7 +45,8 @@ var chunk4 = [
 ];
 
 var chunk5 = [
-  [2017]
+  [2017],
+  [1, 2018]
 ];
 
 var dates = [
@@ -86,8 +87,8 @@ function xrayStream(month, year) {
     title:     'td:nth-of-type(3) a',
     issue:     'td:nth-of-type(4)',
     price:     'td:nth-of-type(5)',
-    publisher: 'td:nth-of-type(6)',
-    count:     'td:nth-of-type(7) strong'
+    publisher: 'td:nth-of-type(7)',
+    count:     'td:nth-of-type(8) strong'
   }]).stream();
 }
 
